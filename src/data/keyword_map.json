@@ -1,0 +1,2082 @@
+[
+  {
+    "slug": "resenas-accesorios-auto",
+    "pillar": "resenas-accesorios-auto",
+    "isPillar": true,
+    "isTransactional": true,
+    "primaryKeyword": "reseñas de accesorios y herramientas para auto",
+    "path": "/resenas-accesorios-auto/"
+  },
+  {
+    "slug": "comparativas",
+    "pillar": "comparativas",
+    "isPillar": true,
+    "isTransactional": true,
+    "primaryKeyword": "comparativa arrancadores infladores y dash cams",
+    "path": "/comparativas/"
+  },
+  {
+    "slug": "mejores-accesorios-auto",
+    "pillar": "mejores-accesorios-auto",
+    "isPillar": true,
+    "isTransactional": true,
+    "primaryKeyword": "mejores accesorios para auto en amazon",
+    "path": "/mejores-accesorios-auto/"
+  },
+  {
+    "slug": "arrancadores-y-bateria-12v",
+    "pillar": "arrancadores-y-bateria-12v",
+    "isPillar": true,
+    "isTransactional": false,
+    "primaryKeyword": "cómo usar un arrancador de batería portátil 12v",
+    "path": "/arrancadores-y-bateria-12v/"
+  },
+  {
+    "slug": "infladores-y-neumaticos",
+    "pillar": "infladores-y-neumaticos",
+    "isPillar": true,
+    "isTransactional": false,
+    "primaryKeyword": "cómo inflar neumáticos con compresor portátil",
+    "path": "/infladores-y-neumaticos/"
+  },
+  {
+    "slug": "camaras-dash-cam-y-seguridad",
+    "pillar": "camaras-dash-cam-y-seguridad",
+    "isPillar": true,
+    "isTransactional": false,
+    "primaryKeyword": "cómo elegir e instalar una cámara dash cam",
+    "path": "/camaras-dash-cam-y-seguridad/"
+  },
+  {
+    "slug": "diagnostico-obd2-y-codigos",
+    "pillar": "diagnostico-obd2-y-codigos",
+    "isPillar": true,
+    "isTransactional": false,
+    "primaryKeyword": "cómo leer códigos obd2 y borrar check engine",
+    "path": "/diagnostico-obd2-y-codigos/"
+  },
+  {
+    "slug": "herramientas-y-mantenimiento-garaje",
+    "pillar": "herramientas-y-mantenimiento-garaje",
+    "isPillar": true,
+    "isTransactional": false,
+    "primaryKeyword": "herramientas básicas de mantenimiento para auto",
+    "path": "/herramientas-y-mantenimiento-garaje/"
+  },
+  {
+    "slug": "emergencias-en-carretera-y-viajes",
+    "pillar": "emergencias-en-carretera-y-viajes",
+    "isPillar": true,
+    "isTransactional": false,
+    "primaryKeyword": "kit de emergencia para auto en carretera",
+    "path": "/emergencias-en-carretera-y-viajes/"
+  },
+  {
+    "slug": "cuidado-interior-y-organizacion",
+    "pillar": "cuidado-interior-y-organizacion",
+    "isPillar": true,
+    "isTransactional": false,
+    "primaryKeyword": "cómo limpiar y organizar el interior del auto",
+    "path": "/cuidado-interior-y-organizacion/"
+  },
+  {
+    "slug": "noco-boost-plus-gb40-1000a",
+    "pillar": "resenas-accesorios-auto",
+    "isPillar": false,
+    "isTransactional": true,
+    "primaryKeyword": "noco boost plus gb40 reseña opiniones",
+    "path": "/resenas-accesorios-auto/noco-boost-plus-gb40-1000a/"
+  },
+  {
+    "slug": "noco-boost-hd-gb70-2000a",
+    "pillar": "resenas-accesorios-auto",
+    "isPillar": false,
+    "isTransactional": true,
+    "primaryKeyword": "noco boost hd gb70 2000a reseña",
+    "path": "/resenas-accesorios-auto/noco-boost-hd-gb70-2000a/"
+  },
+  {
+    "slug": "noco-boost-x-gbx45-1250a",
+    "pillar": "resenas-accesorios-auto",
+    "isPillar": false,
+    "isTransactional": true,
+    "primaryKeyword": "noco boost x gbx45 1250a reseña",
+    "path": "/resenas-accesorios-auto/noco-boost-x-gbx45-1250a/"
+  },
+  {
+    "slug": "gooloo-gp4000-arrancador-4000a",
+    "pillar": "resenas-accesorios-auto",
+    "isPillar": false,
+    "isTransactional": true,
+    "primaryKeyword": "gooloo gp4000 arrancador 4000a reseña",
+    "path": "/resenas-accesorios-auto/gooloo-gp4000-arrancador-4000a/"
+  },
+  {
+    "slug": "avapow-a68-6000a-arrancador",
+    "pillar": "resenas-accesorios-auto",
+    "isPillar": false,
+    "isTransactional": true,
+    "primaryKeyword": "avapow a68 6000a arrancador reseña",
+    "path": "/resenas-accesorios-auto/avapow-a68-6000a-arrancador/"
+  },
+  {
+    "slug": "dewalt-dxaej14-estacion-arrancador-compresor",
+    "pillar": "resenas-accesorios-auto",
+    "isPillar": false,
+    "isTransactional": true,
+    "primaryKeyword": "dewalt dxaej14 arrancador con compresor reseña",
+    "path": "/resenas-accesorios-auto/dewalt-dxaej14-estacion-arrancador-compresor/"
+  },
+  {
+    "slug": "fanttik-x8-apex-inflador-portatil",
+    "pillar": "resenas-accesorios-auto",
+    "isPillar": false,
+    "isTransactional": true,
+    "primaryKeyword": "fanttik x8 apex inflador portatil reseña",
+    "path": "/resenas-accesorios-auto/fanttik-x8-apex-inflador-portatil/"
+  },
+  {
+    "slug": "viair-88p-compresor-12v-heavy-duty",
+    "pillar": "resenas-accesorios-auto",
+    "isPillar": false,
+    "isTransactional": true,
+    "primaryKeyword": "viair 88p compresor portatil 12v reseña",
+    "path": "/resenas-accesorios-auto/viair-88p-compresor-12v-heavy-duty/"
+  },
+  {
+    "slug": "astroai-inflador-portatil-150-psi",
+    "pillar": "resenas-accesorios-auto",
+    "isPillar": false,
+    "isTransactional": true,
+    "primaryKeyword": "astroai inflador de neumaticos portatil reseña",
+    "path": "/resenas-accesorios-auto/astroai-inflador-portatil-150-psi/"
+  },
+  {
+    "slug": "xiaomi-portable-electric-air-compressor-2",
+    "pillar": "resenas-accesorios-auto",
+    "isPillar": false,
+    "isTransactional": true,
+    "primaryKeyword": "xiaomi portable electric air compressor 2 reseña",
+    "path": "/resenas-accesorios-auto/xiaomi-portable-electric-air-compressor-2/"
+  },
+  {
+    "slug": "kensun-inflador-ac-dc-110v-12v",
+    "pillar": "resenas-accesorios-auto",
+    "isPillar": false,
+    "isTransactional": true,
+    "primaryKeyword": "kensun ac dc compresor de aire portatil reseña",
+    "path": "/resenas-accesorios-auto/kensun-inflador-ac-dc-110v-12v/"
+  },
+  {
+    "slug": "viofo-a229-plus-dash-cam-starvis-2",
+    "pillar": "resenas-accesorios-auto",
+    "isPillar": false,
+    "isTransactional": true,
+    "primaryKeyword": "viofo a229 plus dash cam reseña",
+    "path": "/resenas-accesorios-auto/viofo-a229-plus-dash-cam-starvis-2/"
+  },
+  {
+    "slug": "viofo-a119-mini-2-dash-cam",
+    "pillar": "resenas-accesorios-auto",
+    "isPillar": false,
+    "isTransactional": true,
+    "primaryKeyword": "viofo a119 mini 2 reseña opiniones",
+    "path": "/resenas-accesorios-auto/viofo-a119-mini-2-dash-cam/"
+  },
+  {
+    "slug": "redtiger-f7np-4k-dash-cam",
+    "pillar": "resenas-accesorios-auto",
+    "isPillar": false,
+    "isTransactional": true,
+    "primaryKeyword": "redtiger f7np 4k dash cam reseña",
+    "path": "/resenas-accesorios-auto/redtiger-f7np-4k-dash-cam/"
+  },
+  {
+    "slug": "vantrue-n4-pro-3-canales-4k",
+    "pillar": "resenas-accesorios-auto",
+    "isPillar": false,
+    "isTransactional": true,
+    "primaryKeyword": "vantrue n4 pro 3 canales 4k reseña",
+    "path": "/resenas-accesorios-auto/vantrue-n4-pro-3-canales-4k/"
+  },
+  {
+    "slug": "garmin-dash-cam-mini-2-compacta",
+    "pillar": "resenas-accesorios-auto",
+    "isPillar": false,
+    "isTransactional": true,
+    "primaryKeyword": "garmin dash cam mini 2 reseña",
+    "path": "/resenas-accesorios-auto/garmin-dash-cam-mini-2-compacta/"
+  },
+  {
+    "slug": "70mai-a810-4k-hdr-starvis-2",
+    "pillar": "resenas-accesorios-auto",
+    "isPillar": false,
+    "isTransactional": true,
+    "primaryKeyword": "70mai a810 4k dash cam reseña",
+    "path": "/resenas-accesorios-auto/70mai-a810-4k-hdr-starvis-2/"
+  },
+  {
+    "slug": "bluedriver-bluetooth-pro-obd2",
+    "pillar": "resenas-accesorios-auto",
+    "isPillar": false,
+    "isTransactional": true,
+    "primaryKeyword": "bluedriver bluetooth pro obd2 reseña",
+    "path": "/resenas-accesorios-auto/bluedriver-bluetooth-pro-obd2/"
+  },
+  {
+    "slug": "ancel-ad310-escaner-obd2",
+    "pillar": "resenas-accesorios-auto",
+    "isPillar": false,
+    "isTransactional": true,
+    "primaryKeyword": "ancel ad310 escaner obd2 reseña",
+    "path": "/resenas-accesorios-auto/ancel-ad310-escaner-obd2/"
+  },
+  {
+    "slug": "noco-genius5-cargador-mantenedor-bateria",
+    "pillar": "resenas-accesorios-auto",
+    "isPillar": false,
+    "isTransactional": true,
+    "primaryKeyword": "noco genius5 cargador mantenedor bateria reseña",
+    "path": "/resenas-accesorios-auto/noco-genius5-cargador-mantenedor-bateria/"
+  },
+  {
+    "slug": "noco-gb40-vs-noco-gbx45",
+    "pillar": "comparativas",
+    "isPillar": false,
+    "isTransactional": true,
+    "primaryKeyword": "noco gb40 vs noco gbx45",
+    "path": "/comparativas/noco-gb40-vs-noco-gbx45/"
+  },
+  {
+    "slug": "noco-gb40-vs-gooloo-gp4000",
+    "pillar": "comparativas",
+    "isPillar": false,
+    "isTransactional": true,
+    "primaryKeyword": "noco gb40 vs gooloo gp4000",
+    "path": "/comparativas/noco-gb40-vs-gooloo-gp4000/"
+  },
+  {
+    "slug": "noco-gb70-vs-avapow-6000a",
+    "pillar": "comparativas",
+    "isPillar": false,
+    "isTransactional": true,
+    "primaryKeyword": "noco gb70 vs avapow 6000a",
+    "path": "/comparativas/noco-gb70-vs-avapow-6000a/"
+  },
+  {
+    "slug": "fanttik-x8-apex-vs-xiaomi-air-compressor-2",
+    "pillar": "comparativas",
+    "isPillar": false,
+    "isTransactional": true,
+    "primaryKeyword": "fanttik x8 apex vs xiaomi air compressor 2",
+    "path": "/comparativas/fanttik-x8-apex-vs-xiaomi-air-compressor-2/"
+  },
+  {
+    "slug": "astroai-12v-vs-viair-88p",
+    "pillar": "comparativas",
+    "isPillar": false,
+    "isTransactional": true,
+    "primaryKeyword": "astroai vs viair 88p compresor",
+    "path": "/comparativas/astroai-12v-vs-viair-88p/"
+  },
+  {
+    "slug": "viofo-a119-mini-2-vs-garmin-dash-cam-mini-2",
+    "pillar": "comparativas",
+    "isPillar": false,
+    "isTransactional": true,
+    "primaryKeyword": "viofo a119 mini 2 vs garmin dash cam mini 2",
+    "path": "/comparativas/viofo-a119-mini-2-vs-garmin-dash-cam-mini-2/"
+  },
+  {
+    "slug": "viofo-a229-plus-vs-vantrue-n4-pro",
+    "pillar": "comparativas",
+    "isPillar": false,
+    "isTransactional": true,
+    "primaryKeyword": "viofo a229 plus vs vantrue n4 pro",
+    "path": "/comparativas/viofo-a229-plus-vs-vantrue-n4-pro/"
+  },
+  {
+    "slug": "redtiger-f7np-vs-70mai-a810-4k",
+    "pillar": "comparativas",
+    "isPillar": false,
+    "isTransactional": true,
+    "primaryKeyword": "redtiger f7np vs 70mai a810",
+    "path": "/comparativas/redtiger-f7np-vs-70mai-a810-4k/"
+  },
+  {
+    "slug": "bluedriver-obd2-vs-ancel-ad310",
+    "pillar": "comparativas",
+    "isPillar": false,
+    "isTransactional": true,
+    "primaryKeyword": "bluedriver vs ancel ad310 obd2",
+    "path": "/comparativas/bluedriver-obd2-vs-ancel-ad310/"
+  },
+  {
+    "slug": "noco-genius5-vs-battery-tender-plus",
+    "pillar": "comparativas",
+    "isPillar": false,
+    "isTransactional": true,
+    "primaryKeyword": "noco genius5 vs battery tender plus",
+    "path": "/comparativas/noco-genius5-vs-battery-tender-plus/"
+  },
+  {
+    "slug": "arrancador-con-compresor-vs-separados",
+    "pillar": "comparativas",
+    "isPillar": false,
+    "isTransactional": true,
+    "primaryKeyword": "arrancador con compresor integrado vs separados",
+    "path": "/comparativas/arrancador-con-compresor-vs-separados/"
+  },
+  {
+    "slug": "inflador-inalambrico-bateria-vs-cable-12v",
+    "pillar": "comparativas",
+    "isPillar": false,
+    "isTransactional": true,
+    "primaryKeyword": "inflador inalambrico bateria vs cable 12v",
+    "path": "/comparativas/inflador-inalambrico-bateria-vs-cable-12v/"
+  },
+  {
+    "slug": "dash-cam-supercondensador-vs-bateria-litio",
+    "pillar": "comparativas",
+    "isPillar": false,
+    "isTransactional": true,
+    "primaryKeyword": "dash cam supercondensador vs bateria de litio",
+    "path": "/comparativas/dash-cam-supercondensador-vs-bateria-litio/"
+  },
+  {
+    "slug": "arrancador-motor-gasolina-vs-diesel",
+    "pillar": "comparativas",
+    "isPillar": false,
+    "isTransactional": true,
+    "primaryKeyword": "arrancador para motor gasolina vs diesel amperios",
+    "path": "/comparativas/arrancador-motor-gasolina-vs-diesel/"
+  },
+  {
+    "slug": "dash-cam-1-canal-vs-2-canales-vs-3-canales",
+    "pillar": "comparativas",
+    "isPillar": false,
+    "isTransactional": true,
+    "primaryKeyword": "dash cam 1 canal vs 2 canales vs 3 canales",
+    "path": "/comparativas/dash-cam-1-canal-vs-2-canales-vs-3-canales/"
+  },
+  {
+    "slug": "mejores-arrancadores-de-bateria-portatiles-amazon",
+    "pillar": "mejores-accesorios-auto",
+    "isPillar": false,
+    "isTransactional": true,
+    "primaryKeyword": "mejores arrancadores de bateria portatiles",
+    "path": "/mejores-accesorios-auto/mejores-arrancadores-de-bateria-portatiles-amazon/"
+  },
+  {
+    "slug": "mejores-infladores-de-neumaticos-portatiles-auto",
+    "pillar": "mejores-accesorios-auto",
+    "isPillar": false,
+    "isTransactional": true,
+    "primaryKeyword": "mejores infladores de neumaticos portatiles",
+    "path": "/mejores-accesorios-auto/mejores-infladores-de-neumaticos-portatiles-auto/"
+  },
+  {
+    "slug": "mejores-camaras-dash-cam-4k-frontal-y-trasera",
+    "pillar": "mejores-accesorios-auto",
+    "isPillar": false,
+    "isTransactional": true,
+    "primaryKeyword": "mejores camaras dash cam 4k frontal y trasera",
+    "path": "/mejores-accesorios-auto/mejores-camaras-dash-cam-4k-frontal-y-trasera/"
+  },
+  {
+    "slug": "mejores-escaneres-obd2-en-espanol-check-engine",
+    "pillar": "mejores-accesorios-auto",
+    "isPillar": false,
+    "isTransactional": true,
+    "primaryKeyword": "mejores escaneres obd2 en espanol",
+    "path": "/mejores-accesorios-auto/mejores-escaneres-obd2-en-espanol-check-engine/"
+  },
+  {
+    "slug": "mejores-arrancadores-para-pickup-y-motores-diesel",
+    "pillar": "mejores-accesorios-auto",
+    "isPillar": false,
+    "isTransactional": true,
+    "primaryKeyword": "mejores arrancadores de bateria para motores diesel y pickup",
+    "path": "/mejores-accesorios-auto/mejores-arrancadores-para-pickup-y-motores-diesel/"
+  },
+  {
+    "slug": "mejores-cargadores-y-mantenedores-de-bateria-12v",
+    "pillar": "mejores-accesorios-auto",
+    "isPillar": false,
+    "isTransactional": true,
+    "primaryKeyword": "mejores cargadores y mantenedores de bateria 12v",
+    "path": "/mejores-accesorios-auto/mejores-cargadores-y-mantenedores-de-bateria-12v/"
+  },
+  {
+    "slug": "mejores-aspiradoras-portatiles-para-auto-potentes",
+    "pillar": "mejores-accesorios-auto",
+    "isPillar": false,
+    "isTransactional": true,
+    "primaryKeyword": "mejores aspiradoras portatiles para auto",
+    "path": "/mejores-accesorios-auto/mejores-aspiradoras-portatiles-para-auto-potentes/"
+  },
+  {
+    "slug": "mejores-kits-de-emergencia-de-carretera-para-auto",
+    "pillar": "mejores-accesorios-auto",
+    "isPillar": false,
+    "isTransactional": true,
+    "primaryKeyword": "mejores kits de emergencia para auto",
+    "path": "/mejores-accesorios-auto/mejores-kits-de-emergencia-de-carretera-para-auto/"
+  },
+  {
+    "slug": "mejores-dash-cam-3-canales-para-uber-y-lyft",
+    "pillar": "mejores-accesorios-auto",
+    "isPillar": false,
+    "isTransactional": true,
+    "primaryKeyword": "mejores dash cam 3 canales para uber y lyft",
+    "path": "/mejores-accesorios-auto/mejores-dash-cam-3-canales-para-uber-y-lyft/"
+  },
+  {
+    "slug": "mejores-gatos-hidraulicos-y-llaves-para-cambiar-llantas",
+    "pillar": "mejores-accesorios-auto",
+    "isPillar": false,
+    "isTransactional": true,
+    "primaryKeyword": "mejores gatos hidraulicos para auto",
+    "path": "/mejores-accesorios-auto/mejores-gatos-hidraulicos-y-llaves-para-cambiar-llantas/"
+  },
+  {
+    "slug": "mejores-organizadores-de-maletero-para-auto-y-suv",
+    "pillar": "mejores-accesorios-auto",
+    "isPillar": false,
+    "isTransactional": true,
+    "primaryKeyword": "mejores organizadores de maletero para auto",
+    "path": "/mejores-accesorios-auto/mejores-organizadores-de-maletero-para-auto-y-suv/"
+  },
+  {
+    "slug": "mejores-soportes-magsafe-y-cargadores-usb-c-para-auto",
+    "pillar": "mejores-accesorios-auto",
+    "isPillar": false,
+    "isTransactional": true,
+    "primaryKeyword": "mejores soportes de celular y cargadores para auto",
+    "path": "/mejores-accesorios-auto/mejores-soportes-magsafe-y-cargadores-usb-c-para-auto/"
+  },
+  {
+    "slug": "mejores-probadores-digitales-de-bateria-y-alternador-12v",
+    "pillar": "mejores-accesorios-auto",
+    "isPillar": false,
+    "isTransactional": true,
+    "primaryKeyword": "mejores probadores de bateria de auto 12v",
+    "path": "/mejores-accesorios-auto/mejores-probadores-digitales-de-bateria-y-alternador-12v/"
+  },
+  {
+    "slug": "mejores-tarjetas-microsd-high-endurance-para-dash-cam",
+    "pillar": "mejores-accesorios-auto",
+    "isPillar": false,
+    "isTransactional": true,
+    "primaryKeyword": "mejores tarjetas microsd para dash cam",
+    "path": "/mejores-accesorios-auto/mejores-tarjetas-microsd-high-endurance-para-dash-cam/"
+  },
+  {
+    "slug": "mejores-kits-para-reparar-pinchazos-de-neumaticos-tubeless",
+    "pillar": "mejores-accesorios-auto",
+    "isPillar": false,
+    "isTransactional": true,
+    "primaryKeyword": "mejores kits de reparacion de pinchazos para auto",
+    "path": "/mejores-accesorios-auto/mejores-kits-para-reparar-pinchazos-de-neumaticos-tubeless/"
+  },
+  {
+    "slug": "diferencia-entre-amperios-pico-y-cca-arrancador",
+    "pillar": "arrancadores-y-bateria-12v",
+    "isPillar": false,
+    "isTransactional": false,
+    "primaryKeyword": "diferencia entre amperios pico y cca arrancador",
+    "path": "/arrancadores-y-bateria-12v/diferencia-entre-amperios-pico-y-cca-arrancador/"
+  },
+  {
+    "slug": "como-usar-boton-boost-manual-override-bateria-0v",
+    "pillar": "arrancadores-y-bateria-12v",
+    "isPillar": false,
+    "isTransactional": false,
+    "primaryKeyword": "como usar boton boost manual override arrancador",
+    "path": "/arrancadores-y-bateria-12v/como-usar-boton-boost-manual-override-bateria-0v/"
+  },
+  {
+    "slug": "orden-correcto-para-conectar-y-quitar-pinzas-arrancador",
+    "pillar": "arrancadores-y-bateria-12v",
+    "isPillar": false,
+    "isTransactional": false,
+    "primaryKeyword": "orden para conectar pinzas de arrancador de bateria",
+    "path": "/arrancadores-y-bateria-12v/orden-correcto-para-conectar-y-quitar-pinzas-arrancador/"
+  },
+  {
+    "slug": "cuantos-amperios-necesita-mi-auto-segun-cilindrada",
+    "pillar": "arrancadores-y-bateria-12v",
+    "isPillar": false,
+    "isTransactional": false,
+    "primaryKeyword": "cuantos amperios necesita un arrancador de auto",
+    "path": "/arrancadores-y-bateria-12v/cuantos-amperios-necesita-mi-auto-segun-cilindrada/"
+  },
+  {
+    "slug": "es-seguro-guardar-arrancador-litio-en-el-auto-en-verano",
+    "pillar": "arrancadores-y-bateria-12v",
+    "isPillar": false,
+    "isTransactional": false,
+    "primaryKeyword": "donde guardar arrancador de bateria en el auto",
+    "path": "/arrancadores-y-bateria-12v/es-seguro-guardar-arrancador-litio-en-el-auto-en-verano/"
+  },
+  {
+    "slug": "cada-cuanto-cargar-arrancador-de-bateria-portatil",
+    "pillar": "arrancadores-y-bateria-12v",
+    "isPillar": false,
+    "isTransactional": false,
+    "primaryKeyword": "cada cuanto cargar arrancador de bateria portatil",
+    "path": "/arrancadores-y-bateria-12v/cada-cuanto-cargar-arrancador-de-bateria-portatil/"
+  },
+  {
+    "slug": "que-pasa-si-conecto-las-pinzas-del-arrancador-al-reves",
+    "pillar": "arrancadores-y-bateria-12v",
+    "isPillar": false,
+    "isTransactional": false,
+    "primaryKeyword": "que pasa si conecto pinzas de arrancador al reves",
+    "path": "/arrancadores-y-bateria-12v/que-pasa-si-conecto-las-pinzas-del-arrancador-al-reves/"
+  },
+  {
+    "slug": "como-arrancar-un-auto-hibrido-con-arrancador-12v",
+    "pillar": "arrancadores-y-bateria-12v",
+    "isPillar": false,
+    "isTransactional": false,
+    "primaryKeyword": "como arrancar un auto hibrido con arrancador portatil",
+    "path": "/arrancadores-y-bateria-12v/como-arrancar-un-auto-hibrido-con-arrancador-12v/"
+  },
+  {
+    "slug": "bateria-agm-vs-efb-vs-plomo-acido-autos-start-stop",
+    "pillar": "arrancadores-y-bateria-12v",
+    "isPillar": false,
+    "isTransactional": false,
+    "primaryKeyword": "diferencia bateria agm vs efb vs plomo acido",
+    "path": "/arrancadores-y-bateria-12v/bateria-agm-vs-efb-vs-plomo-acido-autos-start-stop/"
+  },
+  {
+    "slug": "cual-es-el-voltaje-normal-de-una-bateria-de-auto-12v",
+    "pillar": "arrancadores-y-bateria-12v",
+    "isPillar": false,
+    "isTransactional": false,
+    "primaryKeyword": "voltaje normal de una bateria de auto 12v",
+    "path": "/arrancadores-y-bateria-12v/cual-es-el-voltaje-normal-de-una-bateria-de-auto-12v/"
+  },
+  {
+    "slug": "por-que-la-bateria-del-auto-se-descarga-de-la-noche-a-la-manana",
+    "pillar": "arrancadores-y-bateria-12v",
+    "isPillar": false,
+    "isTransactional": false,
+    "primaryKeyword": "por que se descarga la bateria del auto apagado",
+    "path": "/arrancadores-y-bateria-12v/por-que-la-bateria-del-auto-se-descarga-de-la-noche-a-la-manana/"
+  },
+  {
+    "slug": "como-saber-si-falla-la-bateria-o-el-alternador-del-auto",
+    "pillar": "arrancadores-y-bateria-12v",
+    "isPillar": false,
+    "isTransactional": false,
+    "primaryKeyword": "como saber si es la bateria o el alternador",
+    "path": "/arrancadores-y-bateria-12v/como-saber-si-falla-la-bateria-o-el-alternador-del-auto/"
+  },
+  {
+    "slug": "puedo-llevar-un-arrancador-de-bateria-de-auto-en-un-avion",
+    "pillar": "arrancadores-y-bateria-12v",
+    "isPillar": false,
+    "isTransactional": false,
+    "primaryKeyword": "se puede llevar arrancador de bateria en avion",
+    "path": "/arrancadores-y-bateria-12v/puedo-llevar-un-arrancador-de-bateria-de-auto-en-un-avion/"
+  },
+  {
+    "slug": "cuanto-dura-la-vida-util-de-una-bateria-de-auto",
+    "pillar": "arrancadores-y-bateria-12v",
+    "isPillar": false,
+    "isTransactional": false,
+    "primaryKeyword": "cuanto dura la bateria de un auto senales de fallo",
+    "path": "/arrancadores-y-bateria-12v/cuanto-dura-la-vida-util-de-una-bateria-de-auto/"
+  },
+  {
+    "slug": "como-funciona-el-desulfatador-de-baterias-por-pulsos",
+    "pillar": "arrancadores-y-bateria-12v",
+    "isPillar": false,
+    "isTransactional": false,
+    "primaryKeyword": "como funciona desulfatador de baterias de auto",
+    "path": "/arrancadores-y-bateria-12v/como-funciona-el-desulfatador-de-baterias-por-pulsos/"
+  },
+  {
+    "slug": "arrancador-de-litio-vs-arrancador-de-plomo-acido-tradicional",
+    "pillar": "arrancadores-y-bateria-12v",
+    "isPillar": false,
+    "isTransactional": false,
+    "primaryKeyword": "arrancador de litio vs plomo acido",
+    "path": "/arrancadores-y-bateria-12v/arrancador-de-litio-vs-arrancador-de-plomo-acido-tradicional/"
+  },
+  {
+    "slug": "arrancador-con-supercondensador-sin-bateria-como-funciona",
+    "pillar": "arrancadores-y-bateria-12v",
+    "isPillar": false,
+    "isTransactional": false,
+    "primaryKeyword": "arrancador de auto con supercondensador como funciona",
+    "path": "/arrancadores-y-bateria-12v/arrancador-con-supercondensador-sin-bateria-como-funciona/"
+  },
+  {
+    "slug": "por-que-mi-arrancador-portatil-hace-clic-y-no-arranca",
+    "pillar": "arrancadores-y-bateria-12v",
+    "isPillar": false,
+    "isTransactional": false,
+    "primaryKeyword": "por que mi arrancador portatil no arranca el auto",
+    "path": "/arrancadores-y-bateria-12v/por-que-mi-arrancador-portatil-hace-clic-y-no-arranca/"
+  },
+  {
+    "slug": "donde-conectar-la-pinza-negativa-chasis-o-borne",
+    "pillar": "arrancadores-y-bateria-12v",
+    "isPillar": false,
+    "isTransactional": false,
+    "primaryKeyword": "donde conectar pinza negativa del arrancador",
+    "path": "/arrancadores-y-bateria-12v/donde-conectar-la-pinza-negativa-chasis-o-borne/"
+  },
+  {
+    "slug": "como-cargar-bateria-de-auto-sin-desconectarla",
+    "pillar": "arrancadores-y-bateria-12v",
+    "isPillar": false,
+    "isTransactional": false,
+    "primaryKeyword": "cargar bateria de auto sin desconectarla",
+    "path": "/arrancadores-y-bateria-12v/como-cargar-bateria-de-auto-sin-desconectarla/"
+  },
+  {
+    "slug": "que-significan-los-numeros-de-grupo-bci-bateria-24f-35-48",
+    "pillar": "arrancadores-y-bateria-12v",
+    "isPillar": false,
+    "isTransactional": false,
+    "primaryKeyword": "tamanos de bateria de auto grupo bci 35 24f 48",
+    "path": "/arrancadores-y-bateria-12v/que-significan-los-numeros-de-grupo-bci-bateria-24f-35-48/"
+  },
+  {
+    "slug": "por-que-el-frio-del-invierno-descarga-la-bateria-del-auto",
+    "pillar": "arrancadores-y-bateria-12v",
+    "isPillar": false,
+    "isTransactional": false,
+    "primaryKeyword": "por que el frio descarga la bateria del auto",
+    "path": "/arrancadores-y-bateria-12v/por-que-el-frio-del-invierno-descarga-la-bateria-del-auto/"
+  },
+  {
+    "slug": "por-que-el-calor-extremo-acorta-la-vida-de-la-bateria",
+    "pillar": "arrancadores-y-bateria-12v",
+    "isPillar": false,
+    "isTransactional": false,
+    "primaryKeyword": "como afecta el calor a la bateria del auto",
+    "path": "/arrancadores-y-bateria-12v/por-que-el-calor-extremo-acorta-la-vida-de-la-bateria/"
+  },
+  {
+    "slug": "como-usar-arrancador-portatil-como-powerbank-usb-c",
+    "pillar": "arrancadores-y-bateria-12v",
+    "isPillar": false,
+    "isTransactional": false,
+    "primaryKeyword": "usar arrancador de auto como powerbank usb",
+    "path": "/arrancadores-y-bateria-12v/como-usar-arrancador-portatil-como-powerbank-usb-c/"
+  },
+  {
+    "slug": "como-alimentar-un-inflador-12v-desde-un-arrancador-portatil",
+    "pillar": "arrancadores-y-bateria-12v",
+    "isPillar": false,
+    "isTransactional": false,
+    "primaryKeyword": "conectar inflador 12v a arrancador portatil",
+    "path": "/arrancadores-y-bateria-12v/como-alimentar-un-inflador-12v-desde-un-arrancador-portatil/"
+  },
+  {
+    "slug": "que-es-el-sistema-bms-en-un-arrancador-de-litio",
+    "pillar": "arrancadores-y-bateria-12v",
+    "isPillar": false,
+    "isTransactional": false,
+    "primaryKeyword": "que es bms en arrancador de bateria de litio",
+    "path": "/arrancadores-y-bateria-12v/que-es-el-sistema-bms-en-un-arrancador-de-litio/"
+  },
+  {
+    "slug": "diferencia-entre-arrancador-portatil-y-cables-pasa-corriente",
+    "pillar": "arrancadores-y-bateria-12v",
+    "isPillar": false,
+    "isTransactional": false,
+    "primaryKeyword": "arrancador portatil vs cables pasa corriente",
+    "path": "/arrancadores-y-bateria-12v/diferencia-entre-arrancador-portatil-y-cables-pasa-corriente/"
+  },
+  {
+    "slug": "que-calibre-awg-deben-tener-los-cables-de-las-pinzas",
+    "pillar": "arrancadores-y-bateria-12v",
+    "isPillar": false,
+    "isTransactional": false,
+    "primaryKeyword": "calibre awg cables de pinzas arrancador",
+    "path": "/arrancadores-y-bateria-12v/que-calibre-awg-deben-tener-los-cables-de-las-pinzas/"
+  },
+  {
+    "slug": "como-mantener-la-bateria-si-trabajas-desde-casa-y-usas-poco-el-auto",
+    "pillar": "arrancadores-y-bateria-12v",
+    "isPillar": false,
+    "isTransactional": false,
+    "primaryKeyword": "como mantener bateria si usas poco el auto",
+    "path": "/arrancadores-y-bateria-12v/como-mantener-la-bateria-si-trabajas-desde-casa-y-usas-poco-el-auto/"
+  },
+  {
+    "slug": "como-desechar-o-reciclar-una-bateria-de-auto-o-arrancador",
+    "pillar": "arrancadores-y-bateria-12v",
+    "isPillar": false,
+    "isTransactional": false,
+    "primaryKeyword": "donde reciclar bateria de auto vieja",
+    "path": "/arrancadores-y-bateria-12v/como-desechar-o-reciclar-una-bateria-de-auto-o-arrancador/"
+  },
+  {
+    "slug": "donde-ver-la-presion-psi-correcta-de-las-llantas-del-auto",
+    "pillar": "infladores-y-neumaticos",
+    "isPillar": false,
+    "isTransactional": false,
+    "primaryKeyword": "donde ver la presion psi correcta de mi auto",
+    "path": "/infladores-y-neumaticos/donde-ver-la-presion-psi-correcta-de-las-llantas-del-auto/"
+  },
+  {
+    "slug": "diferencia-entre-psi-de-la-puerta-y-max-press-del-neumatico",
+    "pillar": "infladores-y-neumaticos",
+    "isPillar": false,
+    "isTransactional": false,
+    "primaryKeyword": "diferencia psi puerta del auto y maximo del neumatico",
+    "path": "/infladores-y-neumaticos/diferencia-entre-psi-de-la-puerta-y-max-press-del-neumatico/"
+  },
+  {
+    "slug": "inflar-neumaticos-en-frio-vs-en-caliente-cuantos-psi-subir",
+    "pillar": "infladores-y-neumaticos",
+    "isPillar": false,
+    "isTransactional": false,
+    "primaryKeyword": "inflar neumaticos en frio o en caliente psi",
+    "path": "/infladores-y-neumaticos/inflar-neumaticos-en-frio-vs-en-caliente-cuantos-psi-subir/"
+  },
+  {
+    "slug": "cuantos-psi-pierden-las-llantas-en-invierno-con-el-frio",
+    "pillar": "infladores-y-neumaticos",
+    "isPillar": false,
+    "isTransactional": false,
+    "primaryKeyword": "cuantos psi bajan las llantas con el frio",
+    "path": "/infladores-y-neumaticos/cuantos-psi-pierden-las-llantas-en-invierno-con-el-frio/"
+  },
+  {
+    "slug": "como-apagar-luz-tpms-presion-de-neumaticos-en-el-tablero",
+    "pillar": "infladores-y-neumaticos",
+    "isPillar": false,
+    "isTransactional": false,
+    "primaryKeyword": "como apagar luz tpms presion de neumaticos",
+    "path": "/infladores-y-neumaticos/como-apagar-luz-tpms-presion-de-neumaticos-en-el-tablero/"
+  },
+  {
+    "slug": "que-es-el-ciclo-de-trabajo-duty-cycle-de-un-compresor-portatil",
+    "pillar": "infladores-y-neumaticos",
+    "isPillar": false,
+    "isTransactional": false,
+    "primaryKeyword": "que es ciclo de trabajo duty cycle compresor portatil",
+    "path": "/infladores-y-neumaticos/que-es-el-ciclo-de-trabajo-duty-cycle-de-un-compresor-portatil/"
+  },
+  {
+    "slug": "por-que-mi-inflador-12v-quema-el-fusible-del-encendedor",
+    "pillar": "infladores-y-neumaticos",
+    "isPillar": false,
+    "isTransactional": false,
+    "primaryKeyword": "por que el inflador quema el fusible del encendedor 12v",
+    "path": "/infladores-y-neumaticos/por-que-mi-inflador-12v-quema-el-fusible-del-encendedor/"
+  },
+  {
+    "slug": "diferencia-entre-psi-bar-y-kpa-tabla-de-equivalencias",
+    "pillar": "infladores-y-neumaticos",
+    "isPillar": false,
+    "isTransactional": false,
+    "primaryKeyword": "tabla de equivalencias psi a bar neumaticos",
+    "path": "/infladores-y-neumaticos/diferencia-entre-psi-bar-y-kpa-tabla-de-equivalencias/"
+  },
+  {
+    "slug": "cabezal-de-rosca-vs-acople-rapido-de-palanca-en-infladores",
+    "pillar": "infladores-y-neumaticos",
+    "isPillar": false,
+    "isTransactional": false,
+    "primaryKeyword": "boquilla de rosca vs acople rapido inflador neumaticos",
+    "path": "/infladores-y-neumaticos/cabezal-de-rosca-vs-acople-rapido-de-palanca-en-infladores/"
+  },
+  {
+    "slug": "cuantos-litros-por-minuto-lpm-o-cfm-necesita-un-suv-o-pickup",
+    "pillar": "infladores-y-neumaticos",
+    "isPillar": false,
+    "isTransactional": false,
+    "primaryKeyword": "cuantos litros por minuto necesita un inflador para suv",
+    "path": "/infladores-y-neumaticos/cuantos-litros-por-minuto-lpm-o-cfm-necesita-un-suv-o-pickup/"
+  },
+  {
+    "slug": "como-reparar-un-pinchazo-con-mecha-tarugo-sin-desmontar-la-rueda",
+    "pillar": "infladores-y-neumaticos",
+    "isPillar": false,
+    "isTransactional": false,
+    "primaryKeyword": "como reparar un pinchazo de llanta con mecha",
+    "path": "/infladores-y-neumaticos/como-reparar-un-pinchazo-con-mecha-tarugo-sin-desmontar-la-rueda/"
+  },
+  {
+    "slug": "cuando-NO-se-puede-reparar-un-neumatico-pinchado-flanco",
+    "pillar": "infladores-y-neumaticos",
+    "isPillar": false,
+    "isTransactional": false,
+    "primaryKeyword": "cuando no se puede reparar una llanta pinchada",
+    "path": "/infladores-y-neumaticos/cuando-NO-se-puede-reparar-un-neumatico-pinchado-flanco/"
+  },
+  {
+    "slug": "olvidamos-inflar-la-llanta-de-repuesto-60-psi-dona",
+    "pillar": "infladores-y-neumaticos",
+    "isPillar": false,
+    "isTransactional": false,
+    "primaryKeyword": "cuantos psi lleva la llanta de repuesto tipo dona",
+    "path": "/infladores-y-neumaticos/olvidamos-inflar-la-llanta-de-repuesto-60-psi-dona/"
+  },
+  {
+    "slug": "que-pasa-si-conduces-con-presion-baja-en-las-llantas",
+    "pillar": "infladores-y-neumaticos",
+    "isPillar": false,
+    "isTransactional": false,
+    "primaryKeyword": "que pasa si conduzco con llantas bajas de aire",
+    "path": "/infladores-y-neumaticos/que-pasa-si-conduces-con-presion-baja-en-las-llantas/"
+  },
+  {
+    "slug": "debo-subir-los-psi-cuando-el-auto-va-lleno-de-equipaje",
+    "pillar": "infladores-y-neumaticos",
+    "isPillar": false,
+    "isTransactional": false,
+    "primaryKeyword": "subir presion de llantas con auto cargado viaje",
+    "path": "/infladores-y-neumaticos/debo-subir-los-psi-cuando-el-auto-va-lleno-de-equipaje/"
+  },
+  {
+    "slug": "como-desinflar-y-volver-a-inflar-llantas-para-conducir-en-arena-o-nieve",
+    "pillar": "infladores-y-neumaticos",
+    "isPillar": false,
+    "isTransactional": false,
+    "primaryKeyword": "bajar presion de llantas para arena o nieve",
+    "path": "/infladores-y-neumaticos/como-desinflar-y-volver-a-inflar-llantas-para-conducir-en-arena-o-nieve/"
+  },
+  {
+    "slug": "son-precisos-los-manometros-digitales-de-los-infladores-portatiles",
+    "pillar": "infladores-y-neumaticos",
+    "isPillar": false,
+    "isTransactional": false,
+    "primaryKeyword": "precision manometro digital inflador portatil",
+    "path": "/infladores-y-neumaticos/son-precisos-los-manometros-digitales-de-los-infladores-portatiles/"
+  },
+  {
+    "slug": "por-que-es-peligroso-el-liquido-sellador-en-spray-para-sensores-tpms",
+    "pillar": "infladores-y-neumaticos",
+    "isPillar": false,
+    "isTransactional": false,
+    "primaryKeyword": "sellador de llantas en spray dana sensor tpms",
+    "path": "/infladores-y-neumaticos/por-que-es-peligroso-el-liquido-sellador-en-spray-para-sensores-tpms/"
+  },
+  {
+    "slug": "como-medir-la-profundidad-del-dibujo-del-neumatico-prueba-del-centavo",
+    "pillar": "infladores-y-neumaticos",
+    "isPillar": false,
+    "isTransactional": false,
+    "primaryKeyword": "como medir desgaste de llantas profundidad dibujo",
+    "path": "/infladores-y-neumaticos/como-medir-la-profundidad-del-dibujo-del-neumatico-prueba-del-centavo/"
+  },
+  {
+    "slug": "para-que-sirven-los-tapones-de-valvula-y-por-que-no-usar-aluminio-barato",
+    "pillar": "infladores-y-neumaticos",
+    "isPillar": false,
+    "isTransactional": false,
+    "primaryKeyword": "tapones de valvula de aluminio se sueldan corrosion",
+    "path": "/infladores-y-neumaticos/para-que-sirven-los-tapones-de-valvula-y-por-que-no-usar-aluminio-barato/"
+  },
+  {
+    "slug": "como-inflar-ruedas-de-bicicleta-presta-y-schrader-con-tu-inflador-de-auto",
+    "pillar": "infladores-y-neumaticos",
+    "isPillar": false,
+    "isTransactional": false,
+    "primaryKeyword": "adaptador valvula presta a schrader inflador portatil",
+    "path": "/infladores-y-neumaticos/como-inflar-ruedas-de-bicicleta-presta-y-schrader-con-tu-inflador-de-auto/"
+  },
+  {
+    "slug": "cuanto-tarda-en-cargarse-por-usb-c-un-inflador-de-neumaticos-a-bateria",
+    "pillar": "infladores-y-neumaticos",
+    "isPillar": false,
+    "isTransactional": false,
+    "primaryKeyword": "cuanto dura la bateria de un inflador portatil",
+    "path": "/infladores-y-neumaticos/cuanto-tarda-en-cargarse-por-usb-c-un-inflador-de-neumaticos-a-bateria/"
+  },
+  {
+    "slug": "por-que-la-manguera-del-inflador-se-calienta-mucho-al-terminar",
+    "pillar": "infladores-y-neumaticos",
+    "isPillar": false,
+    "isTransactional": false,
+    "primaryKeyword": "por que se calienta la manguera del inflador portatil",
+    "path": "/infladores-y-neumaticos/por-que-la-manguera-del-inflador-se-calienta-mucho-al-terminar/"
+  },
+  {
+    "slug": "aire-normal-vs-nitrogeno-en-los-neumaticos-puedo-mezclarlos",
+    "pillar": "infladores-y-neumaticos",
+    "isPillar": false,
+    "isTransactional": false,
+    "primaryKeyword": "puedo echar aire normal a llantas con nitrogeno",
+    "path": "/infladores-y-neumaticos/aire-normal-vs-nitrogeno-en-los-neumaticos-puedo-mezclarlos/"
+  },
+  {
+    "slug": "cada-cuanto-tiempo-revisar-la-presion-de-las-llantas",
+    "pillar": "infladores-y-neumaticos",
+    "isPillar": false,
+    "isTransactional": false,
+    "primaryKeyword": "cada cuanto revisar la presion de las llantas",
+    "path": "/infladores-y-neumaticos/cada-cuanto-tiempo-revisar-la-presion-de-las-llantas/"
+  },
+  {
+    "slug": "que-significan-los-numeros-del-neumatico-225-65-r17-91v",
+    "pillar": "infladores-y-neumaticos",
+    "isPillar": false,
+    "isTransactional": false,
+    "primaryKeyword": "que significan los numeros de una llanta dot",
+    "path": "/infladores-y-neumaticos/que-significan-los-numeros-del-neumatico-225-65-r17-91v/"
+  },
+  {
+    "slug": "como-detectar-una-fuga-lenta-en-el-neumatico-o-nucleo-de-valvula",
+    "pillar": "infladores-y-neumaticos",
+    "isPillar": false,
+    "isTransactional": false,
+    "primaryKeyword": "como detectar fuga lenta de aire en llanta",
+    "path": "/infladores-y-neumaticos/como-detectar-una-fuga-lenta-en-el-neumatico-o-nucleo-de-valvula/"
+  },
+  {
+    "slug": "presion-de-neumaticos-para-remolques-trailers-y-caravanas-rv",
+    "pillar": "infladores-y-neumaticos",
+    "isPillar": false,
+    "isTransactional": false,
+    "primaryKeyword": "presion psi neumaticos de remolque y rv",
+    "path": "/infladores-y-neumaticos/presion-de-neumaticos-para-remolques-trailers-y-caravanas-rv/"
+  },
+  {
+    "slug": "por-que-vibra-el-volante-a-60-mph-despues-de-un-bache",
+    "pillar": "infladores-y-neumaticos",
+    "isPillar": false,
+    "isTransactional": false,
+    "primaryKeyword": "por que vibra el volante en autopista llantas",
+    "path": "/infladores-y-neumaticos/por-que-vibra-el-volante-a-60-mph-despues-de-un-bache/"
+  },
+  {
+    "slug": "como-guardar-el-inflador-portatil-en-el-auto-con-sus-adaptadores",
+    "pillar": "infladores-y-neumaticos",
+    "isPillar": false,
+    "isTransactional": false,
+    "primaryKeyword": "como guardar inflador portatil en el maletero",
+    "path": "/infladores-y-neumaticos/como-guardar-el-inflador-portatil-en-el-auto-con-sus-adaptadores/"
+  },
+  {
+    "slug": "como-ocultar-el-cable-de-la-dash-cam-por-el-pilar-a-y-airbag",
+    "pillar": "camaras-dash-cam-y-seguridad",
+    "isPillar": false,
+    "isTransactional": false,
+    "primaryKeyword": "como ocultar cable de dash cam pilar a airbag",
+    "path": "/camaras-dash-cam-y-seguridad/como-ocultar-el-cable-de-la-dash-cam-por-el-pilar-a-y-airbag/"
+  },
+  {
+    "slug": "como-instalar-hardwire-kit-dash-cam-en-la-caja-de-fusibles",
+    "pillar": "camaras-dash-cam-y-seguridad",
+    "isPillar": false,
+    "isTransactional": false,
+    "primaryKeyword": "como instalar hardwire kit dash cam caja de fusibles",
+    "path": "/camaras-dash-cam-y-seguridad/como-instalar-hardwire-kit-dash-cam-en-la-caja-de-fusibles/"
+  },
+  {
+    "slug": "a-que-voltaje-configurar-el-corte-del-hardwire-kit-12v-12-2v",
+    "pillar": "camaras-dash-cam-y-seguridad",
+    "isPillar": false,
+    "isTransactional": false,
+    "primaryKeyword": "configurar corte de voltaje hardwire kit dash cam",
+    "path": "/camaras-dash-cam-y-seguridad/a-que-voltaje-configurar-el-corte-del-hardwire-kit-12v-12-2v/"
+  },
+  {
+    "slug": "que-es-el-sensor-sony-starvis-2-en-una-dash-cam-y-por-que-importa",
+    "pillar": "camaras-dash-cam-y-seguridad",
+    "isPillar": false,
+    "isTransactional": false,
+    "primaryKeyword": "que es sensor sony starvis 2 dash cam",
+    "path": "/camaras-dash-cam-y-seguridad/que-es-el-sensor-sony-starvis-2-en-una-dash-cam-y-por-que-importa/"
+  },
+  {
+    "slug": "para-que-sirve-el-filtro-polarizador-cpl-en-una-dash-cam",
+    "pillar": "camaras-dash-cam-y-seguridad",
+    "isPillar": false,
+    "isTransactional": false,
+    "primaryKeyword": "filtro polarizador cpl dash cam reflejos parabrisas",
+    "path": "/camaras-dash-cam-y-seguridad/para-que-sirve-el-filtro-polarizador-cpl-en-una-dash-cam/"
+  },
+  {
+    "slug": "donde-colocar-la-dash-cam-en-el-parabrisas-sin-tapar-la-vista",
+    "pillar": "camaras-dash-cam-y-seguridad",
+    "isPillar": false,
+    "isTransactional": false,
+    "primaryKeyword": "donde colocar la dash cam en el parabrisas",
+    "path": "/camaras-dash-cam-y-seguridad/donde-colocar-la-dash-cam-en-el-parabrisas-sin-tapar-la-vista/"
+  },
+  {
+    "slug": "como-pegar-la-dash-cam-con-film-electrostatico-sin-manchar-el-vidrio",
+    "pillar": "camaras-dash-cam-y-seguridad",
+    "isPillar": false,
+    "isTransactional": false,
+    "primaryKeyword": "como usar lamina electrostatica dash cam adhesivo 3m",
+    "path": "/camaras-dash-cam-y-seguridad/como-pegar-la-dash-cam-con-film-electrostatico-sin-manchar-el-vidrio/"
+  },
+  {
+    "slug": "como-pasar-el-cable-de-la-camara-trasera-en-un-suv-o-hatchback",
+    "pillar": "camaras-dash-cam-y-seguridad",
+    "isPillar": false,
+    "isTransactional": false,
+    "primaryKeyword": "como instalar camara trasera de dash cam en suv",
+    "path": "/camaras-dash-cam-y-seguridad/como-pasar-el-cable-de-la-camara-trasera-en-un-suv-o-hatchback/"
+  },
+  {
+    "slug": "diferencia-entre-los-3-modos-de-parking-de-una-dash-cam",
+    "pillar": "camaras-dash-cam-y-seguridad",
+    "isPillar": false,
+    "isTransactional": false,
+    "primaryKeyword": "como funciona el modo parking de una dash cam",
+    "path": "/camaras-dash-cam-y-seguridad/diferencia-entre-los-3-modos-de-parking-de-una-dash-cam/"
+  },
+  {
+    "slug": "cada-cuanto-formatear-la-tarjeta-microsd-de-la-dash-cam",
+    "pillar": "camaras-dash-cam-y-seguridad",
+    "isPillar": false,
+    "isTransactional": false,
+    "primaryKeyword": "cada cuanto formatear microsd de dash cam",
+    "path": "/camaras-dash-cam-y-seguridad/cada-cuanto-formatear-la-tarjeta-microsd-de-la-dash-cam/"
+  },
+  {
+    "slug": "cuantas-horas-graba-una-tarjeta-microsd-de-128gb-y-256gb-en-4k",
+    "pillar": "camaras-dash-cam-y-seguridad",
+    "isPillar": false,
+    "isTransactional": false,
+    "primaryKeyword": "cuantas horas graba una dash cam en 128gb 256gb",
+    "path": "/camaras-dash-cam-y-seguridad/cuantas-horas-graba-una-tarjeta-microsd-de-128gb-y-256gb-en-4k/"
+  },
+  {
+    "slug": "como-configurar-la-sensibilidad-del-g-sensor-acelerometro",
+    "pillar": "camaras-dash-cam-y-seguridad",
+    "isPillar": false,
+    "isTransactional": false,
+    "primaryKeyword": "como configurar g sensor dash cam sensibilidad",
+    "path": "/camaras-dash-cam-y-seguridad/como-configurar-la-sensibilidad-del-g-sensor-acelerometro/"
+  },
+  {
+    "slug": "es-legal-llevar-una-dash-cam-en-estados-unidos-y-grabar-audio",
+    "pillar": "camaras-dash-cam-y-seguridad",
+    "isPillar": false,
+    "isTransactional": false,
+    "primaryKeyword": "es legal usar dash cam en estados unidos",
+    "path": "/camaras-dash-cam-y-seguridad/es-legal-llevar-una-dash-cam-en-estados-unidos-y-grabar-audio/"
+  },
+  {
+    "slug": "como-descargar-un-video-de-accidente-al-celular-por-wifi-5ghz",
+    "pillar": "camaras-dash-cam-y-seguridad",
+    "isPillar": false,
+    "isTransactional": false,
+    "primaryKeyword": "como pasar videos de dash cam al celular wifi",
+    "path": "/camaras-dash-cam-y-seguridad/como-descargar-un-video-de-accidente-al-celular-por-wifi-5ghz/"
+  },
+  {
+    "slug": "4k-real-8mp-vs-4k-interpolado-2k-60fps-en-dash-cams",
+    "pillar": "camaras-dash-cam-y-seguridad",
+    "isPillar": false,
+    "isTransactional": false,
+    "primaryKeyword": "dash cam 4k real vs 4k interpolado",
+    "path": "/camaras-dash-cam-y-seguridad/4k-real-8mp-vs-4k-interpolado-2k-60fps-en-dash-cams/"
+  },
+  {
+    "slug": "debo-activar-el-gps-y-la-velocidad-en-pantalla-en-mi-dash-cam",
+    "pillar": "camaras-dash-cam-y-seguridad",
+    "isPillar": false,
+    "isTransactional": false,
+    "primaryKeyword": "mostrar velocidad gps en video de dash cam",
+    "path": "/camaras-dash-cam-y-seguridad/debo-activar-el-gps-y-la-velocidad-en-pantalla-en-mi-dash-cam/"
+  },
+  {
+    "slug": "por-que-mi-dash-cam-se-reinicia-sola-o-dice-error-de-tarjeta",
+    "pillar": "camaras-dash-cam-y-seguridad",
+    "isPillar": false,
+    "isTransactional": false,
+    "primaryKeyword": "por que mi dash cam se apaga y prende sola",
+    "path": "/camaras-dash-cam-y-seguridad/por-que-mi-dash-cam-se-reinicia-sola-o-dice-error-de-tarjeta/"
+  },
+  {
+    "slug": "se-puede-instalar-la-camara-trasera-sobre-vidrios-polarizados-tintados",
+    "pillar": "camaras-dash-cam-y-seguridad",
+    "isPillar": false,
+    "isTransactional": false,
+    "primaryKeyword": "camara trasera dash cam en vidrios polarizados",
+    "path": "/camaras-dash-cam-y-seguridad/se-puede-instalar-la-camara-trasera-sobre-vidrios-polarizados-tintados/"
+  },
+  {
+    "slug": "que-es-un-adaptador-dongle-de-alimentacion-desde-el-espejo-retrovisor",
+    "pillar": "camaras-dash-cam-y-seguridad",
+    "isPillar": false,
+    "isTransactional": false,
+    "primaryKeyword": "alimentar dash cam desde espejo retrovisor",
+    "path": "/camaras-dash-cam-y-seguridad/que-es-un-adaptador-dongle-de-alimentacion-desde-el-espejo-retrovisor/"
+  },
+  {
+    "slug": "como-cuidar-las-lineas-del-desempanador-trasero-al-pegar-la-camara",
+    "pillar": "camaras-dash-cam-y-seguridad",
+    "isPillar": false,
+    "isTransactional": false,
+    "primaryKeyword": "pegar camara trasera sin danar desempanador",
+    "path": "/camaras-dash-cam-y-seguridad/como-cuidar-las-lineas-del-desempanador-trasero-al-pegar-la-camara/"
+  },
+  {
+    "slug": "bateria-externa-para-dash-cam-lifepo4-vale-la-pena",
+    "pillar": "camaras-dash-cam-y-seguridad",
+    "isPillar": false,
+    "isTransactional": false,
+    "primaryKeyword": "bateria externa para dash cam modo parking",
+    "path": "/camaras-dash-cam-y-seguridad/bateria-externa-para-dash-cam-lifepo4-vale-la-pena/"
+  },
+  {
+    "slug": "por-que-activar-el-hdr-automatico-con-temporizador-nocturno",
+    "pillar": "camaras-dash-cam-y-seguridad",
+    "isPillar": false,
+    "isTransactional": false,
+    "primaryKeyword": "configurar hdr automatico nocturno dash cam viofo",
+    "path": "/camaras-dash-cam-y-seguridad/por-que-activar-el-hdr-automatico-con-temporizador-nocturno/"
+  },
+  {
+    "slug": "angulo-de-vision-optimo-en-dash-cam-140-grados-vs-170-grados",
+    "pillar": "camaras-dash-cam-y-seguridad",
+    "isPillar": false,
+    "isTransactional": false,
+    "primaryKeyword": "mejor angulo de vision dash cam 140 vs 170",
+    "path": "/camaras-dash-cam-y-seguridad/angulo-de-vision-optimo-en-dash-cam-140-grados-vs-170-grados/"
+  },
+  {
+    "slug": "como-inclinar-la-lente-de-la-dash-cam-regla-60-40-cielo-carretera",
+    "pillar": "camaras-dash-cam-y-seguridad",
+    "isPillar": false,
+    "isTransactional": false,
+    "primaryKeyword": "como ajustar el angulo de la lente dash cam",
+    "path": "/camaras-dash-cam-y-seguridad/como-inclinar-la-lente-de-la-dash-cam-regla-60-40-cielo-carretera/"
+  },
+  {
+    "slug": "comandos-de-voz-mas-utiles-en-una-dash-cam-mientras-conduces",
+    "pillar": "camaras-dash-cam-y-seguridad",
+    "isPillar": false,
+    "isTransactional": false,
+    "primaryKeyword": "comandos de voz dash cam bloquear video",
+    "path": "/camaras-dash-cam-y-seguridad/comandos-de-voz-mas-utiles-en-una-dash-cam-mientras-conduces/"
+  },
+  {
+    "slug": "dash-cam-de-espejo-retrovisor-vs-dash-cam-compacta-de-parabrisas",
+    "pillar": "camaras-dash-cam-y-seguridad",
+    "isPillar": false,
+    "isTransactional": false,
+    "primaryKeyword": "dash cam espejo retrovisor vs normal",
+    "path": "/camaras-dash-cam-y-seguridad/dash-cam-de-espejo-retrovisor-vs-dash-cam-compacta-de-parabrisas/"
+  },
+  {
+    "slug": "como-evitar-interferencias-dab-radio-fm-o-keyless-con-el-cable-trasero",
+    "pillar": "camaras-dash-cam-y-seguridad",
+    "isPillar": false,
+    "isTransactional": false,
+    "primaryKeyword": "cable camara trasera interfiere con radio fm",
+    "path": "/camaras-dash-cam-y-seguridad/como-evitar-interferencias-dab-radio-fm-o-keyless-con-el-cable-trasero/"
+  },
+  {
+    "slug": "que-hacer-inmediatamente-despues-de-un-choque-para-no-perder-el-video",
+    "pillar": "camaras-dash-cam-y-seguridad",
+    "isPillar": false,
+    "isTransactional": false,
+    "primaryKeyword": "como guardar video de dash cam despues de un accidente",
+    "path": "/camaras-dash-cam-y-seguridad/que-hacer-inmediatamente-despues-de-un-choque-para-no-perder-el-video/"
+  },
+  {
+    "slug": "como-limpiar-la-lente-de-la-dash-cam-y-el-interior-del-parabrisas",
+    "pillar": "camaras-dash-cam-y-seguridad",
+    "isPillar": false,
+    "isTransactional": false,
+    "primaryKeyword": "por que mi dash cam se ve borrosa de noche",
+    "path": "/camaras-dash-cam-y-seguridad/como-limpiar-la-lente-de-la-dash-cam-y-el-interior-del-parabrisas/"
+  },
+  {
+    "slug": "como-reproducir-videos-de-dash-cam-con-mapa-gps-en-pc-o-mac",
+    "pillar": "camaras-dash-cam-y-seguridad",
+    "isPillar": false,
+    "isTransactional": false,
+    "primaryKeyword": "programa para ver videos de dash cam con gps",
+    "path": "/camaras-dash-cam-y-seguridad/como-reproducir-videos-de-dash-cam-con-mapa-gps-en-pc-o-mac/"
+  },
+  {
+    "slug": "donde-esta-el-puerto-obd2-en-mi-auto-y-como-conectarlo",
+    "pillar": "diagnostico-obd2-y-codigos",
+    "isPillar": false,
+    "isTransactional": false,
+    "primaryKeyword": "donde esta el puerto obd2 en mi auto",
+    "path": "/diagnostico-obd2-y-codigos/donde-esta-el-puerto-obd2-en-mi-auto-y-como-conectarlo/"
+  },
+  {
+    "slug": "diferencia-entre-luz-check-engine-fija-y-parpadeando",
+    "pillar": "diagnostico-obd2-y-codigos",
+    "isPillar": false,
+    "isTransactional": false,
+    "primaryKeyword": "luz check engine fija vs parpadeando que significa",
+    "path": "/diagnostico-obd2-y-codigos/diferencia-entre-luz-check-engine-fija-y-parpadeando/"
+  },
+  {
+    "slug": "que-significa-el-codigo-p0420-catalizador-debajo-del-umbral",
+    "pillar": "diagnostico-obd2-y-codigos",
+    "isPillar": false,
+    "isTransactional": false,
+    "primaryKeyword": "codigo obd2 p0420 que significa y como solucionarlo",
+    "path": "/diagnostico-obd2-y-codigos/que-significa-el-codigo-p0420-catalizador-debajo-del-umbral/"
+  },
+  {
+    "slug": "que-significa-el-codigo-p0300-p0301-fallo-de-encendido-cilindros",
+    "pillar": "diagnostico-obd2-y-codigos",
+    "isPillar": false,
+    "isTransactional": false,
+    "primaryKeyword": "codigo p0300 p0301 fallo de encendido cilindro",
+    "path": "/diagnostico-obd2-y-codigos/que-significa-el-codigo-p0300-p0301-fallo-de-encendido-cilindros/"
+  },
+  {
+    "slug": "que-significa-el-codigo-p0171-y-p0174-mezcla-pobre-de-combustible",
+    "pillar": "diagnostico-obd2-y-codigos",
+    "isPillar": false,
+    "isTransactional": false,
+    "primaryKeyword": "codigo obd2 p0171 mezcla pobre causas",
+    "path": "/diagnostico-obd2-y-codigos/que-significa-el-codigo-p0171-y-p0174-mezcla-pobre-de-combustible/"
+  },
+  {
+    "slug": "que-significa-el-codigo-p0455-p0456-fuga-evap-tapa-de-gasolina",
+    "pillar": "diagnostico-obd2-y-codigos",
+    "isPillar": false,
+    "isTransactional": false,
+    "primaryKeyword": "codigo p0455 p0456 tapa de gasolina evap",
+    "path": "/diagnostico-obd2-y-codigos/que-significa-el-codigo-p0455-p0456-fuga-evap-tapa-de-gasolina/"
+  },
+  {
+    "slug": "que-significa-el-codigo-p0128-termostato-refrigerante-frio",
+    "pillar": "diagnostico-obd2-y-codigos",
+    "isPillar": false,
+    "isTransactional": false,
+    "primaryKeyword": "codigo obd2 p0128 termostato refrigerante",
+    "path": "/diagnostico-obd2-y-codigos/que-significa-el-codigo-p0128-termostato-refrigerante-frio/"
+  },
+  {
+    "slug": "como-leer-la-estructura-de-un-codigo-obd2-p-b-c-u",
+    "pillar": "diagnostico-obd2-y-codigos",
+    "isPillar": false,
+    "isTransactional": false,
+    "primaryKeyword": "como entender los numeros de un codigo obd2",
+    "path": "/diagnostico-obd2-y-codigos/como-leer-la-estructura-de-un-codigo-obd2-p-b-c-u/"
+  },
+  {
+    "slug": "escaner-obd2-barato-vs-escaner-bidireccional-abs-airbag",
+    "pillar": "diagnostico-obd2-y-codigos",
+    "isPillar": false,
+    "isTransactional": false,
+    "primaryKeyword": "diferencia escaner obd2 basico vs abs airbag",
+    "path": "/diagnostico-obd2-y-codigos/escaner-obd2-barato-vs-escaner-bidireccional-abs-airbag/"
+  },
+  {
+    "slug": "que-son-los-monitores-im-readiness-para-pasar-la-inspeccion-smog-check",
+    "pillar": "diagnostico-obd2-y-codigos",
+    "isPillar": false,
+    "isTransactional": false,
+    "primaryKeyword": "que es im readiness obd2 inspeccion de emisiones",
+    "path": "/diagnostico-obd2-y-codigos/que-son-los-monitores-im-readiness-para-pasar-la-inspeccion-smog-check/"
+  },
+  {
+    "slug": "que-es-el-freeze-frame-datos-congelados-en-un-escaner-obd2",
+    "pillar": "diagnostico-obd2-y-codigos",
+    "isPillar": false,
+    "isTransactional": false,
+    "primaryKeyword": "que es freeze frame en escaner obd2",
+    "path": "/diagnostico-obd2-y-codigos/que-es-el-freeze-frame-datos-congelados-en-un-escaner-obd2/"
+  },
+  {
+    "slug": "como-interpretar-short-term-y-long-term-fuel-trim-stft-ltft",
+    "pillar": "diagnostico-obd2-y-codigos",
+    "isPillar": false,
+    "isTransactional": false,
+    "primaryKeyword": "como leer fuel trim stft y ltft obd2",
+    "path": "/diagnostico-obd2-y-codigos/como-interpretar-short-term-y-long-term-fuel-trim-stft-ltft/"
+  },
+  {
+    "slug": "puedo-dejar-el-escaner-obd2-bluetooth-conectado-todo-el-tiempo",
+    "pillar": "diagnostico-obd2-y-codigos",
+    "isPillar": false,
+    "isTransactional": false,
+    "primaryKeyword": "dejar escaner obd2 bluetooth conectado descarga bateria",
+    "path": "/diagnostico-obd2-y-codigos/puedo-dejar-el-escaner-obd2-bluetooth-conectado-todo-el-tiempo/"
+  },
+  {
+    "slug": "como-probar-el-alternador-y-la-caida-de-voltaje-de-arranque-por-obd2",
+    "pillar": "diagnostico-obd2-y-codigos",
+    "isPillar": false,
+    "isTransactional": false,
+    "primaryKeyword": "probar alternador y bateria con escaner obd2",
+    "path": "/diagnostico-obd2-y-codigos/como-probar-el-alternador-y-la-caida-de-voltaje-de-arranque-por-obd2/"
+  },
+  {
+    "slug": "que-significa-codigo-pendiente-pending-vs-confirmado-vs-permanente",
+    "pillar": "diagnostico-obd2-y-codigos",
+    "isPillar": false,
+    "isTransactional": false,
+    "primaryKeyword": "diferencia codigo obd2 pendiente vs permanente",
+    "path": "/diagnostico-obd2-y-codigos/que-significa-codigo-pendiente-pending-vs-confirmado-vs-permanente/"
+  },
+  {
+    "slug": "desconectar-la-bateria-para-borrar-check-engine-vs-usar-escaner-obd2",
+    "pillar": "diagnostico-obd2-y-codigos",
+    "isPillar": false,
+    "isTransactional": false,
+    "primaryKeyword": "desconectar bateria para borrar check engine es malo",
+    "path": "/diagnostico-obd2-y-codigos/desconectar-la-bateria-para-borrar-check-engine-vs-usar-escaner-obd2/"
+  },
+  {
+    "slug": "que-significa-el-codigo-p0401-flujo-insuficiente-valvula-egr",
+    "pillar": "diagnostico-obd2-y-codigos",
+    "isPillar": false,
+    "isTransactional": false,
+    "primaryKeyword": "codigo obd2 p0401 valvula egr flujo insuficiente",
+    "path": "/diagnostico-obd2-y-codigos/que-significa-el-codigo-p0401-flujo-insuficiente-valvula-egr/"
+  },
+  {
+    "slug": "que-significa-el-codigo-p0101-sensor-maf-flujo-de-masa-de-aire",
+    "pillar": "diagnostico-obd2-y-codigos",
+    "isPillar": false,
+    "isTransactional": false,
+    "primaryKeyword": "codigo p0101 como limpiar sensor maf",
+    "path": "/diagnostico-obd2-y-codigos/que-significa-el-codigo-p0101-sensor-maf-flujo-de-masa-de-aire/"
+  },
+  {
+    "slug": "que-significa-el-codigo-p0011-p0016-solenoide-vvt-y-nivel-de-aceite",
+    "pillar": "diagnostico-obd2-y-codigos",
+    "isPillar": false,
+    "isTransactional": false,
+    "primaryKeyword": "codigo p0011 solenoide vvt tiempo variable",
+    "path": "/diagnostico-obd2-y-codigos/que-significa-el-codigo-p0011-p0016-solenoide-vvt-y-nivel-de-aceite/"
+  },
+  {
+    "slug": "como-usar-un-escaner-obd2-antes-de-comprar-un-auto-usado",
+    "pillar": "diagnostico-obd2-y-codigos",
+    "isPillar": false,
+    "isTransactional": false,
+    "primaryKeyword": "como revisar un auto usado con escaner obd2",
+    "path": "/diagnostico-obd2-y-codigos/como-usar-un-escaner-obd2-antes-de-comprar-un-auto-usado/"
+  },
+  {
+    "slug": "que-es-el-modo-6-mode-06-en-diagnostico-obd2",
+    "pillar": "diagnostico-obd2-y-codigos",
+    "isPillar": false,
+    "isTransactional": false,
+    "primaryKeyword": "que es modo 6 mode 06 en escaner obd2",
+    "path": "/diagnostico-obd2-y-codigos/que-es-el-modo-6-mode-06-en-diagnostico-obd2/"
+  },
+  {
+    "slug": "por-que-mi-escaner-obd2-no-enciende-ni-conecta-con-el-auto",
+    "pillar": "diagnostico-obd2-y-codigos",
+    "isPillar": false,
+    "isTransactional": false,
+    "primaryKeyword": "por que mi escaner obd2 no enciende",
+    "path": "/diagnostico-obd2-y-codigos/por-que-mi-escaner-obd2-no-enciende-ni-conecta-con-el-auto/"
+  },
+  {
+    "slug": "como-leer-codigos-de-frenos-abs-y-control-de-traccion-sensor-rueda",
+    "pillar": "diagnostico-obd2-y-codigos",
+    "isPillar": false,
+    "isTransactional": false,
+    "primaryKeyword": "diagnosticar luz abs sensor de rueda con obd2",
+    "path": "/diagnostico-obd2-y-codigos/como-leer-codigos-de-frenos-abs-y-control-de-traccion-sensor-rueda/"
+  },
+  {
+    "slug": "que-significa-el-codigo-p0507-ralenti-alto-cuerpo-de-aceleracion",
+    "pillar": "diagnostico-obd2-y-codigos",
+    "isPillar": false,
+    "isTransactional": false,
+    "primaryKeyword": "codigo obd2 p0507 ralenti alto",
+    "path": "/diagnostico-obd2-y-codigos/que-significa-el-codigo-p0507-ralenti-alto-cuerpo-de-aceleracion/"
+  },
+  {
+    "slug": "que-significa-el-codigo-p0135-p0141-calentador-del-sensor-de-oxigeno",
+    "pillar": "diagnostico-obd2-y-codigos",
+    "isPillar": false,
+    "isTransactional": false,
+    "primaryKeyword": "codigo p0135 p0141 calentador sensor de oxigeno",
+    "path": "/diagnostico-obd2-y-codigos/que-significa-el-codigo-p0135-p0141-calentador-del-sensor-de-oxigeno/"
+  },
+  {
+    "slug": "que-significa-el-codigo-p0700-falla-en-sistema-de-control-de-transmision",
+    "pillar": "diagnostico-obd2-y-codigos",
+    "isPillar": false,
+    "isTransactional": false,
+    "primaryKeyword": "codigo obd2 p0700 transmision automatica",
+    "path": "/diagnostico-obd2-y-codigos/que-significa-el-codigo-p0700-falla-en-sistema-de-control-de-transmision/"
+  },
+  {
+    "slug": "como-medir-el-consumo-de-combustible-y-temperatura-de-transmision-por-obd2",
+    "pillar": "diagnostico-obd2-y-codigos",
+    "isPillar": false,
+    "isTransactional": false,
+    "primaryKeyword": "ver temperatura de transmision con escaner obd2",
+    "path": "/diagnostico-obd2-y-codigos/como-medir-el-consumo-de-combustible-y-temperatura-de-transmision-por-obd2/"
+  },
+  {
+    "slug": "escaner-obd2-elm327-clon-barato-vs-chip-original-problemas",
+    "pillar": "diagnostico-obd2-y-codigos",
+    "isPillar": false,
+    "isTransactional": false,
+    "primaryKeyword": "problemas adaptador elm327 barato obd2",
+    "path": "/diagnostico-obd2-y-codigos/escaner-obd2-elm327-clon-barato-vs-chip-original-problemas/"
+  },
+  {
+    "slug": "como-registrar-una-bateria-nueva-bms-reset-con-escaner-obd2",
+    "pillar": "diagnostico-obd2-y-codigos",
+    "isPillar": false,
+    "isTransactional": false,
+    "primaryKeyword": "registrar bateria nueva con escaner obd2 bms",
+    "path": "/diagnostico-obd2-y-codigos/como-registrar-una-bateria-nueva-bms-reset-con-escaner-obd2/"
+  },
+  {
+    "slug": "tabla-de-los-20-codigos-obd2-mas-comunes-en-espanol-y-su-gravedad",
+    "pillar": "diagnostico-obd2-y-codigos",
+    "isPillar": false,
+    "isTransactional": false,
+    "primaryKeyword": "tabla de codigos obd2 mas comunes en espanol",
+    "path": "/diagnostico-obd2-y-codigos/tabla-de-los-20-codigos-obd2-mas-comunes-en-espanol-y-su-gravedad/"
+  },
+  {
+    "slug": "donde-colocar-el-gato-hidraulico-sin-doblar-el-chasis-pinch-weld",
+    "pillar": "herramientas-y-mantenimiento-garaje",
+    "isPillar": false,
+    "isTransactional": false,
+    "primaryKeyword": "donde colocar el gato hidraulico en el auto",
+    "path": "/herramientas-y-mantenimiento-garaje/donde-colocar-el-gato-hidraulico-sin-doblar-el-chasis-pinch-weld/"
+  },
+  {
+    "slug": "por-que-nunca-trabajar-bajo-un-auto-sostenido-solo-por-un-gato",
+    "pillar": "herramientas-y-mantenimiento-garaje",
+    "isPillar": false,
+    "isTransactional": false,
+    "primaryKeyword": "como colocar caballetes jack stands bajo el auto",
+    "path": "/herramientas-y-mantenimiento-garaje/por-que-nunca-trabajar-bajo-un-auto-sostenido-solo-por-un-gato/"
+  },
+  {
+    "slug": "a-cuantos-lb-ft-o-nm-apretar-las-tuercas-de-las-ruedas-llave-dinamometrica",
+    "pillar": "herramientas-y-mantenimiento-garaje",
+    "isPillar": false,
+    "isTransactional": false,
+    "primaryKeyword": "a cuantas libras pie apretar tuercas de llantas",
+    "path": "/herramientas-y-mantenimiento-garaje/a-cuantos-lb-ft-o-nm-apretar-las-tuercas-de-las-ruedas-llave-dinamometrica/"
+  },
+  {
+    "slug": "como-usar- y-cuidar-una-llave-dinamometrica-de-clic-volver-a-cero",
+    "pillar": "herramientas-y-mantenimiento-garaje",
+    "isPillar": false,
+    "isTransactional": false,
+    "primaryKeyword": "como usar llave dinamometrica de clic torque",
+    "path": "/herramientas-y-mantenimiento-garaje/como-usar- y-cuidar-una-llave-dinamometrica-de-clic-volver-a-cero/"
+  },
+  {
+    "slug": "secuencia-en-estrella-para-aflojar-y-apretar-tuercas-de-4-5-y-6-birlos",
+    "pillar": "herramientas-y-mantenimiento-garaje",
+    "isPillar": false,
+    "isTransactional": false,
+    "primaryKeyword": "orden en estrella para apretar tuercas de llanta",
+    "path": "/herramientas-y-mantenimiento-garaje/secuencia-en-estrella-para-aflojar-y-apretar-tuercas-de-4-5-y-6-birlos/"
+  },
+  {
+    "slug": "como-limpiar-bornes-de-bateria-sulfatados-con-polvo-blanco-o-azul",
+    "pillar": "herramientas-y-mantenimiento-garaje",
+    "isPillar": false,
+    "isTransactional": false,
+    "primaryKeyword": "como limpiar bornes sulfatados de bateria de auto",
+    "path": "/herramientas-y-mantenimiento-garaje/como-limpiar-bornes-de-bateria-sulfatados-con-polvo-blanco-o-azul/"
+  },
+  {
+    "slug": "como-cambiar-un-fusible-quemado-del-encendedor-12v-del-auto",
+    "pillar": "herramientas-y-mantenimiento-garaje",
+    "isPillar": false,
+    "isTransactional": false,
+    "primaryKeyword": "como cambiar fusible de encendedor 12v de auto",
+    "path": "/herramientas-y-mantenimiento-garaje/como-cambiar-un-fusible-quemado-del-encendedor-12v-del-auto/"
+  },
+  {
+    "slug": "diferencia-entre-fusibles-de-auto-mini-low-profile-mini-micro2-y-ato",
+    "pillar": "herramientas-y-mantenimiento-garaje",
+    "isPillar": false,
+    "isTransactional": false,
+    "primaryKeyword": "tipos de fusibles de auto mini micro2 ato",
+    "path": "/herramientas-y-mantenimiento-garaje/diferencia-entre-fusibles-de-auto-mini-low-profile-mini-micro2-y-ato/"
+  },
+  {
+    "slug": "como-cambiar-el-filtro-de-aire-de-cabina-aire-acondicionado-en-5-minutos",
+    "pillar": "herramientas-y-mantenimiento-garaje",
+    "isPillar": false,
+    "isTransactional": false,
+    "primaryKeyword": "como cambiar filtro de aire de cabina del auto",
+    "path": "/herramientas-y-mantenimiento-garaje/como-cambiar-el-filtro-de-aire-de-cabina-aire-acondicionado-en-5-minutos/"
+  },
+  {
+    "slug": "como-cambiar-el-filtro-de-aire-del-motor-sin-herramientas",
+    "pillar": "herramientas-y-mantenimiento-garaje",
+    "isPillar": false,
+    "isTransactional": false,
+    "primaryKeyword": "como cambiar filtro de aire del motor del auto",
+    "path": "/herramientas-y-mantenimiento-garaje/como-cambiar-el-filtro-de-aire-del-motor-sin-herramientas/"
+  },
+  {
+    "slug": "como-cambiar-las-plumillas-limpiaparabrisas-gancho-en-j-y-push-button",
+    "pillar": "herramientas-y-mantenimiento-garaje",
+    "isPillar": false,
+    "isTransactional": false,
+    "primaryKeyword": "como cambiar plumillas limpiaparabrisas del auto",
+    "path": "/herramientas-y-mantenimiento-garaje/como-cambiar-las-plumillas-limpiaparabrisas-gancho-en-j-y-push-button/"
+  },
+  {
+    "slug": "como-medir-el-nivel-de-aceite-del-motor-con-la-varilla-en-frio-o-caliente",
+    "pillar": "herramientas-y-mantenimiento-garaje",
+    "isPillar": false,
+    "isTransactional": false,
+    "primaryKeyword": "como medir el aceite del motor frio o caliente",
+    "path": "/herramientas-y-mantenimiento-garaje/como-medir-el-nivel-de-aceite-del-motor-con-la-varilla-en-frio-o-caliente/"
+  },
+  {
+    "slug": "que-significan-los-numeros-del-aceite-0w20-5w30-y-certificacion-api-sp",
+    "pillar": "herramientas-y-mantenimiento-garaje",
+    "isPillar": false,
+    "isTransactional": false,
+    "primaryKeyword": "que significa 0w20 5w30 aceite de motor",
+    "path": "/herramientas-y-mantenimiento-garaje/que-significan-los-numeros-del-aceite-0w20-5w30-y-certificacion-api-sp/"
+  },
+  {
+    "slug": "que-liquido-limpiaparabrisas-usar-en-invierno-para-que-no-se-congele",
+    "pillar": "herramientas-y-mantenimiento-garaje",
+    "isPillar": false,
+    "isTransactional": false,
+    "primaryKeyword": "que liquido echar al limpiaparabrisas en invierno",
+    "path": "/herramientas-y-mantenimiento-garaje/que-liquido-limpiaparabrisas-usar-en-invierno-para-que-no-se-congele/"
+  },
+  {
+    "slug": "como-revisar-el-nivel-del-liquido-refrigerante-sin-abrir-el-tapon-en-caliente",
+    "pillar": "herramientas-y-mantenimiento-garaje",
+    "isPillar": false,
+    "isTransactional": false,
+    "primaryKeyword": "como revisar nivel de anticongelante del auto",
+    "path": "/herramientas-y-mantenimiento-garaje/como-revisar-el-nivel-del-liquido-refrigerante-sin-abrir-el-tapon-en-caliente/"
+  },
+  {
+    "slug": "que-significa-cuando-baja-el-nivel-del-liquido-de-frenos-dot3-dot4",
+    "pillar": "herramientas-y-mantenimiento-garaje",
+    "isPillar": false,
+    "isTransactional": false,
+    "primaryKeyword": "por que baja el liquido de frenos del auto",
+    "path": "/herramientas-y-mantenimiento-garaje/que-significa-cuando-baja-el-nivel-del-liquido-de-frenos-dot3-dot4/"
+  },
+  {
+    "slug": "como-usar-un-multimetro-digital-en-el-auto-voltaje-dc-y-continuidad",
+    "pillar": "herramientas-y-mantenimiento-garaje",
+    "isPillar": false,
+    "isTransactional": false,
+    "primaryKeyword": "como usar multimetro en el auto bateria y fusibles",
+    "path": "/herramientas-y-mantenimiento-garaje/como-usar-un-multimetro-digital-en-el-auto-voltaje-dc-y-continuidad/"
+  },
+  {
+    "slug": "vasos-de-impacto-con-funda-de-nylon-para-no-rayar-llantas-de-aleacion",
+    "pillar": "herramientas-y-mantenimiento-garaje",
+    "isPillar": false,
+    "isTransactional": false,
+    "primaryKeyword": "dados con protector para tuercas de llantas",
+    "path": "/herramientas-y-mantenimiento-garaje/vasos-de-impacto-con-funda-de-nylon-para-no-rayar-llantas-de-aleacion/"
+  },
+  {
+    "slug": "barra-rompedora-breaker-bar-vs-llave-de-cruz-para-aflojar-ruedas",
+    "pillar": "herramientas-y-mantenimiento-garaje",
+    "isPillar": false,
+    "isTransactional": false,
+    "primaryKeyword": "barra rompedora vs llave de cruz para llantas",
+    "path": "/herramientas-y-mantenimiento-garaje/barra-rompedora-breaker-bar-vs-llave-de-cruz-para-aflojar-ruedas/"
+  },
+  {
+    "slug": "como-proteger-las-gomas-de-las-puertas-con-silicona-para-que-no-se-peguen-Con-hielo",
+    "pillar": "herramientas-y-mantenimiento-garaje",
+    "isPillar": false,
+    "isTransactional": false,
+    "primaryKeyword": "como cuidar las gomas de las puertas del auto",
+    "path": "/herramientas-y-mantenimiento-garaje/como-proteger-las-gomas-de-las-puertas-con-silicona-para-que-no-se-peguen-Con-hielo/"
+  },
+  {
+    "slug": "como-lubricar-bisagras-de-puertas-y-capo-grasa-de-litio-blanca-vs-wd40",
+    "pillar": "herramientas-y-mantenimiento-garaje",
+    "isPillar": false,
+    "isTransactional": false,
+    "primaryKeyword": "como lubricar bisagras de puertas de auto grasa de litio",
+    "path": "/herramientas-y-mantenimiento-garaje/como-lubricar-bisagras-de-puertas-y-capo-grasa-de-litio-blanca-vs-wd40/"
+  },
+  {
+    "slug": "como-pulir-faros-opacos-y-amarillentos-en-casa-y-sellarlos-contra-uv",
+    "pillar": "herramientas-y-mantenimiento-garaje",
+    "isPillar": false,
+    "isTransactional": false,
+    "primaryKeyword": "como limpiar faros opacos y amarillentos del auto",
+    "path": "/herramientas-y-mantenimiento-garaje/como-pulir-faros-opacos-y-amarillentos-en-casa-y-sellarlos-contra-uv/"
+  },
+  {
+    "slug": "gato-de-tijera-original-vs-gato-hidraulico-de-botella-o-carretilla",
+    "pillar": "herramientas-y-mantenimiento-garaje",
+    "isPillar": false,
+    "isTransactional": false,
+    "primaryKeyword": "gato de tijera vs gato hidraulico de carretilla",
+    "path": "/herramientas-y-mantenimiento-garaje/gato-de-tijera-original-vs-gato-hidraulico-de-botella-o-carretilla/"
+  },
+  {
+    "slug": "como-sacar-una-tuerca-de-rueda-hinchada-o-redondeada-ford-dodge-toyota",
+    "pillar": "herramientas-y-mantenimiento-garaje",
+    "isPillar": false,
+    "isTransactional": false,
+    "primaryKeyword": "tuercas de llanta hinchadas ford dodge como sacarlas",
+    "path": "/herramientas-y-mantenimiento-garaje/como-sacar-una-tuerca-de-rueda-hinchada-o-redondeada-ford-dodge-toyota/"
+  },
+  {
+    "slug": "donde-guardar-la-llave-de-la-tuerca-de-seguridad-antirrobo-wheel-lock",
+    "pillar": "herramientas-y-mantenimiento-garaje",
+    "isPillar": false,
+    "isTransactional": false,
+    "primaryKeyword": "donde guardar llave de tuerca de seguridad del auto",
+    "path": "/herramientas-y-mantenimiento-garaje/donde-guardar-la-llave-de-la-tuerca-de-seguridad-antirrobo-wheel-lock/"
+  },
+  {
+    "slug": "como-revisar-el-estado-de-la-correa-serpentina-de-accesorios",
+    "pillar": "herramientas-y-mantenimiento-garaje",
+    "isPillar": false,
+    "isTransactional": false,
+    "primaryKeyword": "como revisar correa de accesorios del auto",
+    "path": "/herramientas-y-mantenimiento-garaje/como-revisar-el-estado-de-la-correa-serpentina-de-accesorios/"
+  },
+  {
+    "slug": "que-son-los-clips-y-grapas-plasticas-de-parachoques-y-por-que-tener-un-surtido",
+    "pillar": "herramientas-y-mantenimiento-garaje",
+    "isPillar": false,
+    "isTransactional": false,
+    "primaryKeyword": "grapas y clips de plastico para auto guardabarros",
+    "path": "/herramientas-y-mantenimiento-garaje/que-son-los-clips-y-grapas-plasticas-de-parachoques-y-por-que-tener-un-surtido/"
+  },
+  {
+    "slug": "como-cambiar-la-pila-cr2032-de-la-llave-inteligente-key-fob-del-auto",
+    "pillar": "herramientas-y-mantenimiento-garaje",
+    "isPillar": false,
+    "isTransactional": false,
+    "primaryKeyword": "como arrancar el auto si el control no tiene pila",
+    "path": "/herramientas-y-mantenimiento-garaje/como-cambiar-la-pila-cr2032-de-la-llave-inteligente-key-fob-del-auto/"
+  },
+  {
+    "slug": "herramientas-imprescindibles-para-tu-primer-garaje-en-casa-menos-de-150-dolares",
+    "pillar": "herramientas-y-mantenimiento-garaje",
+    "isPillar": false,
+    "isTransactional": false,
+    "primaryKeyword": "herramientas basicas para tener en el garaje auto",
+    "path": "/herramientas-y-mantenimiento-garaje/herramientas-imprescindibles-para-tu-primer-garaje-en-casa-menos-de-150-dolares/"
+  },
+  {
+    "slug": "calendario-de-mantenimiento-preventivo-del-auto-cada-mes-6-meses-y-1-ano",
+    "pillar": "herramientas-y-mantenimiento-garaje",
+    "isPillar": false,
+    "isTransactional": false,
+    "primaryKeyword": "calendario de mantenimiento preventivo del auto en casa",
+    "path": "/herramientas-y-mantenimiento-garaje/calendario-de-mantenimiento-preventivo-del-auto-cada-mes-6-meses-y-1-ano/"
+  },
+  {
+    "slug": "que-hacer-paso-a-paso-si-tu-auto-se-avería-en-autopista-de-noche",
+    "pillar": "emergencias-en-carretera-y-viajes",
+    "isPillar": false,
+    "isTransactional": false,
+    "primaryKeyword": "que hacer si el auto se queda parado en autopista",
+    "path": "/emergencias-en-carretera-y-viajes/que-hacer-paso-a-paso-si-tu-auto-se-avería-en-autopista-de-noche/"
+  },
+  {
+    "slug": "balizas-led-magneticas-de-emergencia-vs-triangulos-reflectantes",
+    "pillar": "emergencias-en-carretera-y-viajes",
+    "isPillar": false,
+    "isTransactional": false,
+    "primaryKeyword": "balizas led de emergencia para auto vs triangulos",
+    "path": "/emergencias-en-carretera-y-viajes/balizas-led-magneticas-de-emergencia-vs-triangulos-reflectantes/"
+  },
+  {
+    "slug": "como-preparar-tu-auto-para-el-invierno-y-tormentas-de-nieve-en-eeuu",
+    "pillar": "emergencias-en-carretera-y-viajes",
+    "isPillar": false,
+    "isTransactional": false,
+    "primaryKeyword": "como preparar el auto para el invierno y nieve",
+    "path": "/emergencias-en-carretera-y-viajes/como-preparar-tu-auto-para-el-invierno-y-tormentas-de-nieve-en-eeuu/"
+  },
+  {
+    "slug": "que-llevar-en-el-maletero-en-invierno-si-quedas-atrapado-en-la-nieve",
+    "pillar": "emergencias-en-carretera-y-viajes",
+    "isPillar": false,
+    "isTransactional": false,
+    "primaryKeyword": "kit de emergencia de invierno para el auto nieve",
+    "path": "/emergencias-en-carretera-y-viajes/que-llevar-en-el-maletero-en-invierno-si-quedas-atrapado-en-la-nieve/"
+  },
+  {
+    "slug": "checklist-de-10-minutos-antes-de-un-road-trip-viaje-largo-en-auto",
+    "pillar": "emergencias-en-carretera-y-viajes",
+    "isPillar": false,
+    "isTransactional": false,
+    "primaryKeyword": "que revisar al auto antes de un viaje largo",
+    "path": "/emergencias-en-carretera-y-viajes/checklist-de-10-minutos-antes-de-un-road-trip-viaje-largo-en-auto/"
+  },
+  {
+    "slug": "donde-colocar-el-martillo-rompevidrios-y-cortador-de-cinturon-en-la-cabina",
+    "pillar": "emergencias-en-carretera-y-viajes",
+    "isPillar": false,
+    "isTransactional": false,
+    "primaryKeyword": "donde colocar martillo rompevidrios en el auto",
+    "path": "/emergencias-en-carretera-y-viajes/donde-colocar-el-martillo-rompevidrios-y-cortador-de-cinturon-en-la-cabina/"
+  },
+  {
+    "slug": "vidrio-laminado-vs-vidrio-templado-en-que-ventanilla-funciona-el-rompevidrios",
+    "pillar": "emergencias-en-carretera-y-viajes",
+    "isPillar": false,
+    "isTransactional": false,
+    "primaryKeyword": "en que ventana usar el martillo rompevidrios del auto",
+    "path": "/emergencias-en-carretera-y-viajes/vidrio-laminado-vs-vidrio-templado-en-que-ventanilla-funciona-el-rompevidrios/"
+  },
+  {
+    "slug": "como-poner-el-auto-automatico-en-neutro-n-si-la-bateria-esta-muerta-shift-lock",
+    "pillar": "emergencias-en-carretera-y-viajes",
+    "isPillar": false,
+    "isTransactional": false,
+    "primaryKeyword": "como poner auto automatico en neutro sin bateria",
+    "path": "/emergencias-en-carretera-y-viajes/como-poner-el-auto-automatico-en-neutro-n-si-la-bateria-esta-muerta-shift-lock/"
+  },
+  {
+    "slug": "como-abrir-la-puerta-del-auto-con-la-llave-fisica-oculta-en-el-mando",
+    "pillar": "emergencias-en-carretera-y-viajes",
+    "isPillar": false,
+    "isTransactional": false,
+    "primaryKeyword": "como abrir el auto si la bateria esta muerta llave inteligente",
+    "path": "/emergencias-en-carretera-y-viajes/como-abrir-la-puerta-del-auto-con-la-llave-fisica-oculta-en-el-mando/"
+  },
+  {
+    "slug": "como-salir-del-barro-arena-o-nieve-sin-quemar-la-transmision-planchas-de-traccion",
+    "pillar": "emergencias-en-carretera-y-viajes",
+    "isPillar": false,
+    "isTransactional": false,
+    "primaryKeyword": "como sacar el auto atascado en barro o nieve",
+    "path": "/emergencias-en-carretera-y-viajes/como-salir-del-barro-arena-o-nieve-sin-quemar-la-transmision-planchas-de-traccion/"
+  },
+  {
+    "slug": "que-hacer-si-la-aguja-de-temperatura-sube-al-rojo-auto-recalentado",
+    "pillar": "emergencias-en-carretera-y-viajes",
+    "isPillar": false,
+    "isTransactional": false,
+    "primaryKeyword": "que hacer si el auto se recalienta en carretera",
+    "path": "/emergencias-en-carretera-y-viajes/que-hacer-si-la-aguja-de-temperatura-sube-al-rojo-auto-recalentado/"
+  },
+  {
+    "slug": "que-extintor-llevar-en-el-auto-abc-o-aerosol-y-donde-sujetarlo",
+    "pillar": "emergencias-en-carretera-y-viajes",
+    "isPillar": false,
+    "isTransactional": false,
+    "primaryKeyword": "que extintor llevar en el auto y donde ponerlo",
+    "path": "/emergencias-en-carretera-y-viajes/que-extintor-llevar-en-el-auto-abc-o-aerosol-y-donde-sujetarlo/"
+  },
+  {
+    "slug": "eslinga-de-remolque-vs-cuerda-cinetica-y-donde-roscar-el-gancho-de-remolque",
+    "pillar": "emergencias-en-carretera-y-viajes",
+    "isPillar": false,
+    "isTransactional": false,
+    "primaryKeyword": "donde va el gancho de remolque en el parachoques",
+    "path": "/emergencias-en-carretera-y-viajes/eslinga-de-remolque-vs-cuerda-cinetica-y-donde-roscar-el-gancho-de-remolque/"
+  },
+  {
+    "slug": "que-debe-incluir-el-botiquin-de-primeros-auxilios-del-auto",
+    "pillar": "emergencias-en-carretera-y-viajes",
+    "isPillar": false,
+    "isTransactional": false,
+    "primaryKeyword": "que debe tener un botiquin de primeros auxilios para auto",
+    "path": "/emergencias-en-carretera-y-viajes/que-debe-incluir-el-botiquin-de-primeros-auxilios-del-auto/"
+  },
+  {
+    "slug": "como-actuar-si-revienta-una-llanta-a-alta-velocidad-en-autopista",
+    "pillar": "emergencias-en-carretera-y-viajes",
+    "isPillar": false,
+    "isTransactional": false,
+    "primaryKeyword": "que hacer si revienta una llanta en autopista",
+    "path": "/emergencias-en-carretera-y-viajes/como-actuar-si-revienta-una-llanta-a-alta-velocidad-en-autopista/"
+  },
+  {
+    "slug": "es-seguro-cambiar-una-rueda-en-el-arcen-de-una-autopista-izquierda-vs-derecha",
+    "pillar": "emergencias-en-carretera-y-viajes",
+    "isPillar": false,
+    "isTransactional": false,
+    "primaryKeyword": "es seguro cambiar una llanta en la autopista",
+    "path": "/emergencias-en-carretera-y-viajes/es-seguro-cambiar-una-rueda-en-el-arcen-de-una-autopista-izquierda-vs-derecha/"
+  },
+  {
+    "slug": "como-proteger-tu-auto-durante-un-huracan-o-inundacion-repentina",
+    "pillar": "emergencias-en-carretera-y-viajes",
+    "isPillar": false,
+    "isTransactional": false,
+    "primaryKeyword": "que pasa si paso por una calle inundada con el auto",
+    "path": "/emergencias-en-carretera-y-viajes/como-proteger-tu-auto-durante-un-huracan-o-inundacion-repentina/"
+  },
+  {
+    "slug": "que-herramientas-y-repuestos-llevar-en-la-guantera-vs-en-el-maletero",
+    "pillar": "emergencias-en-carretera-y-viajes",
+    "isPillar": false,
+    "isTransactional": false,
+    "primaryKeyword": "que llevar en la guantera del auto siempre",
+    "path": "/emergencias-en-carretera-y-viajes/que-herramientas-y-repuestos-llevar-en-la-guantera-vs-en-el-maletero/"
+  },
+  {
+    "slug": "como-dormir-o-descansar-en-el-auto-en-un-viaje-largo-ventilacion-y-seguridad",
+    "pillar": "emergencias-en-carretera-y-viajes",
+    "isPillar": false,
+    "isTransactional": false,
+    "primaryKeyword": "consejos para conducir de noche viaje largo sueno",
+    "path": "/emergencias-en-carretera-y-viajes/como-dormir-o-descansar-en-el-auto-en-un-viaje-largo-ventilacion-y-seguridad/"
+  },
+  {
+    "slug": "inversor-de-corriente-12v-a-110v-para-el-auto-onda-pura-vs-modificada",
+    "pillar": "emergencias-en-carretera-y-viajes",
+    "isPillar": false,
+    "isTransactional": false,
+    "primaryKeyword": "inversor de corriente 12v a 110v para auto cual elegir",
+    "path": "/emergencias-en-carretera-y-viajes/inversor-de-corriente-12v-a-110v-para-el-auto-onda-pura-vs-modificada/"
+  },
+  {
+    "slug": "como-ahorrar-bateria-y-combustible-en-un-atasco-de-varias-horas",
+    "pillar": "emergencias-en-carretera-y-viajes",
+    "isPillar": false,
+    "isTransactional": false,
+    "primaryKeyword": "cuanto consume un auto encendido parado en un atasco",
+    "path": "/emergencias-en-carretera-y-viajes/como-ahorrar-bateria-y-combustible-en-un-atasco-de-varias-horas/"
+  },
+  {
+    "slug": "por-que-llevar-cinta-americana-bridas-de-nylon-y-guantes-de-nitrilo-en-el-auto",
+    "pillar": "emergencias-en-carretera-y-viajes",
+    "isPillar": false,
+    "isTransactional": false,
+    "primaryKeyword": "por que llevar bridas y cinta americana en el auto",
+    "path": "/emergencias-en-carretera-y-viajes/por-que-llevar-cinta-americana-bridas-de-nylon-y-guantes-de-nitrilo-en-el-auto/"
+  },
+  {
+    "slug": "como-conducir-con-niebla-densa-por-que-no-usar-las-luces-altas",
+    "pillar": "emergencias-en-carretera-y-viajes",
+    "isPillar": false,
+    "isTransactional": false,
+    "primaryKeyword": "como conducir con niebla densa que luces usar",
+    "path": "/emergencias-en-carretera-y-viajes/como-conducir-con-niebla-densa-por-que-no-usar-las-luces-altas/"
+  },
+  {
+    "slug": "como-evitar-que-se-congele-el-freno-de-mano-al-aparcar-bajo-cero",
+    "pillar": "emergencias-en-carretera-y-viajes",
+    "isPillar": false,
+    "isTransactional": false,
+    "primaryKeyword": "consejos al aparcar el auto con helada o nieve",
+    "path": "/emergencias-en-carretera-y-viajes/como-evitar-que-se-congele-el-freno-de-mano-al-aparcar-bajo-cero/"
+  },
+  {
+    "slug": "guia-de-telefonos-y-apps-de-emergencia-vial-en-estados-unidos-511-aaa",
+    "pillar": "emergencias-en-carretera-y-viajes",
+    "isPillar": false,
+    "isTransactional": false,
+    "primaryKeyword": "numero 511 asistencia en carretera estados unidos",
+    "path": "/emergencias-en-carretera-y-viajes/guia-de-telefonos-y-apps-de-emergencia-vial-en-estados-unidos-511-aaa/"
+  },
+  {
+    "slug": "como-sacar-pelos-de-perro-y-gato-de-las-alfombrillas-y-asientos-del-auto",
+    "pillar": "cuidado-interior-y-organizacion",
+    "isPillar": false,
+    "isTransactional": false,
+    "primaryKeyword": "como quitar pelos de perro de los asientos del auto",
+    "path": "/cuidado-interior-y-organizacion/como-sacar-pelos-de-perro-y-gato-de-las-alfombrillas-y-asientos-del-auto/"
+  },
+  {
+    "slug": "como-limpiar-el-parabrisas-por-dentro-sin-dejar-rayas-ni-empanamiento",
+    "pillar": "cuidado-interior-y-organizacion",
+    "isPillar": false,
+    "isTransactional": false,
+    "primaryKeyword": "como limpiar el parabrisas por dentro sin dejar marcas",
+    "path": "/cuidado-interior-y-organizacion/como-limpiar-el-parabrisas-por-dentro-sin-dejar-rayas-ni-empanamiento/"
+  },
+  {
+    "slug": "cuantos-pascales-pa-de-succion-necesita-una-aspiradora-portatil-de-auto",
+    "pillar": "cuidado-interior-y-organizacion",
+    "isPillar": false,
+    "isTransactional": false,
+    "primaryKeyword": "cuantos pascales necesita una aspiradora para auto",
+    "path": "/cuidado-interior-y-organizacion/cuantos-pascales-pa-de-succion-necesita-una-aspiradora-portatil-de-auto/"
+  },
+  {
+    "slug": "como-limpiar-el-filtro-hepa-de-tu-aspiradora-de-auto-para-que-no-pierda-potencia",
+    "pillar": "cuidado-interior-y-organizacion",
+    "isPillar": false,
+    "isTransactional": false,
+    "primaryKeyword": "como limpiar filtro hepa de aspiradora portatil de auto",
+    "path": "/cuidado-interior-y-organizacion/como-limpiar-el-filtro-hepa-de-tu-aspiradora-de-auto-para-que-no-pierda-potencia/"
+  },
+  {
+    "slug": "aspiradora-y-soplador-2-en-1-de-aire-comprimido-para-rejillas-y-rieles",
+    "pillar": "cuidado-interior-y-organizacion",
+    "isPillar": false,
+    "isTransactional": false,
+    "primaryKeyword": "soplador de aire para limpiar interior del auto",
+    "path": "/cuidado-interior-y-organizacion/aspiradora-y-soplador-2-en-1-de-aire-comprimido-para-rejillas-y-rieles/"
+  },
+  {
+    "slug": "como-organizar-el-maletero-del-auto-para-que-nada-ruede-ni-haga-ruido",
+    "pillar": "cuidado-interior-y-organizacion",
+    "isPillar": false,
+    "isTransactional": false,
+    "primaryKeyword": "como organizar el maletero del auto",
+    "path": "/cuidado-interior-y-organizacion/como-organizar-el-maletero-del-auto-para-que-nada-ruede-ni-haga-ruido/"
+  },
+  {
+    "slug": "como-limpiar-la-pantalla-tactil-carplay-del-auto-sin-borrar-el-recubrimiento",
+    "pillar": "cuidado-interior-y-organizacion",
+    "isPillar": false,
+    "isTransactional": false,
+    "primaryKeyword": "como limpiar la pantalla tactil del auto sin rayarla",
+    "path": "/cuidado-interior-y-organizacion/como-limpiar-la-pantalla-tactil-carplay-del-auto-sin-borrar-el-recubrimiento/"
+  },
+  {
+    "slug": "como-limpiar-y-hidratar-asientos-de-cuero-del-auto-sin-dejarlos-resbaladizos",
+    "pillar": "cuidado-interior-y-organizacion",
+    "isPillar": false,
+    "isTransactional": false,
+    "primaryKeyword": "como limpiar asientos de cuero del auto",
+    "path": "/cuidado-interior-y-organizacion/como-limpiar-y-hidratar-asientos-de-cuero-del-auto-sin-dejarlos-resbaladizos/"
+  },
+  {
+    "slug": "como-eliminar-el-mal-olor-a-humedad-del-aire-acondicionado-del-auto",
+    "pillar": "cuidado-interior-y-organizacion",
+    "isPillar": false,
+    "isTransactional": false,
+    "primaryKeyword": "como quitar mal olor del aire acondicionado del auto",
+    "path": "/cuidado-interior-y-organizacion/como-eliminar-el-mal-olor-a-humedad-del-aire-acondicionado-del-auto/"
+  },
+  {
+    "slug": "alfombrillas-de-goma-tpe-todo-clima-vs-alfombrillas-de-tela-originales",
+    "pillar": "cuidado-interior-y-organizacion",
+    "isPillar": false,
+    "isTransactional": false,
+    "primaryKeyword": "alfombrillas de goma tpe vs tela para auto",
+    "path": "/cuidado-interior-y-organizacion/alfombrillas-de-goma-tpe-todo-clima-vs-alfombrillas-de-tela-originales/"
+  },
+  {
+    "slug": "ALERTA-nunca-pongas-dos-alfombrillas-encima-en-el-pedal-del-acelerador",
+    "pillar": "cuidado-interior-y-organizacion",
+    "isPillar": false,
+    "isTransactional": false,
+    "primaryKeyword": "peligro de poner dos alfombrillas en el auto pedal acelerador",
+    "path": "/cuidado-interior-y-organizacion/ALERTA-nunca-pongas-dos-alfombrillas-encima-en-el-pedal-del-acelerador/"
+  },
+  {
+    "slug": "como-quitar-una-mancha-de-cafe-o-refresco-de-los-asientos-de-tela",
+    "pillar": "cuidado-interior-y-organizacion",
+    "isPillar": false,
+    "isTransactional": false,
+    "primaryKeyword": "como quitar manchas de los asientos de tela del auto",
+    "path": "/cuidado-interior-y-organizacion/como-quitar-una-mancha-de-cafe-o-refresco-de-los-asientos-de-tela/"
+  },
+  {
+    "slug": "para-que-sirve-el-gel-slime-limpiador-para-rejillas-de-aire-y-posavasos",
+    "pillar": "cuidado-interior-y-organizacion",
+    "isPillar": false,
+    "isTransactional": false,
+    "primaryKeyword": "gel limpiador para rejillas de aire del auto",
+    "path": "/cuidado-interior-y-organizacion/para-que-sirve-el-gel-slime-limpiador-para-rejillas-de-aire-y-posavasos/"
+  },
+  {
+    "slug": "como-elegir-un-parasol-de-parabrisas-que-baje-20-grados-y-proteja-tu-dash-cam",
+    "pillar": "cuidado-interior-y-organizacion",
+    "isPillar": false,
+    "isTransactional": false,
+    "primaryKeyword": "mejor parasol para parabrisas de auto calor",
+    "path": "/cuidado-interior-y-organizacion/como-elegir-un-parasol-de-parabrisas-que-baje-20-grados-y-proteja-tu-dash-cam/"
+  },
+  {
+    "slug": "donde-instalar-el-soporte-de-celular-en-el-auto-rejilla-salpicadero-o-magsafe",
+    "pillar": "cuidado-interior-y-organizacion",
+    "isPillar": false,
+    "isTransactional": false,
+    "primaryKeyword": "donde poner el soporte de celular en el auto",
+    "path": "/cuidado-interior-y-organizacion/donde-instalar-el-soporte-de-celular-en-el-auto-rejilla-salpicadero-o-magsafe/"
+  },
+  {
+    "slug": "que-buscar-en-un-cargador-de-auto-12v-usb-c-power-delivery-pps",
+    "pillar": "cuidado-interior-y-organizacion",
+    "isPillar": false,
+    "isTransactional": false,
+    "primaryKeyword": "mejor cargador de auto usb c carga rapida",
+    "path": "/cuidado-interior-y-organizacion/que-buscar-en-un-cargador-de-auto-12v-usb-c-power-delivery-pps/"
+  },
+  {
+    "slug": "como-evitar-que-se-empanen-los-vidrios-del-auto-cuando-llueve-boton-ac",
+    "pillar": "cuidado-interior-y-organizacion",
+    "isPillar": false,
+    "isTransactional": false,
+    "primaryKeyword": "como desempanar los vidrios del auto rapido cuando llueve",
+    "path": "/cuidado-interior-y-organizacion/como-evitar-que-se-empanen-los-vidrios-del-auto-cuando-llueve-boton-ac/"
+  },
+  {
+    "slug": "como-limpiar-los-portavasos-y-la-consola-central-pegajosa",
+    "pillar": "cuidado-interior-y-organizacion",
+    "isPillar": false,
+    "isTransactional": false,
+    "primaryKeyword": "como limpiar los portavasos del auto pegajosos",
+    "path": "/cuidado-interior-y-organizacion/como-limpiar-los-portavasos-y-la-consola-central-pegajosa/"
+  },
+  {
+    "slug": "que-documentos-guardar-en-la-guantera-y-cuales-nunca-dejar-en-el-auto",
+    "pillar": "cuidado-interior-y-organizacion",
+    "isPillar": false,
+    "isTransactional": false,
+    "primaryKeyword": "que documentos llevar en la guantera del auto",
+    "path": "/cuidado-interior-y-organizacion/que-documentos-guardar-en-la-guantera-y-cuales-nunca-dejar-en-el-auto/"
+  },
+  {
+    "slug": "protectores-de-tablero-con-brillo-silicona-vs-protectores-mate-uv-303",
+    "pillar": "cuidado-interior-y-organizacion",
+    "isPillar": false,
+    "isTransactional": false,
+    "primaryKeyword": "por que no usar silicona brillante en el tablero del auto",
+    "path": "/cuidado-interior-y-organizacion/protectores-de-tablero-con-brillo-silicona-vs-protectores-mate-uv-303/"
+  },
+  {
+    "slug": "como-proteger-los-asientos-traseros-si-viajas-con-perros-o-sillas-de-bebe",
+    "pillar": "cuidado-interior-y-organizacion",
+    "isPillar": false,
+    "isTransactional": false,
+    "primaryKeyword": "como proteger asientos del auto de silla de bebe o perro",
+    "path": "/cuidado-interior-y-organizacion/como-proteger-los-asientos-traseros-si-viajas-con-perros-o-sillas-de-bebe/"
+  },
+  {
+    "slug": "como-organizar-cables-usb-c-en-la-consola-para-carplay-y-android-auto",
+    "pillar": "cuidado-interior-y-organizacion",
+    "isPillar": false,
+    "isTransactional": false,
+    "primaryKeyword": "como organizar cables en el auto carplay",
+    "path": "/cuidado-interior-y-organizacion/como-organizar-cables-usb-c-en-la-consola-para-carplay-y-android-auto/"
+  },
+  {
+    "slug": "bolsas-y-cubos-de-basura-impermeables-para-auto-donde-colocarlos",
+    "pillar": "cuidado-interior-y-organizacion",
+    "isPillar": false,
+    "isTransactional": false,
+    "primaryKeyword": "donde poner basurero pequeno en el auto",
+    "path": "/cuidado-interior-y-organizacion/bolsas-y-cubos-de-basura-impermeables-para-auto-donde-colocarlos/"
+  },
+  {
+    "slug": "como-eliminar-rayones-superficiales-en-las-manijas-de-las-puertas-con-pulimento",
+    "pillar": "cuidado-interior-y-organizacion",
+    "isPillar": false,
+    "isTransactional": false,
+    "primaryKeyword": "como quitar rayones de las manijas del auto",
+    "path": "/cuidado-interior-y-organizacion/como-eliminar-rayones-superficiales-en-las-manijas-de-las-puertas-con-pulimento/"
+  },
+  {
+    "slug": "rutina-de-limpieza-interior-del-auto-en-15-minutos-de-arriba-hacia-abajo",
+    "pillar": "cuidado-interior-y-organizacion",
+    "isPillar": false,
+    "isTransactional": false,
+    "primaryKeyword": "orden para limpiar el interior del auto paso a paso",
+    "path": "/cuidado-interior-y-organizacion/rutina-de-limpieza-interior-del-auto-en-15-minutos-de-arriba-hacia-abajo/"
+  }
+]

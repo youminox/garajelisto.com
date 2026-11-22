@@ -1,0 +1,92 @@
+[
+  {
+    "slug": "resenas-accesorios-auto",
+    "name": "Reseñas de Accesorios para Auto",
+    "short": "Reseñas",
+    "isTransactional": true,
+    "primaryKeyword": "reseñas de accesorios y herramientas para auto",
+    "description": "Análisis técnicos y pruebas de rendimiento de los accesorios de auto más vendidos en Amazon Estados Unidos: arrancadores NOCO y GOOLOO, infladores Fanttik y VIAIR, cámaras VIOFO y REDTIGER, y escáneres BlueDriver.",
+    "icon": "trophy"
+  },
+  {
+    "slug": "comparativas",
+    "name": "Comparativas Modelo vs Modelo",
+    "short": "Comparativas VS",
+    "isTransactional": true,
+    "primaryKeyword": "comparativa arrancadores infladores y dash cams",
+    "description": "Duelos directos cara a cara entre los mejores arrancadores de batería, compresores portátiles, cámaras Dash Cam 4K y escáneres OBD2 según potencia, precio, compatibilidad y facilidad de uso.",
+    "icon": "scale"
+  },
+  {
+    "slug": "mejores-accesorios-auto",
+    "name": "Rankings y Guías de Compra Amazon",
+    "short": "Guías de Compra",
+    "isTransactional": true,
+    "primaryKeyword": "mejores accesorios para auto en amazon",
+    "description": "Rankings actualizados de los mejores arrancadores de batería 12V, infladores portátiles, cámaras Dash Cam, lectores OBD2 y kits de emergencia según tu tipo de vehículo y presupuesto en Amazon.",
+    "icon": "bolt"
+  },
+  {
+    "slug": "arrancadores-y-bateria-12v",
+    "name": "Arrancadores y Baterías 12V",
+    "short": "Arrancadores 12V",
+    "isTransactional": false,
+    "primaryKeyword": "cómo usar un arrancador de batería portátil 12v",
+    "description": "Guías eléctricas sobre amperios pico vs CCA, arranque de baterías muertas a 0V con modo Boost, compatibilidad con motores gasolina y diésel, baterías AGM/EFB y mantenimiento preventivo.",
+    "icon": "battery"
+  },
+  {
+    "slug": "infladores-y-neumaticos",
+    "name": "Infladores Portátiles y Neumáticos",
+    "short": "Infladores y PSI",
+    "isTransactional": false,
+    "primaryKeyword": "cómo inflar neumáticos con compresor portátil",
+    "description": "Todo sobre presión PSI exacta en frío, lectura de la etiqueta del pilar B, caída de presión en invierno, caudal L/min para SUVs y pickups, sensores TPMS y reparación de pinchazos tubeless.",
+    "icon": "gauge"
+  },
+  {
+    "slug": "camaras-dash-cam-y-seguridad",
+    "name": "Cámaras Dash Cam y Seguridad Vial",
+    "short": "Dash Cams 4K",
+    "isTransactional": false,
+    "primaryKeyword": "cómo elegir e instalar una cámara dash cam",
+    "description": "Instalación limpia de cables por el pilar A sin bloquear el airbag, conexión Hardwire Kit a la caja de fusibles para Modo Parking 24h, sensores Sony STARVIS 2, supercondensadores y tarjetas MicroSD.",
+    "icon": "camera"
+  },
+  {
+    "slug": "diagnostico-obd2-y-codigos",
+    "name": "Diagnóstico OBD2 y Check Engine",
+    "short": "Escáner OBD2",
+    "isTransactional": false,
+    "primaryKeyword": "cómo leer códigos obd2 y borrar check engine",
+    "description": "Interpretación práctica de códigos de falla P0420, P0300, P0171 y P0455, telemetría en vivo por Bluetooth, diagnóstico de alternador y preparación de monitores para inspección de emisiones.",
+    "icon": "cpu"
+  },
+  {
+    "slug": "herramientas-y-mantenimiento-garaje",
+    "name": "Herramientas y Mantenimiento en Casa",
+    "short": "Herramientas DIY",
+    "isTransactional": false,
+    "primaryKeyword": "herramientas básicas de mantenimiento para auto",
+    "description": "Uso seguro del gato hidráulico y caballetes en el pinch weld, par de apriete con llave dinamométrica, cambio de filtros, plumillas, fusibles de 12V y limpieza de terminales sulfatados.",
+    "icon": "wrench"
+  },
+  {
+    "slug": "emergencias-en-carretera-y-viajes",
+    "name": "Emergencias en Carretera y Viajes",
+    "short": "Emergencias",
+    "isTransactional": false,
+    "primaryKeyword": "kit de emergencia para auto en carretera",
+    "description": "Protocolos de seguridad ante averías nocturnas o en nieve, qué llevar en el maletero en viajes largos, balizas LED, extracción en barro o arena y checklist mecánico antes de salir a autopista.",
+    "icon": "shield"
+  },
+  {
+    "slug": "cuidado-interior-y-organizacion",
+    "name": "Limpieza Interior y Organización",
+    "short": "Interior y Orden",
+    "isTransactional": false,
+    "primaryKeyword": "cómo limpiar y organizar el interior del auto",
+    "description": "Aspirado de alta potencia de alfombrillas y pelos de mascota, eliminación de película grasa interior del parabrisas, cuidado de pantallas y cuero, y organizadores modulares de maletero.",
+    "icon": "sparkles"
+  }
+]
