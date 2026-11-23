@@ -78,6 +78,14 @@ export default function RootLayout({
 }: Readonly<{ children: React.ReactNode }>) {
   return (
     <html lang="es" className={`${outfit.variable} ${inter.variable}`}>
+      <head>
+        <meta name="google-adsense-account" content="ca-pub-1070738569472471" />
+        <script
+          async
+          src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1070738569472471"
+          crossOrigin="anonymous"
+        />
+      </head>
       <body className="antialiased selection:bg-[#f59e0b] selection:text-[#0b0f17]">
         <JsonLd
           data={{
