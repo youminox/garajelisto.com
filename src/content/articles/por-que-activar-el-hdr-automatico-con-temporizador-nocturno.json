@@ -4,161 +4,124 @@
   "path": "/camaras-dash-cam-y-seguridad/por-que-activar-el-hdr-automatico-con-temporizador-nocturno/",
   "isPillar": false,
   "isTransactional": false,
+  "llmAuthored": true,
   "primaryKeyword": "configurar hdr automatico nocturno dash cam viofo",
   "title": "Cómo Programar el Temporizador de HDR Automático (18:00 a 07:00) en Cámaras VIOFO",
-  "seoTitle": "Cómo Programar el Temporizador de HDR Automático (18 | Guía Garaje Listo",
-  "metaDescription": "Cómo Programar el Temporizador de HDR Automático (18:00 a 07:00) en Cámaras VIOFO: Disfruta de 60 fps ultra-fluidos a plena luz del día y cambia automáticamente a 30 fps HDR al anochecer para capturar placas sin reflejos. Guía paso a paso en español, tabla técnica y accesorios recomendados en Amazon.",
-  "excerpt": "Disfruta de 60 fps ultra-fluidos a plena luz del día y cambia automáticamente a 30 fps HDR al anochecer para capturar placas sin reflejos.",
-  "quickAnswer": "Respecto a configurar hdr automatico nocturno dash cam viofo: Disfruta de 60 fps ultra-fluidos a plena luz del día y cambia automáticamente a 30 fps HDR al anochecer para capturar placas sin reflejos. Para hacerlo con total seguridad, verifica siempre las especificaciones de tu vehículo (12V, etiqueta de PSI en el marco de la puerta o código OBD2) y utiliza accesorios con protección electrónica y apagado automático.",
-  "readingMinutes": 7,
+  "seoTitle": "Cómo Programar el Temporizador de HDR Automático (18:00 a 07:00) en Cámaras VIOFO | garajelisto.com",
+  "metaDescription": "Aprende a configurar el HDR automático nocturno (18:00 a 07:00) en tu Dash Cam VIOFO para leer matrículas de noche sin sacrificar nitidez ni 60 fps de día.",
+  "excerpt": "Tutorial paso a paso para programar el temporizador de HDR automático (18:00 a 07:00) en cámaras VIOFO con Sony STARVIS 2: lee matrículas de noche sin perder los 60 fps ni la nitidez de día.",
+  "quickAnswer": "Para programar el **HDR automático nocturno en cámaras VIOFO**, primero ajusta tu **Zona Horaria (Time Zone)** exacta para que el reloj GPS marque la hora local correcta, entra al menú **HDR -> Auto** y establece el encendido a las **18:00** y el apagado a las **07:00**. De este modo, el sensor **Sony STARVIS 2** eliminará el reflejo blanco de las matrículas de noche sin sufrir el efecto fantasma (*ghosting*) ni perder los **60 fps** durante el día.",
+  "readingMinutes": 6,
   "image": {
-    "prompt": "Editorial automotive photography in a clean modern residential garage: Disfruta de 60 fps ultra-fluidos a plena luz del día y cambia automáticamente a 30 fps HDR al anochecer para capturar placas sin reflejos., featuring modern car accessories and tools, natural daylight",
+    "prompt": "Low-angle dramatic hero perspective with soft background bokeh on 35mm lens: realistic scene illustrating 'Cómo Programar el Temporizador de HDR Automático (18:00 a 07:00) en Cámaras VIOFO' (configurar hdr automatico nocturno dash cam viofo) for garajelisto.com, featuring equipment in olive sage green with anodized silver accents, inside a bright contemporary apartment with minimalist decor, soft overcast window light with rich matte contrast. Photorealistic authentic details, natural proportions, zero text, zero letters, zero logos, zero watermarks.",
     "alt": "Cómo Programar el Temporizador de HDR Automático (18:00 a 07:00) en Cámaras VIOFO"
   },
   "blocks": [
     {
       "type": "p",
-      "text": "Para cualquier conductor que quiera mantener su vehículo fiable y seguro, comprender **configurar hdr automatico nocturno dash cam viofo** es una de las habilidades más útiles tanto en el garaje de casa como en carretera. Disfruta de 60 fps ultra-fluidos a plena luz del día y cambia automáticamente a 30 fps HDR al anochecer para capturar placas sin reflejos."
-    },
-    {
-      "type": "p",
-      "text": "En esta guía práctica del silo de **[Camaras Dash Cam Y Seguridad](/camaras-dash-cam-y-seguridad/)** en **GarajeListo.com**, explicamos paso a paso el funcionamiento técnico, los valores exactos que debes comprobar y qué accesorios probados en Amazon —como el arrancador **[NOCO Boost Plus GB40](/resenas-accesorios-auto/noco-boost-plus-gb40-1000a/)**, el inflador **[Fanttik X8 Apex](/resenas-accesorios-auto/fanttik-x8-apex-inflador-portatil/)**, la cámara **[VIOFO A229 Plus](/resenas-accesorios-auto/viofo-a229-plus-dash-cam-starvis-2/)** o el escáner **[BlueDriver Pro OBD2](/resenas-accesorios-auto/bluedriver-bluetooth-pro-obd2/)**— te facilitan el trabajo."
+      "text": "Cuando activas la función **HDR (Alto Rango Dinámico)** en una cámara equipada con el sensor **Sony STARVIS 2** —como la **VIOFO A119 Mini 2**, **VIOFO A229 Plus** o **VIOFO A229 Pro**—, la diferencia de noche es asombrosa: las matrículas reflectantes que antes salían como un rectángulo blanco quemado por tus propios faros LED pasan a leerse con total nitidez. Sin embargo, si dejas ese mismo modo HDR encendido permanentemente a las dos de la tarde bajo un sol radiante, notarás un efecto secundario indeseado: bordes dobles (*ghosting*) en autos que cruzan rápido y una bajada automática de **60 fps a 30 fps**. En nuestro [centro técnico de cámaras dash cam y seguridad](/camaras-dash-cam-y-seguridad/) te explicamos por qué la función **Auto HDR Timer** es el ajuste maestro que resuelve este dilema."
     },
     {
       "type": "h2",
-      "text": "Fundamento técnico y por qué ocurre: configurar hdr automatico nocturno dash cam viofo"
+      "text": "Por Qué el HDR Debe Encenderse de Noche y Apagarse a Plena Luz del Día"
     },
     {
       "type": "p",
-      "text": "En los vehículos actuales con sistema eléctrico de 12V, sensores TPMS, redes CAN-Bus y electrónica sensible, improvisar puede salir caro. Entender cómo funciona **configurar hdr automatico nocturno dash cam viofo** te permite tomar decisiones basadas en datos reales (voltios, amperios, PSI o códigos de diagnóstico) en lugar de adivinar o cambiar piezas sin necesidad."
+      "text": "Para evitar que los faros y las placas reflectantes saturen el sensor en la oscuridad, el algoritmo **Clear HDR** de Sony captura dos exposiciones en cada fotograma: una **exposición larga** para iluminar la calle oscura y una **exposición ultracorta** (de apenas un milisegundo) para rescatar los caracteres negros de la matrícula iluminada, fusionándolas al instante. De noche esto es vital; pero a plena luz del día ya sobra luz natural para que el obturador dispare a **1/2000 de segundo** sin necesidad de fusionar dos tomas. Si mantienes el HDR activo al mediodía, pierdes la fluidez de los **60 fps** y puedes generar ligeros halos al pasar entre sombras de árboles. Además, con la cámara bien configurada podrás aprovechar los [comandos de voz más útiles mientras conduces](/camaras-dash-cam-y-seguridad/comandos-de-voz-mas-utiles-en-una-dash-cam-mientras-conduces/) y saber [qué hacer justo después de un accidente para no perder el video](/camaras-dash-cam-y-seguridad/que-hacer-inmediatamente-despues-de-un-choque-para-no-perder-el-video/)."
     },
     {
       "type": "table",
-      "caption": "Valores de referencia y diagnóstico rápido para: configurar hdr automatico nocturno dash cam viofo",
       "headers": [
-        "Parámetro / Criterio",
-        "Valor o Ajuste Recomendado",
-        "Beneficio Directo en tu Auto"
+        "Ajuste de HDR en Menú",
+        "Rendimiento Diurno (07:00 – 18:00)",
+        "Rendimiento Nocturno (18:00 – 07:00)",
+        "Veredicto Técnico"
       ],
       "rows": [
         [
-          "Principio técnico clave",
-          "Disfruta de 60 fps ultra-fluidos a plena luz del día y cambia automáticamente a 30 fps HDR al anochecer para capturar placas sin reflejos.",
-          "Previene errores y protege la electrónica del vehículo"
+          "HDR: OFF (Siempre apagado)",
+          "Excelente: 60 fps puros (en 2K) y cero artefactos de fusión",
+          "Pobre en placas reflectantes: los faros LED propios queman los números en blanco",
+          "Desaprovecha la principal ventaja del sensor STARVIS 2 de noche"
         ],
         [
-          "Voltaje batería 12V sana",
-          "12.6V en reposo / 13.8V–14.4V en marcha",
-          "Garantiza arranque en frío y carga correcta del alternador"
+          "HDR: ON (Siempre encendido 24h)",
+          "Regular: limita el video a 30 fps y puede crear doble borde a alta velocidad",
+          "Sobresaliente: lectura nítida de matrículas sin reflejos ni halos de faros",
+          "Sacrifica innecesariamente la nitidez cinética durante el día"
         ],
         [
-          "Presión de neumáticos (PSI)",
-          "Medir siempre en frío según etiqueta del pilar B",
-          "Optimiza frenado, consumo y vida útil de la banda de rodadura"
-        ],
-        [
-          "Protección en grabaciones 4K",
-          "Supercondensador + Corte Hardwire a 12.2V",
-          "Resiste hasta 70 °C al sol sin descargar la batería principal"
-        ],
-        [
-          "Seguridad en mantenimiento DIY",
-          "Caballetes (Jack Stands) + Llave dinamométrica",
-          "100% de estabilidad y par de apriete exacto en lb-ft"
+          "HDR: Auto (Temporizador 18:00 a 07:00)",
+          "Excelente: desactiva el HDR de día para máxima fluidez y velocidad de obturación",
+          "Sobresaliente: activa el HDR automáticamente al anochecer sin tocar botones",
+          "Configuración óptima recomendada para uso diario todo el año"
         ]
-      ]
-    },
-    {
-      "type": "callout",
-      "variant": "tip",
-      "title": "Clave práctica de Garaje Listo sobre configurar hdr automatico nocturno dash cam viofo",
-      "text": "Disfruta de 60 fps ultra-fluidos a plena luz del día y cambia automáticamente a 30 fps HDR al anochecer para capturar placas sin reflejos. Verificar este punto te ahorrará tiempo, evitará averías costosas y alargará la vida útil de la batería, neumáticos y electrónica de tu auto."
+      ],
+      "caption": "Comportamiento del sensor Sony STARVIS 2 según la configuración de HDR en cámaras VIOFO"
     },
     {
       "type": "h2",
-      "text": "Procedimiento paso a paso para aplicar configurar hdr automatico nocturno dash cam viofo"
+      "text": "El Requisito Indispensable: Zona Horaria GPS Exacta y Firmware Actualizado"
     },
     {
       "type": "p",
-      "text": "Sigue estos 4 pasos verificados para resolverlo de forma limpia, rápida y segura sin necesidad de herramientas complicadas:"
+      "text": "Como la cámara no utiliza un fotodiodo externo de luz ambiental para decidir cuándo activar el HDR (ya que los túneles o las farolas volverían loco al sistema encendiéndolo y apagándolo cada diez segundos), el procesador se guía por su **reloj interno sincronizado por GPS**. Si dejas la zona horaria (**Time Zone**) en el valor por defecto de fábrica (**GMT+0 o GMT+8**), el temporizador de **18:00 a 07:00** se encenderá al mediodía y se apagará a medianoche. Revisa también cómo complementar esta programación nocturna con el [voltaje correcto de corte del hardwire kit a 12.0V o 12.2V](/camaras-dash-cam-y-seguridad/a-que-voltaje-configurar-el-corte-del-hardwire-kit-12v-12-2v/) si dejas el auto estacionado en la calle."
+    },
+    {
+      "type": "h2",
+      "text": "Cómo Programar el Temporizador de HDR Automático en Cámaras VIOFO Paso a Paso"
+    },
+    {
+      "type": "p",
+      "text": "Puedes realizar este ajuste en menos de dos minutos tanto desde los botones físicos de la pantalla LCD como desde la aplicación móvil **VIOFO App** conectada por Wi-Fi:"
     },
     {
       "type": "steps",
       "items": [
         {
-          "name": "Paso 1: Asegura el vehículo y verifica las condiciones iniciales",
-          "text": "Estaciona en una superficie plana e iluminada, coloca la transmisión en Park (o Primera/Neutro con freno de mano y calzos) y localiza en el marco de la puerta o manual del propietario el valor exacto para tu modelo."
+          "name": "Verifica y corrige primero la Zona Horaria (Time Zone)",
+          "text": "Pausa la grabación pulsando **REC**, entra al menú de ajustes, busca **Time Zone** y selecciona tu huso exacto (por ejemplo, **GMT-5** en Nueva York/Miami/Lima, **GMT-6** en Texas/México o **GMT+1/+2** en España). Comprueba que la hora en la esquina de la pantalla sea la real."
         },
         {
-          "name": "Paso 2: Conecta tu equipo de medición o asistencia respetando el orden",
-          "text": "Ya sea conectando las pinzas anti-chispas de tu arrancador 12V, enroscando el cabezal de tu inflador digital o enchufando el escáner al puerto OBD2 bajo el volante, verifica que el acople sea firme antes de activar el equipo."
+          "name": "Entra en la opción HDR y selecciona 'Auto'",
+          "text": "Desplázate hasta el apartado **HDR** (o **Front/Rear HDR** en los modelos A229 Plus y A229 Pro). En lugar de elegir *On* u *Off*, selecciona la tercera opción: **Auto (HDR Time)**."
         },
         {
-          "name": "Paso 3: Comprueba la lectura digital y ejecuta el ajuste",
-          "text": "Observa el valor en pantalla (voltios, PSI, código DTC o encuadre de cámara) y aplica la corrección recomendada sin exceder los ciclos de trabajo ni los límites del fabricante."
+          "name": "Define la hora de encendido (Start Time: 18:00) y apagado (End Time: 07:00)",
+          "text": "Introduce **18:00** (o **17:30** en meses de invierno donde oscurece temprano) como hora de inicio (**On Time**) y **07:00** como hora de finalización (**Off Time**). Confirma pulsando el botón central **OK**."
         },
         {
-          "name": "Paso 4: Verifica el resultado y guarda tu equipo listo para la próxima vez",
-          "text": "Confirma que las luces de advertencia del tablero se hayan apagado o que la presión/voltaje sea estable, y devuelve el accesorio cargado a su estuche en la guantera o maletero."
+          "name": "Combínalo con una Compensación de Exposición (EV) de -1/3 EV (Opcional)",
+          "text": "Para maximizar aún más la velocidad de obturación nocturna sobre placas muy reflectantes, ajusta el valor **Exposure (EV)** de la cámara frontal en **-1/3 EV** (o mantenlo en **0.0** si conduces por carreteras rurales totalmente a oscuras)."
         }
       ]
     },
     {
       "type": "cta",
-      "text": "¿Tienes una consulta específica sobre configurar hdr automatico nocturno dash cam viofo en el modelo y año de tu auto? Pregúntale gratis a nuestro Asesor Mecánico IA."
-    },
-    {
-      "type": "h2",
-      "text": "Errores frecuentes que debes evitar"
-    },
-    {
-      "type": "ul",
-      "items": [
-        "**Confiar en estimaciones a ojo sin medir:** tanto una batería a 12.0V como un neumático con 26 PSI parecen 'normales' a simple vista, pero están al borde de fallar en carretera.",
-        "**Usar accesorios sin protección electrónica:** evita cables pasa corriente baratos sin relé anti-chispas o cámaras con batería de litio que se hinchan al sol.",
-        "**Forzar el límite de 15 amperios de la toma de encendedor 12V:** para compresores de alto caudal de SUV/4x4, usa modelos que se conecten directo a la batería o inalámbricos de alta eficiencia.",
-        "**Esperar a que ocurra la emergencia para abrir la caja:** prueba y carga siempre tus accesorios en casa el día que los recibes."
-      ]
-    },
-    {
-      "type": "h2",
-      "text": "Qué accesorio de Amazon te recomendamos para solucionarlo"
-    },
-    {
-      "type": "p",
-      "text": "Para aplicar lo aprendido sobre **configurar hdr automatico nocturno dash cam viofo** con total comodidad, revisa nuestra selección de **[los mejores arrancadores de batería portátiles](/mejores-accesorios-auto/mejores-arrancadores-de-bateria-portatiles-amazon/)**, **[los mejores infladores de neumáticos portátiles](/mejores-accesorios-auto/mejores-infladores-de-neumaticos-portatiles-auto/)** y **[las mejores cámaras Dash Cam 4K](/mejores-accesorios-auto/mejores-camaras-dash-cam-4k-frontal-y-trasera/)**. Justo debajo tienes las tarjetas con los modelos compatibles y enlaces directos para consultar el precio hoy en Amazon Estados Unidos."
+      "text": "Revisa la disponibilidad de las cámaras VIOFO con sensor Sony STARVIS 2 y temporizador Auto HDR en las tarjetas de Amazon de esta página o consulta a nuestro Asesor IA para afinar tu configuración nocturna."
     }
   ],
   "faqs": [
     {
-      "q": "¿Cuál es la regla principal que debo recordar sobre configurar hdr automatico nocturno dash cam viofo?",
-      "a": "Disfruta de 60 fps ultra-fluidos a plena luz del día y cambia automáticamente a 30 fps HDR al anochecer para capturar placas sin reflejos. Además, realiza siempre las comprobaciones con herramientas digitales calibradas y siguiendo los valores de la etiqueta oficial de tu vehículo."
+      "q": "¿Si configuro el video en 2K a 60 fps y activo el Auto HDR, la cámara vuelve sola a 60 fps por la mañana?",
+      "a": "Sí. Cuando programas la cámara frontal de una VIOFO A119 Mini 2 o A229 Plus en resolución 2K a 60 fps y activas el temporizador Auto HDR, la cámara grabará a 60 fps reales durante el día (07:00 a 18:00) y bajará sola a 30 fps con HDR a las 18:00, regresando automáticamente a 60 fps a la mañana siguiente."
     },
     {
-      "q": "¿Necesito conocimientos avanzados de mecánica para hacerlo yo mismo?",
-      "a": "No. Con los accesorios portátiles modernos (arrancadores con protección UltraSafe, infladores con Auto-Stop digital y escáneres OBD2 en español), cualquier conductor puede realizarlo en menos de 5 minutos."
+      "q": "¿Es normal que la grabación dé un pequeño salto de 1 segundo justo a las 18:00 cuando se activa el HDR?",
+      "a": "El cambio de modo tarda aproximadamente entre 1 y 2 segundos en el corte del clip de las 18:00 horas. Es completamente normal que en ese instante exacto la cámara cierre el archivo diurno e inicie el siguiente archivo MP4 con el icono 'HDR' visible en la barra superior de la pantalla."
     },
     {
-      "q": "¿Qué herramientas o accesorios básicos debería llevar siempre en el auto?",
-      "a": "El kit esencial recomendado por Garaje Listo consta de 4 elementos: un arrancador de batería de litio (1000A–2000A), un inflador portátil digital de 150 PSI, una cámara Dash Cam con supercondensador y un lector OBD2 en la guantera."
-    }
-  ],
-  "sources": [
-    {
-      "label": "NHTSA – Vehicle Maintenance & Roadside Safety",
-      "url": "https://www.nhtsa.gov/"
-    },
-    {
-      "label": "SAE International – Automotive Technical Standards",
-      "url": "https://www.sae.org/"
+      "q": "¿El temporizador de HDR automático también activa el HDR en la cámara trasera de las VIOFO A229 Plus y Pro?",
+      "a": "Sí. En los modelos de doble o triple canal con STARVIS 2 como la VIOFO A229 Plus y A229 Pro, el temporizador Auto HDR aplica el horario programado tanto al sensor frontal como al sensor trasero IMX675, evitando que los faros altos de los autos que vienen detrás quemen el video nocturno."
     }
   ],
   "related": [
+    "/camaras-dash-cam-y-seguridad/comandos-de-voz-mas-utiles-en-una-dash-cam-mientras-conduces/",
+    "/camaras-dash-cam-y-seguridad/que-hacer-inmediatamente-despues-de-un-choque-para-no-perder-el-video/",
     "/camaras-dash-cam-y-seguridad/",
-    "/camaras-dash-cam-y-seguridad/angulo-de-vision-optimo-en-dash-cam-140-grados-vs-170-grados/",
-    "/camaras-dash-cam-y-seguridad/bateria-externa-para-dash-cam-lifepo4-vale-la-pena/",
-    "/mejores-accesorios-auto/mejores-arrancadores-de-bateria-portatiles-amazon/"
+    "/camaras-dash-cam-y-seguridad/a-que-voltaje-configurar-el-corte-del-hardwire-kit-12v-12-2v/"
   ],
   "datePublished": "2026-11-22",
-  "dateModified": "2026-11-22"
+  "dateModified": "2026-11-25",
+  "imageUrl": "/img/articulos/por-que-activar-el-hdr-automatico-con-temporizador-nocturno.webp"
 }

@@ -4,161 +4,142 @@
   "path": "/diagnostico-obd2-y-codigos/que-significa-el-codigo-p0300-p0301-fallo-de-encendido-cilindros/",
   "isPillar": false,
   "isTransactional": false,
+  "llmAuthored": true,
   "primaryKeyword": "codigo p0300 p0301 fallo de encendido cilindro",
   "title": "Códigos OBD2 P0300, P0301, P0302, P0303 y P0304: Fallo de Encendido en Cilindros (Misfire)",
-  "seoTitle": "Códigos OBD2 P0300, P0301, P0302, P0303 y P0304 | Guía Garaje Listo",
-  "metaDescription": "Códigos OBD2 P0300, P0301, P0302, P0303 y P0304: Fallo de Encendido en Cilindros (Misfire): El truco mecánico de intercambiar la bobina de encendido del cilindro 1 al cilindro 2 y volver a escanear para saber en 5 minutos si falla la bobina o la bujía. Guía paso a paso en español, tabla técnica y accesorios recomendados en Amazon.",
-  "excerpt": "El truco mecánico de intercambiar la bobina de encendido del cilindro 1 al cilindro 2 y volver a escanear para saber en 5 minutos si falla la bobina o la bujía.",
-  "quickAnswer": "Respecto a codigo p0300 p0301 fallo de encendido cilindro: El truco mecánico de intercambiar la bobina de encendido del cilindro 1 al cilindro 2 y volver a escanear para saber en 5 minutos si falla la bobina o la bujía. Para hacerlo con total seguridad, verifica siempre las especificaciones de tu vehículo (12V, etiqueta de PSI en el marco de la puerta o código OBD2) y utiliza accesorios con protección electrónica y apagado automático.",
+  "seoTitle": "Códigos OBD2 P0300, P0301, P0302, P0303 y P0304: Fallo de Encendido en Cilindros (Misfire) | garajelisto.com",
+  "metaDescription": "Aprende a diagnosticar los códigos OBD2 P0300, P0301, P0302, P0303 y P0304 de fallo de encendido intercambiando bobinas sin comprar repuestos a ciegas.",
+  "excerpt": "Diferencia un fallo aleatorio P0300 de un fallo en un cilindro específico (P0301–P0304) y aplica la prueba de intercambio de bobinas COP para encontrar la pieza dañada.",
+  "quickAnswer": "La serie de códigos **P030X** indica un **fallo de combustión (Misfire)**: **P0300** señala fallos aleatorios en múltiples cilindros (causados habitualmente por baja presión de gasolina o fugas de vacío), mientras que **P0301 a P0304** identifican el cilindro exacto que falla (**1 al 4**). Para confirmar si la culpable es la **bobina de encendido**, intercámbiala con el cilindro vecino y verifica con tu escáner si el código se desplaza.",
   "readingMinutes": 7,
   "image": {
-    "prompt": "Editorial automotive photography in a clean modern residential garage: El truco mecánico de intercambiar la bobina de encendido del cilindro 1 al cilindro 2 y volver a escanear para saber en 5 minutos si falla la bobina o la bujía., featuring modern car accessories and tools, natural daylight",
+    "prompt": "Diagonal isometric product-in-use composition in modern home setting: realistic scene illustrating 'Códigos OBD2 P0300, P0301, P0302, P0303 y P0304: Fallo de Encendido en Cilindros (Misfire)' (codigo p0300 p0301 fallo de encendido cilindro) for garajelisto.com, featuring equipment in graphite gray with subtle amber indicator details, in a well-organized domestic utility area with natural plants nearby, sunlit contemporary room with gentle ambient bounce light. Photorealistic authentic details, natural proportions, zero text, zero letters, zero logos, zero watermarks.",
     "alt": "Códigos OBD2 P0300, P0301, P0302, P0303 y P0304: Fallo de Encendido en Cilindros (Misfire)"
   },
   "blocks": [
     {
       "type": "p",
-      "text": "Para cualquier conductor que quiera mantener su vehículo fiable y seguro, comprender **codigo p0300 p0301 fallo de encendido cilindro** es una de las habilidades más útiles tanto en el garaje de casa como en carretera. El truco mecánico de intercambiar la bobina de encendido del cilindro 1 al cilindro 2 y volver a escanear para saber en 5 minutos si falla la bobina o la bujía."
-    },
-    {
-      "type": "p",
-      "text": "En esta guía práctica del silo de **[Diagnostico Obd2 Y Codigos](/diagnostico-obd2-y-codigos/)** en **GarajeListo.com**, explicamos paso a paso el funcionamiento técnico, los valores exactos que debes comprobar y qué accesorios probados en Amazon —como el arrancador **[NOCO Boost Plus GB40](/resenas-accesorios-auto/noco-boost-plus-gb40-1000a/)**, el inflador **[Fanttik X8 Apex](/resenas-accesorios-auto/fanttik-x8-apex-inflador-portatil/)**, la cámara **[VIOFO A229 Plus](/resenas-accesorios-auto/viofo-a229-plus-dash-cam-starvis-2/)** o el escáner **[BlueDriver Pro OBD2](/resenas-accesorios-auto/bluedriver-bluetooth-pro-obd2/)**— te facilitan el trabajo."
+      "text": "Estás detenido en un semáforo con el cambio en posición **D** y notas una sacudida seca bajo el asiento cada pocos segundos; al pisar el acelerador para salir, el motor cabecea, suena ronco como si trabajara \"en tres cilindros\" y se ilumina el testigo Check Engine. Al enchufar tu escáner **OBD2**, te encuentras con uno de los códigos de la familia **P0300 a P0304**. Saber interpretar el último dígito de este código y realizar una prueba manual de diez minutos bajo el capó te ahorrará cambiar juegos completos de bobinas, bujías e inyectores al azar."
     },
     {
       "type": "h2",
-      "text": "Fundamento técnico y por qué ocurre: codigo p0300 p0301 fallo de encendido cilindro"
+      "text": "Por qué el código P0300 exige un diagnóstico distinto al de un solo cilindro"
     },
     {
       "type": "p",
-      "text": "En los vehículos actuales con sistema eléctrico de 12V, sensores TPMS, redes CAN-Bus y electrónica sensible, improvisar puede salir caro. Entender cómo funciona **codigo p0300 p0301 fallo de encendido cilindro** te permite tomar decisiones basadas en datos reales (voltios, amperios, PSI o códigos de diagnóstico) en lugar de adivinar o cambiar piezas sin necesidad."
+      "text": "La computadora del motor detecta los fallos de combustión (**Misfires**) vigilando con el sensor de posición del cigüeñal (**CKP**) la velocidad angular del volante motor tras cada chispa: si un cilindro no explota, el cigüeñal se frena momentáneamente y la ECU identifica exactamente cuál fue. Cuando el escáner muestra **P0300 (Random/Multiple Cylinder Misfire Detected)** sin apuntar a un único cilindro, la causa casi nunca es una bobina aislada, sino un problema compartido que afecta a todo el motor: baja presión en la bomba de gasolina, una entrada de aire no medido en la admisión o suciedad en el medidor de masa de aire. En cambio, cuando aparece **P0301, P0302, P0303 o P0304**, el fallo está confinado a ese cilindro específico, como explicamos en nuestro portal de [diagnóstico OBD2 y códigos de motor](/diagnostico-obd2-y-codigos/)."
     },
     {
       "type": "table",
-      "caption": "Valores de referencia y diagnóstico rápido para: codigo p0300 p0301 fallo de encendido cilindro",
       "headers": [
-        "Parámetro / Criterio",
-        "Valor o Ajuste Recomendado",
-        "Beneficio Directo en tu Auto"
+        "Código OBD2",
+        "Cilindro afectado",
+        "Causas principales más frecuentes",
+        "Prueba de diagnóstico directa"
       ],
       "rows": [
         [
-          "Principio técnico clave",
-          "El truco mecánico de intercambiar la bobina de encendido del cilindro 1 al cilindro 2 y volver a escanear para saber en 5 minutos si falla la bobina o la bujía.",
-          "Previene errores y protege la electrónica del vehículo"
+          "P0300",
+          "Múltiples cilindros al azar",
+          "Fuga de vacío en admisión, presión baja de bomba de combustible, sensor MAF sucio o distribución estirada",
+          "Revisar Fuel Trims (LTFT) en vivo y presión en riel de inyectores"
         ],
         [
-          "Voltaje batería 12V sana",
-          "12.6V en reposo / 13.8V–14.4V en marcha",
-          "Garantiza arranque en frío y carga correcta del alternador"
+          "P0301",
+          "Cilindro Número 1 (frente a correas)",
+          "Bujía desgastada, bobina COP perforada, inyector 1 obstruido o baja compresión en cilindro 1",
+          "Intercambiar la bobina del Cilindro 1 con la del Cilindro 2"
         ],
         [
-          "Presión de neumáticos (PSI)",
-          "Medir siempre en frío según etiqueta del pilar B",
-          "Optimiza frenado, consumo y vida útil de la banda de rodadura"
+          "P0302",
+          "Cilindro Número 2",
+          "Fallo de aislamiento en bobina 2, aceite en el pozo de bujía 2 o cable de inyector 2 sulfatado",
+          "Intercambiar la bobina del Cilindro 2 con la del Cilindro 1 o 3"
         ],
         [
-          "Protección en grabaciones 4K",
-          "Supercondensador + Corte Hardwire a 12.2V",
-          "Resiste hasta 70 °C al sol sin descargar la batería principal"
+          "P0303",
+          "Cilindro Número 3",
+          "Electrodo de bujía 3 abierto (>1.2 mm), bobina 3 defectuosa o válvula de escape 3 quemada",
+          "Intercambiar la bobina del Cilindro 3 con la del Cilindro 4"
         ],
         [
-          "Seguridad en mantenimiento DIY",
-          "Caballetes (Jack Stands) + Llave dinamométrica",
-          "100% de estabilidad y par de apriete exacto en lb-ft"
+          "P0304",
+          "Cilindro Número 4 (junto a caja de cambios)",
+          "Bobina 4 dañada por calor, goteo de inyector 4 o junta de culata comunicada en extremo trasero",
+          "Intercambiar la bobina del Cilindro 4 con la del Cilindro 3"
         ]
-      ]
-    },
-    {
-      "type": "callout",
-      "variant": "tip",
-      "title": "Clave práctica de Garaje Listo sobre codigo p0300 p0301 fallo de encendido cilindro",
-      "text": "El truco mecánico de intercambiar la bobina de encendido del cilindro 1 al cilindro 2 y volver a escanear para saber en 5 minutos si falla la bobina o la bujía. Verificar este punto te ahorrará tiempo, evitará averías costosas y alargará la vida útil de la batería, neumáticos y electrónica de tu auto."
+      ],
+      "caption": "Identificación de códigos de fallo de encendido (Misfire) y componentes sospechosos"
     },
     {
       "type": "h2",
-      "text": "Procedimiento paso a paso para aplicar codigo p0300 p0301 fallo de encendido cilindro"
-    },
-    {
-      "type": "p",
-      "text": "Sigue estos 4 pasos verificados para resolverlo de forma limpia, rápida y segura sin necesidad de herramientas complicadas:"
+      "text": "Método de intercambio de bobinas (Coil Swap) para diagnosticar sin gastar"
     },
     {
       "type": "steps",
       "items": [
         {
-          "name": "Paso 1: Asegura el vehículo y verifica las condiciones iniciales",
-          "text": "Estaciona en una superficie plana e iluminada, coloca la transmisión en Park (o Primera/Neutro con freno de mano y calzos) y localiza en el marco de la puerta o manual del propietario el valor exacto para tu modelo."
+          "name": "Localiza y marca la bobina del cilindro indicado por el código",
+          "text": "En un motor de 4 cilindros en línea, el Cilindro 1 es siempre el que está más cerca de las poleas y la correa de accesorios (frente del bloque), numerándose correlativamente 1-2-3-4 hacia la transmisión. Si tienes el código P0301, marca con un trozo de cinta o rotulador la bobina superior (Coil-On-Plug) del Cilindro 1."
         },
         {
-          "name": "Paso 2: Conecta tu equipo de medición o asistencia respetando el orden",
-          "text": "Ya sea conectando las pinzas anti-chispas de tu arrancador 12V, enroscando el cabezal de tu inflador digital o enchufando el escáner al puerto OBD2 bajo el volante, verifica que el acople sea firme antes de activar el equipo."
+          "name": "Intercambia la bobina sospechosa con la del cilindro vecino e inspecciona la bujía",
+          "text": "Con el motor apagado y frío, desconecta el arnés eléctrico, quita el tornillo de 10 mm y extrae las bobinas de los cilindros 1 y 2. Aprovecha para sacar la bujía del cilindro que fallaba y revisar si está impregnada de aceite, gasolina o tiene la porcelana agrietada. Monta la bobina marcada del cilindro 1 en el pozo del cilindro 2, y viceversa."
         },
         {
-          "name": "Paso 3: Comprueba la lectura digital y ejecuta el ajuste",
-          "text": "Observa el valor en pantalla (voltios, PSI, código DTC o encuadre de cámara) y aplica la corrección recomendada sin exceder los ciclos de trabajo ni los límites del fabricante."
+          "name": "Borra los códigos de falla usando tu escáner OBD2",
+          "text": "Pon el contacto en ON (sin arrancar) y utiliza la función \"Erase Codes / Clear DTCs\" de tu escáner para dejar limpia la memoria de la centralita antes de la prueba."
         },
         {
-          "name": "Paso 4: Verifica el resultado y guarda tu equipo listo para la próxima vez",
-          "text": "Confirma que las luces de advertencia del tablero se hayan apagado o que la presión/voltaje sea estable, y devuelve el accesorio cargado a su estuche en la guantera o maletero."
+          "name": "Arranca el motor y verifica si el código se mudó al nuevo cilindro",
+          "text": "Arranca el auto o da una vuelta corta hasta que sientas el tironeo y vuelve a escanear (incluyendo la carpeta de Códigos Pendientes). Si el código original P0301 desapareció y ahora marca P0302, acabas de confirmar al 100 % que esa bobina marcada está averiada y solo necesitas comprar una bobina nueva."
         }
       ]
     },
     {
-      "type": "cta",
-      "text": "¿Tienes una consulta específica sobre codigo p0300 p0301 fallo de encendido cilindro en el modelo y año de tu auto? Pregúntale gratis a nuestro Asesor Mecánico IA."
+      "type": "p",
+      "text": "¿Y qué sucede si tras intercambiar las bobinas el código vuelve a salir exactamente en el mismo cilindro original (**P0301**)? Entonces ya sabes que la bobina está sana y no debes gastar en ella: el problema reside en la **bujía** de ese cilindro (cámbiala o intercámbiala de posición), en el **inyector de gasolina** del cilindro 1, o en una pérdida de **compresión mecánica** (válvula pisada o aros desgastados, verificable con un compresímetro que debe marcar al menos **120 a 150 PSI** parejos entre los cuatro cilindros). Durante este proceso, recuerda [por qué nunca debes desconectar la batería para apagar el Check Engine en un auto moderno](/diagnostico-obd2-y-codigos/desconectar-la-bateria-para-borrar-check-engine-vs-usar-escaner-obd2/), ya que al hacerlo reiniciarías a cero todos [los monitores I/M Readiness necesarios para pasar la inspección de emisiones](/diagnostico-obd2-y-codigos/que-son-los-monitores-im-readiness-para-pasar-la-inspeccion-smog-check/)."
+    },
+    {
+      "type": "callout",
+      "variant": "tip",
+      "text": "Al extraer la bobina de encendido, observa con lupa su bota de goma inferior. Si está bañada en aceite de motor, la junta de la tapa de balancines tiene fugas y el aceite está derivando la chispa a masa. Si ves una fina línea grisácea o blanquecina parecida a un trazo de lápiz (\"carbon tracking\"), el capuchón aislante está perforado por alta tensión y debes cambiar tanto la bobina como la bujía juntas.",
+      "title": "Revisa aceite o grietas de arco eléctrico en la bota de goma"
     },
     {
       "type": "h2",
-      "text": "Errores frecuentes que debes evitar"
-    },
-    {
-      "type": "ul",
-      "items": [
-        "**Confiar en estimaciones a ojo sin medir:** tanto una batería a 12.0V como un neumático con 26 PSI parecen 'normales' a simple vista, pero están al borde de fallar en carretera.",
-        "**Usar accesorios sin protección electrónica:** evita cables pasa corriente baratos sin relé anti-chispas o cámaras con batería de litio que se hinchan al sol.",
-        "**Forzar el límite de 15 amperios de la toma de encendedor 12V:** para compresores de alto caudal de SUV/4x4, usa modelos que se conecten directo a la batería o inalámbricos de alta eficiencia.",
-        "**Esperar a que ocurra la emergencia para abrir la caja:** prueba y carga siempre tus accesorios en casa el día que los recibes."
-      ]
-    },
-    {
-      "type": "h2",
-      "text": "Qué accesorio de Amazon te recomendamos para solucionarlo"
+      "text": "Cómo usar los contadores de Misfire del Modo 06 en fallas intermitentes"
     },
     {
       "type": "p",
-      "text": "Para aplicar lo aprendido sobre **codigo p0300 p0301 fallo de encendido cilindro** con total comodidad, revisa nuestra selección de **[los mejores arrancadores de batería portátiles](/mejores-accesorios-auto/mejores-arrancadores-de-bateria-portatiles-amazon/)**, **[los mejores infladores de neumáticos portátiles](/mejores-accesorios-auto/mejores-infladores-de-neumaticos-portatiles-auto/)** y **[las mejores cámaras Dash Cam 4K](/mejores-accesorios-auto/mejores-camaras-dash-cam-4k-frontal-y-trasera/)**. Justo debajo tienes las tarjetas con los modelos compatibles y enlaces directos para consultar el precio hoy en Amazon Estados Unidos."
+      "text": "A veces notas un pequeño tirón al acelerar con el aire acondicionado puesto, pero la sacudida no dura lo suficiente como para encender la luz Check Engine ni fijar un código confirmado. En esos casos, entra con un escáner avanzado (como **OBDLink MX+**, **BlueDriver** o **Foxwell**) al menú **Mode precio variable en Amazon (On-Board Monitoring Test Results)** y selecciona `EWMA Misfire Counts` de cada cilindro. Allí podrás ver en tiempo real cuántos fallos individuales de chispa ha contabilizado la ECU en los últimos **10 ciclos de conducción** cilindro por cilindro, descubriendo qué bobina está empezando a fallar semanas antes de que te deje tirado en carretera."
+    },
+    {
+      "type": "cta",
+      "text": "Consulta con nuestro Asesor IA qué escáner OBD2 incluye lectura de contadores Misfire en Modo 06 para tu marca de vehículo, o revisa las opciones disponibles en las tarjetas de Amazon de esta página."
     }
   ],
   "faqs": [
     {
-      "q": "¿Cuál es la regla principal que debo recordar sobre codigo p0300 p0301 fallo de encendido cilindro?",
-      "a": "El truco mecánico de intercambiar la bobina de encendido del cilindro 1 al cilindro 2 y volver a escanear para saber en 5 minutos si falla la bobina o la bujía. Además, realiza siempre las comprobaciones con herramientas digitales calibradas y siguiendo los valores de la etiqueta oficial de tu vehículo."
+      "q": "¿Cómo sé cuál es el cilindro 1, 2, 3 o 4 en el motor de mi auto?",
+      "a": "En los motores de 4 cilindros en línea el orden físico de los cilindros es siempre 1-2-3-4 empezando desde el lado de las correas de distribución, pero en los motores V6 y V8 la numeración varía según el fabricante (por ejemplo, Ford numera 1-2-3-4 en un banco y 5-6-7-8 en el otro, mientras que Chevrolet alterna pares e impares 1-3-5-7 y 2-4-6-8). Consulta siempre el diagrama de tu motor antes de sacar la bobina."
     },
     {
-      "q": "¿Necesito conocimientos avanzados de mecánica para hacerlo yo mismo?",
-      "a": "No. Con los accesorios portátiles modernos (arrancadores con protección UltraSafe, infladores con Auto-Stop digital y escáneres OBD2 en español), cualquier conductor puede realizarlo en menos de 5 minutos."
+      "q": "¿Si tengo el código P0302 debo cambiar las 4 bobinas o solo la del cilindro 2?",
+      "a": "Si solo falló una bobina electrónica y tus bujías son de iridio en buen estado, basta con reemplazar únicamente la bobina averiada. Sin embargo, si el fallo de encendido fue causado por bujías desgastadas por kilometraje, siempre debes cambiar el juego completo de las 4 o 6 bujías para mantener una combustión equilibrada."
     },
     {
-      "q": "¿Qué herramientas o accesorios básicos debería llevar siempre en el auto?",
-      "a": "El kit esencial recomendado por Garaje Listo consta de 4 elementos: un arrancador de batería de litio (1000A–2000A), un inflador portátil digital de 150 PSI, una cámara Dash Cam con supercondensador y un lector OBD2 en la guantera."
-    }
-  ],
-  "sources": [
-    {
-      "label": "NHTSA – Vehicle Maintenance & Roadside Safety",
-      "url": "https://www.nhtsa.gov/"
-    },
-    {
-      "label": "SAE International – Automotive Technical Standards",
-      "url": "https://www.sae.org/"
+      "q": "¿Por qué una bujía vieja puede quemar una bobina de encendido recién comprada?",
+      "a": "Porque cuando una bujía tiene una separación de electrodos excesiva (>1.3 mm) o un aislador cerámico fisurado, la chispa escapa por la pared externa del capuchón de goma de la bobina nueva. Esa descarga de 30.000 voltios quema y carboniza la goma de la bobina recién instalada en pocos kilómetros."
     }
   ],
   "related": [
-    "/diagnostico-obd2-y-codigos/",
-    "/diagnostico-obd2-y-codigos/que-significa-el-codigo-p0171-y-p0174-mezcla-pobre-de-combustible/",
-    "/diagnostico-obd2-y-codigos/que-significa-el-codigo-p0420-catalizador-debajo-del-umbral/",
-    "/mejores-accesorios-auto/mejores-arrancadores-de-bateria-portatiles-amazon/"
+    "/diagnostico-obd2-y-codigos/que-significa-el-codigo-p0128-termostato-refrigerante-frio/",
+    "/diagnostico-obd2-y-codigos/que-son-los-monitores-im-readiness-para-pasar-la-inspeccion-smog-check/",
+    "/diagnostico-obd2-y-codigos/puedo-dejar-el-escaner-obd2-bluetooth-conectado-todo-el-tiempo/",
+    "/diagnostico-obd2-y-codigos/desconectar-la-bateria-para-borrar-check-engine-vs-usar-escaner-obd2/"
   ],
   "datePublished": "2026-11-22",
-  "dateModified": "2026-11-22"
+  "dateModified": "2026-11-25",
+  "imageUrl": "/img/articulos/que-significa-el-codigo-p0300-p0301-fallo-de-encendido-cilindros.webp"
 }

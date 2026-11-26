@@ -4,161 +4,124 @@
   "path": "/camaras-dash-cam-y-seguridad/debo-activar-el-gps-y-la-velocidad-en-pantalla-en-mi-dash-cam/",
   "isPillar": false,
   "isTransactional": false,
+  "llmAuthored": true,
   "primaryKeyword": "mostrar velocidad gps en video de dash cam",
   "title": "¿Conviene Mostrar la Velocidad GPS Grabada en el Video de la Dash Cam?",
-  "seoTitle": "¿Conviene Mostrar la Velocidad GPS Grabada en el Video de la Dash Cam? | Guía Garaje Listo",
-  "metaDescription": "¿Conviene Mostrar la Velocidad GPS Grabada en el Video de la Dash Cam?: Cómo mantener activo el módulo GPS para registrar coordenadas y hora satelital exacta, pero desactivar la marca de agua de mph/km/h en la imagen si lo prefieres. Guía paso a paso en español, tabla técnica y accesorios recomendados en Amazon.",
-  "excerpt": "Cómo mantener activo el módulo GPS para registrar coordenadas y hora satelital exacta, pero desactivar la marca de agua de mph/km/h en la imagen si lo prefieres.",
-  "quickAnswer": "Respecto a mostrar velocidad gps en video de dash cam: Cómo mantener activo el módulo GPS para registrar coordenadas y hora satelital exacta, pero desactivar la marca de agua de mph/km/h en la imagen si lo prefieres. Para hacerlo con total seguridad, verifica siempre las especificaciones de tu vehículo (12V, etiqueta de PSI en el marco de la puerta o código OBD2) y utiliza accesorios con protección electrónica y apagado automático.",
-  "readingMinutes": 7,
+  "seoTitle": "¿Conviene Mostrar la Velocidad GPS Grabada en el Video de la Dash Cam? | garajelisto.com",
+  "metaDescription": "¿Conviene mostrar la velocidad GPS en el video de tu Dash Cam? Conoce los riesgos legales ante aseguradoras y cómo ocultar el sello sin apagar el GPS.",
+  "excerpt": "Analizamos las ventajas y riesgos legales de mostrar la velocidad GPS impresa en el video de tu Dash Cam y cómo ocultar el número en pantalla sin perder la sincronización horaria.",
+  "quickAnswer": "Lo más inteligente es mantener el **módulo GPS encendido (ON)** para sincronizar automáticamente la fecha, hora y coordenadas exactas por satélite, pero **desactivar el sello visual de velocidad en pantalla (Speed Stamp OFF)**. Así evitas que un retraso de **1 a 1.5 segundos** en la lectura GPS durante una frenada de emergencia o un leve exceso de velocidad quede impreso permanentemente sobre el video que envías a la aseguradora.",
+  "readingMinutes": 6,
   "image": {
-    "prompt": "Editorial automotive photography in a clean modern residential garage: Cómo mantener activo el módulo GPS para registrar coordenadas y hora satelital exacta, pero desactivar la marca de agua de mph/km/h en la imagen si lo prefieres., featuring modern car accessories and tools, natural daylight",
+    "prompt": "Corner-framed architectural interior shot with warm ambient daylight: realistic scene illustrating '¿Conviene Mostrar la Velocidad GPS Grabada en el Video de la Dash Cam?' (mostrar velocidad gps en video de dash cam) for garajelisto.com, featuring equipment in terracotta copper accent with matte slate body, inside a bright contemporary apartment with minimalist decor, crisp neutral 5000K daylight with subtle rim highlights. Photorealistic authentic details, natural proportions, zero text, zero letters, zero logos, zero watermarks.",
     "alt": "¿Conviene Mostrar la Velocidad GPS Grabada en el Video de la Dash Cam?"
   },
   "blocks": [
     {
       "type": "p",
-      "text": "Para cualquier conductor que quiera mantener su vehículo fiable y seguro, comprender **mostrar velocidad gps en video de dash cam** es una de las habilidades más útiles tanto en el garaje de casa como en carretera. Cómo mantener activo el módulo GPS para registrar coordenadas y hora satelital exacta, pero desactivar la marca de agua de mph/km/h en la imagen si lo prefieres."
-    },
-    {
-      "type": "p",
-      "text": "En esta guía práctica del silo de **[Camaras Dash Cam Y Seguridad](/camaras-dash-cam-y-seguridad/)** en **GarajeListo.com**, explicamos paso a paso el funcionamiento técnico, los valores exactos que debes comprobar y qué accesorios probados en Amazon —como el arrancador **[NOCO Boost Plus GB40](/resenas-accesorios-auto/noco-boost-plus-gb40-1000a/)**, el inflador **[Fanttik X8 Apex](/resenas-accesorios-auto/fanttik-x8-apex-inflador-portatil/)**, la cámara **[VIOFO A229 Plus](/resenas-accesorios-auto/viofo-a229-plus-dash-cam-starvis-2/)** o el escáner **[BlueDriver Pro OBD2](/resenas-accesorios-auto/bluedriver-bluetooth-pro-obd2/)**— te facilitan el trabajo."
+      "text": "Esa pequeña línea de texto blanco en la esquina inferior de tus grabaciones —donde aparecen los **mph** o **km/h** junto a las coordenadas de latitud y longitud— es un arma legal de doble filo. Si otro conductor invade tu carril en una avenida limitada a **35 mph** y tú circulabas a **34 mph**, el sello en pantalla desmonta al instante cualquier acusación de imprudencia; pero si ibas a **43 mph** siguiendo el flujo normal del tráfico, esa misma marca impresa sobre el video puede ser utilizada por la aseguradora contraria para adjudicarte un porcentaje de culpa compartida. Dentro de nuestro [portal de cámaras dash cam y seguridad](/camaras-dash-cam-y-seguridad/) siempre recomendamos configurar el módulo GPS con criterio estratégico."
     },
     {
       "type": "h2",
-      "text": "Fundamento técnico y por qué ocurre: mostrar velocidad gps en video de dash cam"
+      "text": "Marca de Agua en el Video (OSD Stamp) vs. Metadatos GPS Ocultos"
     },
     {
       "type": "p",
-      "text": "En los vehículos actuales con sistema eléctrico de 12V, sensores TPMS, redes CAN-Bus y electrónica sensible, improvisar puede salir caro. Entender cómo funciona **mostrar velocidad gps en video de dash cam** te permite tomar decisiones basadas en datos reales (voltios, amperios, PSI o códigos de diagnóstico) en lugar de adivinar o cambiar piezas sin necesidad."
+      "text": "La mayoría de los usuarios desconoce que las cámaras de gama media y alta —como la **VIOFO A119 Mini 2**, **VIOFO A229 Plus** o **Vantrue N4 Pro**— separan la recepción satelital en dos funciones independientes dentro del menú de ajustes. Puedes mantener el **receptor GPS activado** pero apagar el **Speed Stamp (sello de velocidad en pantalla)**. De esta forma, el archivo **MP4** se ve limpio sin cifras de velocidad quemadas sobre los píxeles del video, mientras que los datos de telemetría siguen guardándose en una pista de subtítulos oculta. Además, mantener la antena GPS activa es indispensable para sincronizar el reloj interno por satélite y ejecutar funciones avanzadas como [programar el temporizador de HDR automático nocturno](/camaras-dash-cam-y-seguridad/por-que-activar-el-hdr-automatico-con-temporizador-nocturno/)."
     },
     {
       "type": "table",
-      "caption": "Valores de referencia y diagnóstico rápido para: mostrar velocidad gps en video de dash cam",
       "headers": [
-        "Parámetro / Criterio",
-        "Valor o Ajuste Recomendado",
-        "Beneficio Directo en tu Auto"
+        "Ajuste en el Menú de la Cámara",
+        "¿Sincroniza Fecha y Hora Exactas?",
+        "¿Se Ve la Velocidad en el Video MP4?",
+        "¿Queda Registro de Ruta en los Metadatos?"
       ],
       "rows": [
         [
-          "Principio técnico clave",
-          "Cómo mantener activo el módulo GPS para registrar coordenadas y hora satelital exacta, pero desactivar la marca de agua de mph/km/h en la imagen si lo prefieres.",
-          "Previene errores y protege la electrónica del vehículo"
+          "GPS: ON + Speed Stamp: ON",
+          "Sí (automático por satélite)",
+          "Sí (quemada de forma permanente en la imagen)",
+          "Sí (visible en visores GPS de PC/Mac)"
         ],
         [
-          "Voltaje batería 12V sana",
-          "12.6V en reposo / 13.8V–14.4V en marcha",
-          "Garantiza arranque en frío y carga correcta del alternador"
+          "GPS: ON + Speed Stamp: OFF (Recomendado)",
+          "Sí (automático por satélite)",
+          "No (video limpio al compartirlo por WhatsApp o email)",
+          "Sí (extraíble solo si decides aportar el archivo crudo)"
         ],
         [
-          "Presión de neumáticos (PSI)",
-          "Medir siempre en frío según etiqueta del pilar B",
-          "Optimiza frenado, consumo y vida útil de la banda de rodadura"
-        ],
-        [
-          "Protección en grabaciones 4K",
-          "Supercondensador + Corte Hardwire a 12.2V",
-          "Resiste hasta 70 °C al sol sin descargar la batería principal"
-        ],
-        [
-          "Seguridad en mantenimiento DIY",
-          "Caballetes (Jack Stands) + Llave dinamométrica",
-          "100% de estabilidad y par de apriete exacto en lb-ft"
+          "GPS: OFF (Desactivado total)",
+          "No (depende del reloj manual interno)",
+          "No",
+          "No (cero registro de ubicación ni velocidad)"
         ]
-      ]
-    },
-    {
-      "type": "callout",
-      "variant": "tip",
-      "title": "Clave práctica de Garaje Listo sobre mostrar velocidad gps en video de dash cam",
-      "text": "Cómo mantener activo el módulo GPS para registrar coordenadas y hora satelital exacta, pero desactivar la marca de agua de mph/km/h en la imagen si lo prefieres. Verificar este punto te ahorrará tiempo, evitará averías costosas y alargará la vida útil de la batería, neumáticos y electrónica de tu auto."
+      ],
+      "caption": "Efecto de cada configuración del módulo GPS en tu Dash Cam"
     },
     {
       "type": "h2",
-      "text": "Procedimiento paso a paso para aplicar mostrar velocidad gps en video de dash cam"
+      "text": "Desfase de Latencia del GPS y su Valor ante Aseguradoras y Policías"
     },
     {
       "type": "p",
-      "text": "Sigue estos 4 pasos verificados para resolverlo de forma limpia, rápida y segura sin necesidad de herramientas complicadas:"
+      "text": "Un detalle técnico fundamental que debes conocer antes de [proteger el archivo inmediatamente después de un choque](/camaras-dash-cam-y-seguridad/que-hacer-inmediatamente-despues-de-un-choque-para-no-perder-el-video/) es la tasa de refresco del chip GPS. Los módulos integrados en el soporte adhesivo actualizan la posición a una frecuencia de **1 Hz a 5 Hz** (una a cinco veces por segundo) calculando el desplazamiento entre dos puntos satelitales. Si frenas a fondo de emergencia desde **60 mph hasta 0 mph** en dos segundos, el indicador numérico en pantalla suele presentar un **retraso (lag) de 1 a 1.5 segundos**, mostrando que seguías a **35 o 40 mph** en el instante exacto del golpe cuando en realidad tu auto ya estaba casi detenido."
+    },
+    {
+      "type": "h2",
+      "text": "Cómo Configurar el Módulo GPS de Forma Inteligente en 4 Pasos"
+    },
+    {
+      "type": "p",
+      "text": "Para conservar todas las ventajas probatorias y técnicas del posicionamiento satelital sin incriminarte innecesariamente por el desfase de frenado o leves excesos en autopista, aplica estos ajustes:"
     },
     {
       "type": "steps",
       "items": [
         {
-          "name": "Paso 1: Asegura el vehículo y verifica las condiciones iniciales",
-          "text": "Estaciona en una superficie plana e iluminada, coloca la transmisión en Park (o Primera/Neutro con freno de mano y calzos) y localiza en el marco de la puerta o manual del propietario el valor exacto para tu modelo."
+          "name": "Mantén el módulo GPS principal en estado ON",
+          "text": "Entra a la configuración de la cámara y asegúrate de que **GPS = ON**. Así el procesador corregirá automáticamente la fecha y hora cada vez que arranques el motor, evitando que un video tenga fecha del año **2020** (lo que invalidaría la prueba ante un perito)."
         },
         {
-          "name": "Paso 2: Conecta tu equipo de medición o asistencia respetando el orden",
-          "text": "Ya sea conectando las pinzas anti-chispas de tu arrancador 12V, enroscando el cabezal de tu inflador digital o enchufando el escáner al puerto OBD2 bajo el volante, verifica que el acople sea firme antes de activar el equipo."
+          "name": "Ajusta correctamente tu zona horaria (Time Zone / GMT)",
+          "text": "Configura el huso horario exacto de tu región (por ejemplo, **GMT-5** para la Costa Este de EE. UU. o **GMT+1** en España) para que el sello temporal coincida al minuto con el parte policial y con el temporizador de HDR nocturno."
         },
         {
-          "name": "Paso 3: Comprueba la lectura digital y ejecuta el ajuste",
-          "text": "Observa el valor en pantalla (voltios, PSI, código DTC o encuadre de cámara) y aplica la corrección recomendada sin exceder los ciclos de trabajo ni los límites del fabricante."
+          "name": "Desactiva únicamente el sello visual de velocidad (Speed Stamp OFF)",
+          "text": "En el apartado **Video Stamp / OSD Info**, deja activados **Date/Time** y **GPS Coordinates**, pero cambia **Speed Stamp** a **OFF**. El video quedará limpio de números de velocidad en pantalla."
         },
         {
-          "name": "Paso 4: Verifica el resultado y guarda tu equipo listo para la próxima vez",
-          "text": "Confirma que las luces de advertencia del tablero se hayan apagado o que la presión/voltaje sea estable, y devuelve el accesorio cargado a su estuche en la guantera o maletero."
+          "name": "Elige la unidad correcta (MPH o KM/H) para los metadatos internos",
+          "text": "Selecciona **MPH** si conduces en Estados Unidos o **KM/H** en España y Latinoamérica, de modo que si necesitas exportar el informe de telemetría para defenderte de una multa injusta por radar, las unidades coincidan con la vía."
         }
       ]
     },
     {
       "type": "cta",
-      "text": "¿Tienes una consulta específica sobre mostrar velocidad gps en video de dash cam en el modelo y año de tu auto? Pregúntale gratis a nuestro Asesor Mecánico IA."
-    },
-    {
-      "type": "h2",
-      "text": "Errores frecuentes que debes evitar"
-    },
-    {
-      "type": "ul",
-      "items": [
-        "**Confiar en estimaciones a ojo sin medir:** tanto una batería a 12.0V como un neumático con 26 PSI parecen 'normales' a simple vista, pero están al borde de fallar en carretera.",
-        "**Usar accesorios sin protección electrónica:** evita cables pasa corriente baratos sin relé anti-chispas o cámaras con batería de litio que se hinchan al sol.",
-        "**Forzar el límite de 15 amperios de la toma de encendedor 12V:** para compresores de alto caudal de SUV/4x4, usa modelos que se conecten directo a la batería o inalámbricos de alta eficiencia.",
-        "**Esperar a que ocurra la emergencia para abrir la caja:** prueba y carga siempre tus accesorios en casa el día que los recibes."
-      ]
-    },
-    {
-      "type": "h2",
-      "text": "Qué accesorio de Amazon te recomendamos para solucionarlo"
-    },
-    {
-      "type": "p",
-      "text": "Para aplicar lo aprendido sobre **mostrar velocidad gps en video de dash cam** con total comodidad, revisa nuestra selección de **[los mejores arrancadores de batería portátiles](/mejores-accesorios-auto/mejores-arrancadores-de-bateria-portatiles-amazon/)**, **[los mejores infladores de neumáticos portátiles](/mejores-accesorios-auto/mejores-infladores-de-neumaticos-portatiles-auto/)** y **[las mejores cámaras Dash Cam 4K](/mejores-accesorios-auto/mejores-camaras-dash-cam-4k-frontal-y-trasera/)**. Justo debajo tienes las tarjetas con los modelos compatibles y enlaces directos para consultar el precio hoy en Amazon Estados Unidos."
+      "text": "Consulta las cámaras con soporte GPS integrado en el cabezal adhesivo dentro de las tarjetas de Amazon de esta página o pide ayuda a nuestro Asesor IA para configurar tu modelo."
     }
   ],
   "faqs": [
     {
-      "q": "¿Cuál es la regla principal que debo recordar sobre mostrar velocidad gps en video de dash cam?",
-      "a": "Cómo mantener activo el módulo GPS para registrar coordenadas y hora satelital exacta, pero desactivar la marca de agua de mph/km/h en la imagen si lo prefieres. Además, realiza siempre las comprobaciones con herramientas digitales calibradas y siguiendo los valores de la etiqueta oficial de tu vehículo."
+      "q": "¿Un perito de seguros puede ver mi velocidad si apago el sello en pantalla pero dejo el GPS activo?",
+      "a": "Sí. Cuando dejas el GPS encendido pero desactivas el sello visual (Speed Stamp OFF), la velocidad no se dibuja sobre los píxeles del video, pero se guarda en una pista de metadatos dentro del archivo MP4 original. Si entregas el archivo crudo sin recortar, un perito puede leerla con software como Dashcam Viewer."
     },
     {
-      "q": "¿Necesito conocimientos avanzados de mecánica para hacerlo yo mismo?",
-      "a": "No. Con los accesorios portátiles modernos (arrancadores con protección UltraSafe, infladores con Auto-Stop digital y escáneres OBD2 en español), cualquier conductor puede realizarlo en menos de 5 minutos."
+      "q": "¿Por qué no es recomendable apagar por completo el GPS de la Dash Cam?",
+      "a": "Porque sin señal GPS la cámara depende de una pequeña pila botón interna (RTC) para recordar la hora. Si el auto pasa varios días apagado, el reloj puede desfasarse o reiniciarse a la fecha de fábrica, y un video con fecha errónea pierde credibilidad inmediata en una reclamación de seguro."
     },
     {
-      "q": "¿Qué herramientas o accesorios básicos debería llevar siempre en el auto?",
-      "a": "El kit esencial recomendado por Garaje Listo consta de 4 elementos: un arrancador de batería de litio (1000A–2000A), un inflador portátil digital de 150 PSI, una cámara Dash Cam con supercondensador y un lector OBD2 en la guantera."
-    }
-  ],
-  "sources": [
-    {
-      "label": "NHTSA – Vehicle Maintenance & Roadside Safety",
-      "url": "https://www.nhtsa.gov/"
-    },
-    {
-      "label": "SAE International – Automotive Technical Standards",
-      "url": "https://www.sae.org/"
+      "q": "¿Es más precisa la velocidad que marca el GPS de la Dash Cam o el velocímetro del auto?",
+      "a": "El velocímetro del tablero de cualquier automóvil está calibrado por normativa internacional para marcar entre un 2 % y un 5 % por encima de la velocidad real, nunca por debajo. La lectura GPS en tramo recto y llano suele ser más exacta, pero sufre un retraso de 1 segundo durante frenadas bruscas."
     }
   ],
   "related": [
-    "/camaras-dash-cam-y-seguridad/",
-    "/camaras-dash-cam-y-seguridad/por-que-mi-dash-cam-se-reinicia-sola-o-dice-error-de-tarjeta/",
-    "/camaras-dash-cam-y-seguridad/4k-real-8mp-vs-4k-interpolado-2k-60fps-en-dash-cams/",
-    "/mejores-accesorios-auto/mejores-arrancadores-de-bateria-portatiles-amazon/"
+    "/camaras-dash-cam-y-seguridad/que-es-un-adaptador-dongle-de-alimentacion-desde-el-espejo-retrovisor/",
+    "/camaras-dash-cam-y-seguridad/por-que-activar-el-hdr-automatico-con-temporizador-nocturno/",
+    "/camaras-dash-cam-y-seguridad/comandos-de-voz-mas-utiles-en-una-dash-cam-mientras-conduces/",
+    "/camaras-dash-cam-y-seguridad/que-hacer-inmediatamente-despues-de-un-choque-para-no-perder-el-video/"
   ],
   "datePublished": "2026-11-22",
-  "dateModified": "2026-11-22"
+  "dateModified": "2026-11-25",
+  "imageUrl": "/img/articulos/debo-activar-el-gps-y-la-velocidad-en-pantalla-en-mi-dash-cam.webp"
 }

@@ -4,161 +4,130 @@
   "path": "/herramientas-y-mantenimiento-garaje/calendario-de-mantenimiento-preventivo-del-auto-cada-mes-6-meses-y-1-ano/",
   "isPillar": false,
   "isTransactional": false,
+  "llmAuthored": true,
   "primaryKeyword": "calendario de mantenimiento preventivo del auto en casa",
   "title": "Calendario de Mantenimiento Preventivo en Casa: Qué Revisar Cada Mes, Cada 6 Meses y Cada Año",
-  "seoTitle": "Calendario de Mantenimiento Preventivo en Casa | Guía Garaje Listo",
-  "metaDescription": "Calendario de Mantenimiento Preventivo en Casa: Qué Revisar Cada Mes, Cada 6 Meses y Cada Año: Checklist descargable de 10 minutos para mantener neumáticos, batería 12V, filtros, frenos y líquidos al día sin sorpresas en el taller. Guía paso a paso en español, tabla técnica y accesorios recomendados en Amazon.",
-  "excerpt": "Checklist descargable de 10 minutos para mantener neumáticos, batería 12V, filtros, frenos y líquidos al día sin sorpresas en el taller.",
-  "quickAnswer": "Respecto a calendario de mantenimiento preventivo del auto en casa: Checklist descargable de 10 minutos para mantener neumáticos, batería 12V, filtros, frenos y líquidos al día sin sorpresas en el taller. Para hacerlo con total seguridad, verifica siempre las especificaciones de tu vehículo (12V, etiqueta de PSI en el marco de la puerta o código OBD2) y utiliza accesorios con protección electrónica y apagado automático.",
-  "readingMinutes": 7,
+  "seoTitle": "Calendario de Mantenimiento Preventivo en Casa: Qué Revisar Cada Mes, Cada 6 Meses y Cada Año | garajelisto.com",
+  "metaDescription": "Calendario de mantenimiento preventivo del auto en casa: tabla paso a paso con qué revisar cada mes (10 min), cada 6 meses y cada año para evitar averías.",
+  "excerpt": "Organiza el cuidado de tu vehículo en casa con este calendario técnico de mantenimiento preventivo: qué revisar cada mes en 10 minutos, cada 6 meses y cada año sin pisar el taller.",
+  "quickAnswer": "Un calendario de mantenimiento preventivo en casa se divide en tres ciclos: **cada mes** (en **10 minutos** y en frío) ajusta los **PSI** de los cinco neumáticos, mide la varilla de aceite y rellena el limpiaparabrisas; **cada 6 meses** cambia aceite, rota las ruedas, comprueba la batería de **12V** (**≥ 12.6V**) y recarga tu arrancador portátil; y **cada año** sustituye los filtros de aire de motor y cabina, revisa las pastillas de freno y el nivel de refrigerante.",
+  "readingMinutes": 6,
   "image": {
-    "prompt": "Editorial automotive photography in a clean modern residential garage: Checklist descargable de 10 minutos para mantener neumáticos, batería 12V, filtros, frenos y líquidos al día sin sorpresas en el taller., featuring modern car accessories and tools, natural daylight",
+    "prompt": "High-angle 45-degree workbench/tabletop perspective on 28mm lens: realistic scene illustrating 'Calendario de Mantenimiento Preventivo en Casa: Qué Revisar Cada Mes, Cada 6 Meses y Cada Año' (calendario de mantenimiento preventivo del auto en casa) for garajelisto.com, featuring equipment in deep navy blue with satin metallic trim, beside a neat storage shelf in a sunlit modern room, warm golden-hour morning sunlight streaming through a window. Photorealistic authentic details, natural proportions, zero text, zero letters, zero logos, zero watermarks.",
     "alt": "Calendario de Mantenimiento Preventivo en Casa: Qué Revisar Cada Mes, Cada 6 Meses y Cada Año"
   },
   "blocks": [
     {
       "type": "p",
-      "text": "Para cualquier conductor que quiera mantener su vehículo fiable y seguro, comprender **calendario de mantenimiento preventivo del auto en casa** es una de las habilidades más útiles tanto en el garaje de casa como en carretera. Checklist descargable de 10 minutos para mantener neumáticos, batería 12V, filtros, frenos y líquidos al día sin sorpresas en el taller."
-    },
-    {
-      "type": "p",
-      "text": "En esta guía práctica del silo de **[Herramientas Y Mantenimiento Garaje](/herramientas-y-mantenimiento-garaje/)** en **GarajeListo.com**, explicamos paso a paso el funcionamiento técnico, los valores exactos que debes comprobar y qué accesorios probados en Amazon —como el arrancador **[NOCO Boost Plus GB40](/resenas-accesorios-auto/noco-boost-plus-gb40-1000a/)**, el inflador **[Fanttik X8 Apex](/resenas-accesorios-auto/fanttik-x8-apex-inflador-portatil/)**, la cámara **[VIOFO A229 Plus](/resenas-accesorios-auto/viofo-a229-plus-dash-cam-starvis-2/)** o el escáner **[BlueDriver Pro OBD2](/resenas-accesorios-auto/bluedriver-bluetooth-pro-obd2/)**— te facilitan el trabajo."
+      "text": "La mayoría de las averías graves en carretera no ocurren de forma súbita: una batería que muere un lunes por la mañana llevaba semanas bajando de **12.3 voltios** en reposo, y un neumático que revienta en autopista rodaba con **7 PSI** menos de lo indicado en el marco de la puerta. Organizar las revisiones del vehículo en tres bloques temporales —mensual de **10 minutos**, semestral de **30 minutos** y anual de **1 hora**— evita visitas imprevistas al taller y conserva el valor mecánico del motor y la transmisión."
     },
     {
       "type": "h2",
-      "text": "Fundamento técnico y por qué ocurre: calendario de mantenimiento preventivo del auto en casa"
+      "text": "Qué Inspeccionar Cada 30 Días en Frío (Menos de 10 Minutos)"
     },
     {
       "type": "p",
-      "text": "En los vehículos actuales con sistema eléctrico de 12V, sensores TPMS, redes CAN-Bus y electrónica sensible, improvisar puede salir caro. Entender cómo funciona **calendario de mantenimiento preventivo del auto en casa** te permite tomar decisiones basadas en datos reales (voltios, amperios, PSI o códigos de diagnóstico) en lugar de adivinar o cambiar piezas sin necesidad."
+      "text": "El primer sábado de cada mes, antes de arrancar el motor por la mañana, dedica diez minutos a verificar los cuatro puntos que más rápido varían con la temperatura ambiente. Los neumáticos pierden por permeabilidad natural alrededor de **1 PSI al mes** (y otro **1 PSI** adicional por cada **5.5 °C / 10 °F** que baja el termómetro). Utilizar un compresor inalámbrico con pantalla LCD dual como el **Fanttik X8 Apex Tire Inflator** permite igualar las cuatro ruedas de **28 a 33 PSI** en menos de un minuto cada una sin salir del garaje. Aprovecha también para mantener a raya la carga de tu arrancador de emergencia en el maletero, como el **NOCO Boost Plus GB40** o el **AVAPOW A68 6000A** con pantalla digital de porcentaje, dentro de tu rutina del [hub de herramientas y mantenimiento de garaje](/herramientas-y-mantenimiento-garaje/)."
     },
     {
       "type": "table",
-      "caption": "Valores de referencia y diagnóstico rápido para: calendario de mantenimiento preventivo del auto en casa",
       "headers": [
-        "Parámetro / Criterio",
-        "Valor o Ajuste Recomendado",
-        "Beneficio Directo en tu Auto"
+        "Frecuencia",
+        "Componentes a revisar en casa",
+        "Valor o parámetro técnico correcto",
+        "Tiempo estimado"
       ],
       "rows": [
         [
-          "Principio técnico clave",
-          "Checklist descargable de 10 minutos para mantener neumáticos, batería 12V, filtros, frenos y líquidos al día sin sorpresas en el taller.",
-          "Previene errores y protege la electrónica del vehículo"
+          "Cada Mes (en frío)",
+          "Presión de las 4 llantas + repuesto, nivel de varilla de aceite, líquido limpiaparabrisas y luces exteriores",
+          "PSI exactos de la etiqueta de la puerta (repuesto a 60 PSI); aceite entre marcas MIN y MAX",
+          "10 minutos"
         ],
         [
-          "Voltaje batería 12V sana",
-          "12.6V en reposo / 13.8V–14.4V en marcha",
-          "Garantiza arranque en frío y carga correcta del alternador"
+          "Cada 6 Meses (o 8 000 km)",
+          "Cambio de aceite y filtro, rotación de neumáticos, voltaje de batería 12V, correa serpentina y escobillas",
+          "Batería en reposo ≥ 12.6V (alternador a 14.0-14.4V); dibujo de llanta ≥ 3 mm; carga de arrancador al 100 %",
+          "30 a 45 minutos"
         ],
         [
-          "Presión de neumáticos (PSI)",
-          "Medir siempre en frío según etiqueta del pilar B",
-          "Optimiza frenado, consumo y vida útil de la banda de rodadura"
-        ],
-        [
-          "Protección en grabaciones 4K",
-          "Supercondensador + Corte Hardwire a 12.2V",
-          "Resiste hasta 70 °C al sol sin descargar la batería principal"
-        ],
-        [
-          "Seguridad en mantenimiento DIY",
-          "Caballetes (Jack Stands) + Llave dinamométrica",
-          "100% de estabilidad y par de apriete exacto en lb-ft"
+          "Cada Año (o 15 000 km)",
+          "Filtro de aire de motor y de cabina, espesor de pastillas de freno, humedad de líquido de frenos y anticongelante",
+          "Pastillas de freno ≥ 4 mm de ferodo; líquido de frenos con < 2 % de agua; refrigerante al 50/50 entre marcas FULL/LOW",
+          "60 minutos"
         ]
-      ]
-    },
-    {
-      "type": "callout",
-      "variant": "aviso",
-      "title": "Seguridad vial y mecánica ante todo",
-      "text": "Checklist descargable de 10 minutos para mantener neumáticos, batería 12V, filtros, frenos y líquidos al día sin sorpresas en el taller. Aplica siempre este procedimiento con el freno de estacionamiento puesto, en una zona segura fuera del flujo de tráfico y respetando las especificaciones del manual de tu vehículo."
+      ],
+      "caption": "Cronograma maestro de mantenimiento preventivo doméstico por frecuencias"
     },
     {
       "type": "h2",
-      "text": "Procedimiento paso a paso para aplicar calendario de mantenimiento preventivo del auto en casa"
+      "text": "Revisión Semestral: Cambio de Aceite, Rotación de Ruedas y Test de Batería 12V"
     },
     {
       "type": "p",
-      "text": "Sigue estos 4 pasos verificados para resolverlo de forma limpia, rápida y segura sin necesidad de herramientas complicadas:"
+      "text": "Cada **6 meses** (coincidiendo con la entrada del verano y del invierno) o cada **7 500 a 10 000 km** con aceite sintético, toca levantar el vehículo para drenar el lubricante e intercambiar los neumáticos del eje delantero al trasero para compensar el desgaste de tracción y dirección. Antes de aflojar un solo perno, repasa [cómo colocar los caballetes Jack Stands y calzos de rueda](/herramientas-y-mantenimiento-garaje/por-que-nunca-trabajar-bajo-un-auto-sostenido-solo-por-un-gato/) y aplica siempre [el orden en estrella para apretar las tuercas de 4, 5 y 6 birlos](/herramientas-y-mantenimiento-garaje/secuencia-en-estrella-para-aflojar-y-apretar-tuercas-de-4-5-y-6-birlos/) con llave dinamométrica. Es también el momento ideal para renovar las gomas del parabrisas siguiendo nuestra guía sobre [cómo cambiar las escobillas limpiaparabrisas en 3 minutos](/herramientas-y-mantenimiento-garaje/como-cambiar-las-plumillas-limpiaparabrisas-gancho-en-j-y-push-button/)."
+    },
+    {
+      "type": "callout",
+      "variant": "fabricante",
+      "text": "Si al mirar el depósito traslúcido del líquido de frenos ves que el nivel ha bajado hacia la mitad entre MAX y MIN sin que existan manchas húmedas en las ruedas, no rellenes el bote a tope: el fluido simplemente ocupa el espacio de los pistones a medida que las pastillas se desgastan. Si lo rellenas, el líquido rebosará cuando retraigas los pistones al instalar pastillas nuevas.",
+      "title": "El nivel del líquido de frenos es un indicador directo del desgaste de tus pastillas"
+    },
+    {
+      "type": "h2",
+      "text": "Servicio Anual de Primavera u Otoño: Filtros, Frenos y Refrigerante"
+    },
+    {
+      "type": "p",
+      "text": "Una vez al año, realiza estas cuatro comprobaciones que en un concesionario suelen facturar a precio de revisión mayor:"
     },
     {
       "type": "steps",
       "items": [
         {
-          "name": "Paso 1: Asegura el vehículo y verifica las condiciones iniciales",
-          "text": "Estaciona en una superficie plana e iluminada, coloca la transmisión en Park (o Primera/Neutro con freno de mano y calzos) y localiza en el marco de la puerta o manual del propietario el valor exacto para tu modelo."
+          "name": "Sustituye los filtros de aire del motor y del habitáculo",
+          "text": "Desbloquea las grapas de la caja del filtro del motor y saca la bandeja detrás de la guantera; instalar cartuchos limpios mejora el consumo de combustible y elimina el olor a humedad del aire acondicionado."
         },
         {
-          "name": "Paso 2: Conecta tu equipo de medición o asistencia respetando el orden",
-          "text": "Ya sea conectando las pinzas anti-chispas de tu arrancador 12V, enroscando el cabezal de tu inflador digital o enchufando el escáner al puerto OBD2 bajo el volante, verifica que el acople sea firme antes de activar el equipo."
+          "name": "Mide la humedad del líquido de frenos DOT 3 / DOT 4",
+          "text": "Introduce la punta de un probador electrónico tipo bolígrafo en el depósito: como el fluido es higroscópico, si supera el 3 % de agua su punto de ebullición cae y requiere purgado cada 2 o 3 años."
         },
         {
-          "name": "Paso 3: Comprueba la lectura digital y ejecuta el ajuste",
-          "text": "Observa el valor en pantalla (voltios, PSI, código DTC o encuadre de cámara) y aplica la corrección recomendada sin exceder los ciclos de trabajo ni los límites del fabricante."
+          "name": "Inspecciona el grosor de las pastillas a través de los radios de la llanta",
+          "text": "Con una linterna, verifica que el material de fricción supere los 4 mm de espesor (más grueso que la placa metálica de soporte) y que el disco no tenga surcos profundos."
         },
         {
-          "name": "Paso 4: Verifica el resultado y guarda tu equipo listo para la próxima vez",
-          "text": "Confirma que las luces de advertencia del tablero se hayan apagado o que la presión/voltaje sea estable, y devuelve el accesorio cargado a su estuche en la guantera o maletero."
+          "name": "Limpia los desagües del vierteaguas bajo el parabrisas y del techo solar",
+          "text": "Retira las hojas secas acumuladas en la rejilla bajo los limpiaparabrisas para evitar que el agua de lluvia desborde hacia el ventilador de la calefacción o la alfombra del copiloto."
         }
       ]
     },
     {
       "type": "cta",
-      "text": "¿Tienes una consulta específica sobre calendario de mantenimiento preventivo del auto en casa en el modelo y año de tu auto? Pregúntale gratis a nuestro Asesor Mecánico IA."
-    },
-    {
-      "type": "h2",
-      "text": "Errores frecuentes que debes evitar"
-    },
-    {
-      "type": "ul",
-      "items": [
-        "**Confiar en estimaciones a ojo sin medir:** tanto una batería a 12.0V como un neumático con 26 PSI parecen 'normales' a simple vista, pero están al borde de fallar en carretera.",
-        "**Usar accesorios sin protección electrónica:** evita cables pasa corriente baratos sin relé anti-chispas o cámaras con batería de litio que se hinchan al sol.",
-        "**Forzar el límite de 15 amperios de la toma de encendedor 12V:** para compresores de alto caudal de SUV/4x4, usa modelos que se conecten directo a la batería o inalámbricos de alta eficiencia.",
-        "**Esperar a que ocurra la emergencia para abrir la caja:** prueba y carga siempre tus accesorios en casa el día que los recibes."
-      ]
-    },
-    {
-      "type": "h2",
-      "text": "Qué accesorio de Amazon te recomendamos para solucionarlo"
-    },
-    {
-      "type": "p",
-      "text": "Para aplicar lo aprendido sobre **calendario de mantenimiento preventivo del auto en casa** con total comodidad, revisa nuestra selección de **[los mejores arrancadores de batería portátiles](/mejores-accesorios-auto/mejores-arrancadores-de-bateria-portatiles-amazon/)**, **[los mejores infladores de neumáticos portátiles](/mejores-accesorios-auto/mejores-infladores-de-neumaticos-portatiles-auto/)** y **[las mejores cámaras Dash Cam 4K](/mejores-accesorios-auto/mejores-camaras-dash-cam-4k-frontal-y-trasera/)**. Justo debajo tienes las tarjetas con los modelos compatibles y enlaces directos para consultar el precio hoy en Amazon Estados Unidos."
+      "text": "¿Quieres equiparte con un inflador digital, un probador de líquido de frenos o un arrancador de batería para cumplir tu calendario en casa? Consulta a nuestro Asesor IA o revisa las tarjetas de Amazon integradas en esta página."
     }
   ],
   "faqs": [
     {
-      "q": "¿Cuál es la regla principal que debo recordar sobre calendario de mantenimiento preventivo del auto en casa?",
-      "a": "Checklist descargable de 10 minutos para mantener neumáticos, batería 12V, filtros, frenos y líquidos al día sin sorpresas en el taller. Además, realiza siempre las comprobaciones con herramientas digitales calibradas y siguiendo los valores de la etiqueta oficial de tu vehículo."
+      "q": "¿Se debe medir el aceite y la presión de los neumáticos con el motor frío o caliente?",
+      "a": "Para medir la presión de las llantas, el auto debe llevar al menos 3 horas estacionado o haber rodado menos de 1.5 km a baja velocidad. Para el aceite del motor, lo más preciso es medirlo tras apagar el motor y esperar de 5 a 10 minutos sobre suelo completamente plano para que el lubricante escurra al cárter."
     },
     {
-      "q": "¿Necesito conocimientos avanzados de mecánica para hacerlo yo mismo?",
-      "a": "No. Con los accesorios portátiles modernos (arrancadores con protección UltraSafe, infladores con Auto-Stop digital y escáneres OBD2 en español), cualquier conductor puede realizarlo en menos de 5 minutos."
+      "q": "¿Cuál es el patrón correcto para rotar las llantas en casa cada 6 meses?",
+      "a": "En el 90 % de los neumáticos radiales modernos sin sentido de giro único, las dos ruedas del eje motriz (por ejemplo, las delanteras en un tracción delantera) pasan rectas al eje trasero, mientras que las del eje libre se cruzan hacia el eje motriz. Así las cuatro cubiertas se desgastan al mismo ritmo."
     },
     {
-      "q": "¿Qué herramientas o accesorios básicos debería llevar siempre en el auto?",
-      "a": "El kit esencial recomendado por Garaje Listo consta de 4 elementos: un arrancador de batería de litio (1000A–2000A), un inflador portátil digital de 150 PSI, una cámara Dash Cam con supercondensador y un lector OBD2 en la guantera."
-    }
-  ],
-  "sources": [
-    {
-      "label": "NHTSA – Vehicle Maintenance & Roadside Safety",
-      "url": "https://www.nhtsa.gov/"
-    },
-    {
-      "label": "SAE International – Automotive Technical Standards",
-      "url": "https://www.sae.org/"
+      "q": "¿Por qué hay que recargar el arrancador de batería portátil cada 6 meses si no lo he usado?",
+      "a": "Incluso dentro del maletero y sin usarse, las celdas de litio tienen una autodescarga mínima y se ven afectadas por el calor de verano o las heladas de invierno. Recargar el arrancador por USB-C cada 6 meses garantiza que esté al 100 % de capacidad cuando realmente enfrentes una emergencia."
     }
   ],
   "related": [
-    "/herramientas-y-mantenimiento-garaje/",
-    "/herramientas-y-mantenimiento-garaje/donde-colocar-el-gato-hidraulico-sin-doblar-el-chasis-pinch-weld/",
-    "/herramientas-y-mantenimiento-garaje/herramientas-imprescindibles-para-tu-primer-garaje-en-casa-menos-de-150-dolares/",
-    "/mejores-accesorios-auto/mejores-arrancadores-de-bateria-portatiles-amazon/"
+    "/herramientas-y-mantenimiento-garaje/por-que-nunca-trabajar-bajo-un-auto-sostenido-solo-por-un-gato/",
+    "/herramientas-y-mantenimiento-garaje/secuencia-en-estrella-para-aflojar-y-apretar-tuercas-de-4-5-y-6-birlos/",
+    "/herramientas-y-mantenimiento-garaje/diferencia-entre-fusibles-de-auto-mini-low-profile-mini-micro2-y-ato/",
+    "/herramientas-y-mantenimiento-garaje/como-cambiar-las-plumillas-limpiaparabrisas-gancho-en-j-y-push-button/"
   ],
   "datePublished": "2026-11-22",
-  "dateModified": "2026-11-22"
+  "dateModified": "2026-11-25",
+  "imageUrl": "/img/articulos/calendario-de-mantenimiento-preventivo-del-auto-cada-mes-6-meses-y-1-ano.webp"
 }

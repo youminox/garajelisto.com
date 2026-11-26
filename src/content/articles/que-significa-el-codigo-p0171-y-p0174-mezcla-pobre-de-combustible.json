@@ -4,161 +4,114 @@
   "path": "/diagnostico-obd2-y-codigos/que-significa-el-codigo-p0171-y-p0174-mezcla-pobre-de-combustible/",
   "isPillar": false,
   "isTransactional": false,
+  "llmAuthored": true,
   "primaryKeyword": "codigo obd2 p0171 mezcla pobre causas",
   "title": "Códigos OBD2 P0171 y P0174 (System Too Lean): Cómo Encontrar una Fuga de Vacío o Sensor MAF Sucio",
-  "seoTitle": "Códigos OBD2 P0171 y P0174 (System Too Lean) | Guía Garaje Listo",
-  "metaDescription": "Códigos OBD2 P0171 y P0174 (System Too Lean): Cómo Encontrar una Fuga de Vacío o Sensor MAF Sucio: Por qué el 70% de los errores P0171 se resuelven limpiando el sensor de flujo de aire (MAF) con spray específico o revisando mangueras de admisión agrietadas. Guía paso a paso en español, tabla técnica y accesorios recomendados en Amazon.",
-  "excerpt": "Por qué el 70% de los errores P0171 se resuelven limpiando el sensor de flujo de aire (MAF) con spray específico o revisando mangueras de admisión agrietadas.",
-  "quickAnswer": "Respecto a codigo obd2 p0171 mezcla pobre causas: Por qué el 70% de los errores P0171 se resuelven limpiando el sensor de flujo de aire (MAF) con spray específico o revisando mangueras de admisión agrietadas. Para hacerlo con total seguridad, verifica siempre las especificaciones de tu vehículo (12V, etiqueta de PSI en el marco de la puerta o código OBD2) y utiliza accesorios con protección electrónica y apagado automático.",
+  "seoTitle": "Códigos OBD2 P0171 y P0174 (System Too Lean): Cómo Encontrar una Fuga de Vacío o Sensor MAF Sucio | garajelisto.com",
+  "metaDescription": "Aprende a solucionar los códigos OBD2 P0171 y P0174 (System Too Lean): cómo distinguir una fuga de vacío de un sensor MAF sucio o bomba de gasolina débil.",
+  "excerpt": "Cuando el ajuste de combustible LTFT supera el +20 %, salta el código P0171 o P0174. Descubre la prueba de las 2500 RPM con tu escáner para aislar la avería en 3 minutos.",
+  "quickAnswer": "Los códigos **P0171 (Banco 1)** y **P0174 (Banco 2)** se activan cuando el motor recibe demasiado aire o muy poca gasolina y el ajuste de combustible a largo plazo (**LTFT**) supera el **+20 % a +25 %** para compensar. Si el valor **STFT + LTFT** mejora y baja hacia **0 %** al acelerar el motor a **2500 RPM**, la causa es una **fuga de vacío**; si empeora a altas revoluciones, apunta a un **sensor MAF sucio** o baja presión de combustible.",
   "readingMinutes": 7,
   "image": {
-    "prompt": "Editorial automotive photography in a clean modern residential garage: Por qué el 70% de los errores P0171 se resuelven limpiando el sensor de flujo de aire (MAF) con spray específico o revisando mangueras de admisión agrietadas., featuring modern car accessories and tools, natural daylight",
+    "prompt": "Corner-framed architectural interior shot with warm ambient daylight: realistic scene illustrating 'Códigos OBD2 P0171 y P0174 (System Too Lean): Cómo Encontrar una Fuga de Vacío o Sensor MAF Sucio' (codigo obd2 p0171 mezcla pobre causas) for garajelisto.com, featuring equipment in graphite gray with subtle amber indicator details, on a warm walnut table beside a sunlit window, bright diffused skylight with soft natural shadows. Photorealistic authentic details, natural proportions, zero text, zero letters, zero logos, zero watermarks.",
     "alt": "Códigos OBD2 P0171 y P0174 (System Too Lean): Cómo Encontrar una Fuga de Vacío o Sensor MAF Sucio"
   },
   "blocks": [
     {
       "type": "p",
-      "text": "Para cualquier conductor que quiera mantener su vehículo fiable y seguro, comprender **codigo obd2 p0171 mezcla pobre causas** es una de las habilidades más útiles tanto en el garaje de casa como en carretera. Por qué el 70% de los errores P0171 se resuelven limpiando el sensor de flujo de aire (MAF) con spray específico o revisando mangueras de admisión agrietadas."
-    },
-    {
-      "type": "p",
-      "text": "En esta guía práctica del silo de **[Diagnostico Obd2 Y Codigos](/diagnostico-obd2-y-codigos/)** en **GarajeListo.com**, explicamos paso a paso el funcionamiento técnico, los valores exactos que debes comprobar y qué accesorios probados en Amazon —como el arrancador **[NOCO Boost Plus GB40](/resenas-accesorios-auto/noco-boost-plus-gb40-1000a/)**, el inflador **[Fanttik X8 Apex](/resenas-accesorios-auto/fanttik-x8-apex-inflador-portatil/)**, la cámara **[VIOFO A229 Plus](/resenas-accesorios-auto/viofo-a229-plus-dash-cam-starvis-2/)** o el escáner **[BlueDriver Pro OBD2](/resenas-accesorios-auto/bluedriver-bluetooth-pro-obd2/)**— te facilitan el trabajo."
+      "text": "Pocas averías provocan tantos gastos innecesarios en repuestos como el código **P0171 (System Too Lean Bank 1)** y su hermano gemelo **P0174 (System Too Lean Bank 2)**. Como muchas aplicaciones genéricas traducen este código mencionando \"lectura pobre en el sensor de oxígeno\", miles de conductores compran e instalan una sonda lambda nueva, borran el testigo y celebran que la luz se apagó… solo para ver cómo el Check Engine vuelve a encenderse **40 kilómetros después**. El sensor de oxígeno no estaba roto: simplemente estaba haciendo bien su trabajo al avisar que al motor le sobra aire o le falta gasolina."
     },
     {
       "type": "h2",
-      "text": "Fundamento técnico y por qué ocurre: codigo obd2 p0171 mezcla pobre causas"
+      "text": "Por qué el sensor de oxígeno casi nunca es el culpable del código P0171"
     },
     {
       "type": "p",
-      "text": "En los vehículos actuales con sistema eléctrico de 12V, sensores TPMS, redes CAN-Bus y electrónica sensible, improvisar puede salir caro. Entender cómo funciona **codigo obd2 p0171 mezcla pobre causas** te permite tomar decisiones basadas en datos reales (voltios, amperios, PSI o códigos de diagnóstico) en lugar de adivinar o cambiar piezas sin necesidad."
+      "text": "Para que un motor de gasolina funcione de manera limpia y eficiente, la computadora (**ECU**) busca mantener la mezcla estequiométrica ideal de **14.7 gramos de aire por cada 1 gramo de combustible**. El **sensor MAF** (ubicado junto a la caja del filtro de aire) mide cuánto aire entra y la ECU calcula cuántos milisegundos abrir los inyectores. Si una manguera agrietada deja entrar aire \"pirata\" después del sensor MAF, o si el propio MAF está sucio y reporta menos aire del que realmente pasa, en el escape sobrará oxígeno. El sensor de oxígeno delantero detecta esa condición pobre (*Lean*) y ordena a la ECU inyectar más gasolina mediante los ajustes de combustible (**STFT y LTFT**). Cuando la corrección acumulada a largo plazo (**Long Term Fuel Trim**) supera el límite de seguridad de **+20 % a +25 %** durante dos ciclos, la centralita lanza el código **P0171** (o **P0171 + P0174** simultáneos en motores V6/V8 cuando la falla es común a ambos bancos), tal como detallamos en nuestro centro de [diagnóstico OBD2 y códigos de motor](/diagnostico-obd2-y-codigos/)."
     },
     {
       "type": "table",
-      "caption": "Valores de referencia y diagnóstico rápido para: codigo obd2 p0171 mezcla pobre causas",
       "headers": [
-        "Parámetro / Criterio",
-        "Valor o Ajuste Recomendado",
-        "Beneficio Directo en tu Auto"
+        "Lectura de LTFT al ralentí (700 - 800 RPM)",
+        "Lectura de LTFT al acelerar a 2500 RPM fijas",
+        "Causa técnica confirmada",
+        "Componentes exactos a revisar"
       ],
       "rows": [
         [
-          "Principio técnico clave",
-          "Por qué el 70% de los errores P0171 se resuelven limpiando el sensor de flujo de aire (MAF) con spray específico o revisando mangueras de admisión agrietadas.",
-          "Previene errores y protege la electrónica del vehículo"
+          "Muy alto (+18 % a +30 %)",
+          "Baja drásticamente y se acerca a lo normal (+2 % a +6 %)",
+          "Fuga de vacío en admisión (entrada de aire no medido)",
+          "Manguera de válvula PCV, tubo del servofreno, junta del colector o fuelle de admisión roto"
         ],
         [
-          "Voltaje batería 12V sana",
-          "12.6V en reposo / 13.8V–14.4V en marcha",
-          "Garantiza arranque en frío y carga correcta del alternador"
+          "Normal o moderado (+8 % a +14 %)",
+          "Sube todavía más al revolucionar (+22 % a +30 %)",
+          "Sensor MAF sucio o entrega insuficiente de combustible",
+          "Limpiar filamento del sensor MAF con aerosol específico y medir presión de bomba de gasolina"
         ],
         [
-          "Presión de neumáticos (PSI)",
-          "Medir siempre en frío según etiqueta del pilar B",
-          "Optimiza frenado, consumo y vida útil de la banda de rodadura"
-        ],
-        [
-          "Protección en grabaciones 4K",
-          "Supercondensador + Corte Hardwire a 12.2V",
-          "Resiste hasta 70 °C al sol sin descargar la batería principal"
-        ],
-        [
-          "Seguridad en mantenimiento DIY",
-          "Caballetes (Jack Stands) + Llave dinamométrica",
-          "100% de estabilidad y par de apriete exacto en lb-ft"
+          "Alto en Banco 1 (+25 %), pero normal en Banco 2 (+2 %) en motor V6/V8",
+          "Se mantiene descompensado solo en el Banco 1 (solo P0171 sin P0174)",
+          "Falla localizada exclusivamente en la bancada de cilindros 1",
+          "Junta de admisión del lado Banco 1, inyector obstruido en Banco 1 o fuga de escape previa al sensor B1S1"
         ]
-      ]
+      ],
+      "caption": "Diagnóstico diferencial de mezcla pobre (P0171 / P0174) mediante Fuel Trims en vivo"
+    },
+    {
+      "type": "h2",
+      "text": "La prueba de las 2500 RPM con tu escáner OBD2 para cazar fugas de vacío"
+    },
+    {
+      "type": "p",
+      "text": "Con cualquier escáner que muestre datos en vivo (*Live Data*), puedes distinguir en **3 minutos** si tienes una manguera rota o un sensor MAF sucio sin ensuciarte las manos. La explicación física es muy clara: cuando el motor está al ralentí con la mariposa de aceleración casi cerrada, dentro del colector de admisión hay un vacío muy fuerte y el motor aspira poco aire total; por lo tanto, el aire pirata que se cuela por una pequeña grieta de **2 milímetros** representa un porcentaje enorme del aire total y dispara el **LTFT a +25 %**. En cambio, cuando pisas el acelerador en vacío hasta mantener **2500 RPM**, la mariposa se abre, el vacío cae y entran cientos de litros de aire por el conducto principal, haciendo que esa pequeña grieta sea insignificante (el **LTFT** cae hacia **0 %**). Antes de hacer la prueba, revisa también las condiciones exactas en que saltó la falla consultando [para qué sirve la función Freeze Frame (datos congelados) en un escáner OBD2](/diagnostico-obd2-y-codigos/que-es-el-freeze-frame-datos-congelados-en-un-escaner-obd2/), y verifica si el auto registra adicionalmente el [código OBD2 P0401 de flujo insuficiente o válvula EGR atascada](/diagnostico-obd2-y-codigos/que-significa-el-codigo-p0401-flujo-insuficiente-valvula-egr/)."
     },
     {
       "type": "callout",
       "variant": "tip",
-      "title": "Clave práctica de Garaje Listo sobre codigo obd2 p0171 mezcla pobre causas",
-      "text": "Por qué el 70% de los errores P0171 se resuelven limpiando el sensor de flujo de aire (MAF) con spray específico o revisando mangueras de admisión agrietadas. Verificar este punto te ahorrará tiempo, evitará averías costosas y alargará la vida útil de la batería, neumáticos y electrónica de tu auto."
+      "text": "Si la prueba a 2500 RPM apunta al sensor MAF, extráelo quitando sus dos tornillos Torx o Phillips y rocía el filamento interno únicamente con \"MAF Sensor Cleaner\" (como CRC Mass Air Flow Cleaner) a 15 cm de distancia. Jamás uses limpiador de frenos, limpiador de carburadores ni pases un hisopo de algodón por el filamento de platino, ya que lo romperás o disolverás su circuito impreso.",
+      "title": "Limpieza del filamento MAF sin tocarlo jamás"
     },
     {
       "type": "h2",
-      "text": "Procedimiento paso a paso para aplicar codigo obd2 p0171 mezcla pobre causas"
-    },
-    {
-      "type": "p",
-      "text": "Sigue estos 4 pasos verificados para resolverlo de forma limpia, rápida y segura sin necesidad de herramientas complicadas:"
-    },
-    {
-      "type": "steps",
-      "items": [
-        {
-          "name": "Paso 1: Asegura el vehículo y verifica las condiciones iniciales",
-          "text": "Estaciona en una superficie plana e iluminada, coloca la transmisión en Park (o Primera/Neutro con freno de mano y calzos) y localiza en el marco de la puerta o manual del propietario el valor exacto para tu modelo."
-        },
-        {
-          "name": "Paso 2: Conecta tu equipo de medición o asistencia respetando el orden",
-          "text": "Ya sea conectando las pinzas anti-chispas de tu arrancador 12V, enroscando el cabezal de tu inflador digital o enchufando el escáner al puerto OBD2 bajo el volante, verifica que el acople sea firme antes de activar el equipo."
-        },
-        {
-          "name": "Paso 3: Comprueba la lectura digital y ejecuta el ajuste",
-          "text": "Observa el valor en pantalla (voltios, PSI, código DTC o encuadre de cámara) y aplica la corrección recomendada sin exceder los ciclos de trabajo ni los límites del fabricante."
-        },
-        {
-          "name": "Paso 4: Verifica el resultado y guarda tu equipo listo para la próxima vez",
-          "text": "Confirma que las luces de advertencia del tablero se hayan apagado o que la presión/voltaje sea estable, y devuelve el accesorio cargado a su estuche en la guantera o maletero."
-        }
-      ]
-    },
-    {
-      "type": "cta",
-      "text": "¿Tienes una consulta específica sobre codigo obd2 p0171 mezcla pobre causas en el modelo y año de tu auto? Pregúntale gratis a nuestro Asesor Mecánico IA."
-    },
-    {
-      "type": "h2",
-      "text": "Errores frecuentes que debes evitar"
+      "text": "Los 4 puntos de entrada de aire pirata que debes revisar bajo el capó"
     },
     {
       "type": "ul",
       "items": [
-        "**Confiar en estimaciones a ojo sin medir:** tanto una batería a 12.0V como un neumático con 26 PSI parecen 'normales' a simple vista, pero están al borde de fallar en carretera.",
-        "**Usar accesorios sin protección electrónica:** evita cables pasa corriente baratos sin relé anti-chispas o cámaras con batería de litio que se hinchan al sol.",
-        "**Forzar el límite de 15 amperios de la toma de encendedor 12V:** para compresores de alto caudal de SUV/4x4, usa modelos que se conecten directo a la batería o inalámbricos de alta eficiencia.",
-        "**Esperar a que ocurra la emergencia para abrir la caja:** prueba y carga siempre tus accesorios en casa el día que los recibes."
+        "**Pliegues inferiores del tubo acordeón de admisión:** el conducto grueso de goma que va desde la caja del filtro de aire (después del sensor MAF) hasta el cuerpo de aceleración suele rajarse por debajo en los pliegues del fuelle debido al movimiento del motor al acelerar. Desmóntalo y flexiónalo a contraluz para ver si hay grietas ocultas.",
+        "**Manguera de ventilación del cárter (PCV) y tapón de aceite:** una válvula PCV trabada abierta o su manguera de goma cuarteada por los vapores de aceite es la causa número uno de **P0171**. Asegúrate también de que la varilla de medición de aceite y el tapón de llenado estén bien cerrados con su junta tórica sana.",
+        "**Válvula de purga del canister (EVAP Purge Valve) abierta:** si el solenoide de purga se queda atascado abierto, el colector de admisión aspira aire continuo desde el sistema de ventilación del tanque de combustible al ralentí.",
+        "**Manguera de vacío del servofreno (Brake Booster):** escucha si hay un silbido (`hiss`) cerca del cilindro maestro de frenos o si el ralentí tiembla cuando bombeas repetidamente el pedal de freno con el auto detenido."
       ]
     },
     {
-      "type": "h2",
-      "text": "Qué accesorio de Amazon te recomendamos para solucionarlo"
-    },
-    {
-      "type": "p",
-      "text": "Para aplicar lo aprendido sobre **codigo obd2 p0171 mezcla pobre causas** con total comodidad, revisa nuestra selección de **[los mejores arrancadores de batería portátiles](/mejores-accesorios-auto/mejores-arrancadores-de-bateria-portatiles-amazon/)**, **[los mejores infladores de neumáticos portátiles](/mejores-accesorios-auto/mejores-infladores-de-neumaticos-portatiles-auto/)** y **[las mejores cámaras Dash Cam 4K](/mejores-accesorios-auto/mejores-camaras-dash-cam-4k-frontal-y-trasera/)**. Justo debajo tienes las tarjetas con los modelos compatibles y enlaces directos para consultar el precio hoy en Amazon Estados Unidos."
+      "type": "cta",
+      "text": "Pregunta a nuestro Asesor IA qué escáner OBD2 te permite graficar en vivo STFT, LTFT y los gramos por segundo (g/s) del sensor MAF, o revisa las tarjetas de Amazon integradas en esta guía."
     }
   ],
   "faqs": [
     {
-      "q": "¿Cuál es la regla principal que debo recordar sobre codigo obd2 p0171 mezcla pobre causas?",
-      "a": "Por qué el 70% de los errores P0171 se resuelven limpiando el sensor de flujo de aire (MAF) con spray específico o revisando mangueras de admisión agrietadas. Además, realiza siempre las comprobaciones con herramientas digitales calibradas y siguiendo los valores de la etiqueta oficial de tu vehículo."
+      "q": "¿Por qué en mi auto de 4 cilindros solo sale el código P0171 y nunca el P0174?",
+      "a": "Porque en un motor de 4 cilindros en línea solo existe un bloque o hilera de cilindros (Banco 1). El código P0174 se reserva para el Banco 2, que solo existe en motores con dos bancadas de cilindros separadas, como los motores V6, V8 o bóxer de 6 cilindros."
     },
     {
-      "q": "¿Necesito conocimientos avanzados de mecánica para hacerlo yo mismo?",
-      "a": "No. Con los accesorios portátiles modernos (arrancadores con protección UltraSafe, infladores con Auto-Stop digital y escáneres OBD2 en español), cualquier conductor puede realizarlo en menos de 5 minutos."
+      "q": "¿Es seguro buscar una fuga de vacío rociando limpiador de frenos con el motor en marcha?",
+      "a": "Como método de taller, la forma más segura es utilizar una máquina de humo en la admisión con el motor apagado o rociar una pequeña neblina de agua con un pulverizador sobre las juntas y mangueras sospechosas mientras observas la gráfica de STFT en el escáner. Evita rociar aerosoles inflamables sobre colectores de escape calientes por riesgo de incendio."
     },
     {
-      "q": "¿Qué herramientas o accesorios básicos debería llevar siempre en el auto?",
-      "a": "El kit esencial recomendado por Garaje Listo consta de 4 elementos: un arrancador de batería de litio (1000A–2000A), un inflador portátil digital de 150 PSI, una cámara Dash Cam con supercondensador y un lector OBD2 en la guantera."
-    }
-  ],
-  "sources": [
-    {
-      "label": "NHTSA – Vehicle Maintenance & Roadside Safety",
-      "url": "https://www.nhtsa.gov/"
-    },
-    {
-      "label": "SAE International – Automotive Technical Standards",
-      "url": "https://www.sae.org/"
+      "q": "¿Cuántos gramos por segundo (g/s) debe marcar un sensor MAF limpio en el escáner OBD2?",
+      "a": "En un motor calentado a 80 °C - 90 °C y girando al ralentí sin el aire acondicionado puesto, el valor de g/s del sensor MAF debe ser aproximadamente igual a la cilindrada de tu motor en litros (con un margen de ±20 %). Por ejemplo, un motor de 2.0 litros debe marcar cerca de 2.0 a 2.5 g/s al ralentí; si marca 1.1 g/s, el sensor MAF está sucio."
     }
   ],
   "related": [
-    "/diagnostico-obd2-y-codigos/",
-    "/diagnostico-obd2-y-codigos/que-significa-el-codigo-p0455-p0456-fuga-evap-tapa-de-gasolina/",
-    "/diagnostico-obd2-y-codigos/que-significa-el-codigo-p0300-p0301-fallo-de-encendido-cilindros/",
-    "/mejores-accesorios-auto/mejores-arrancadores-de-bateria-portatiles-amazon/"
+    "/diagnostico-obd2-y-codigos/como-leer-la-estructura-de-un-codigo-obd2-p-b-c-u/",
+    "/diagnostico-obd2-y-codigos/que-es-el-freeze-frame-datos-congelados-en-un-escaner-obd2/",
+    "/diagnostico-obd2-y-codigos/como-probar-el-alternador-y-la-caida-de-voltaje-de-arranque-por-obd2/",
+    "/diagnostico-obd2-y-codigos/que-significa-el-codigo-p0401-flujo-insuficiente-valvula-egr/"
   ],
   "datePublished": "2026-11-22",
-  "dateModified": "2026-11-22"
+  "dateModified": "2026-11-25",
+  "imageUrl": "/img/articulos/que-significa-el-codigo-p0171-y-p0174-mezcla-pobre-de-combustible.webp"
 }

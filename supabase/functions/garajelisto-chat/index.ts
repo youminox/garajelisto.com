@@ -60,8 +60,6 @@ const AMAZON_PRODUCTS: Record<string, AmazonProductCard> = {
     title: "NOCO Boost Plus GB40 — Arrancador de Batería de Litio Portátil 1000A 12V (Gasolina 6.0L / Diésel 3.0L)",
     subtitle:
       "El estándar de oro en Amazon EE. UU.: 1000 amperios pico, tecnología UltraSafe anti-chispas y contra polaridad inversa, carcasa IP65 y linterna LED de 100 lúmenes.",
-    rating: "4.7",
-    reviewsCount: "98.500+",
     urlUS: `https://www.amazon.com/s?k=${encodeURIComponent("NOCO Boost Plus GB40 1000A UltraSafe Car Battery Jump Starter")}&tag=${AMAZON_TAG_US}`,
     urlES: `https://www.amazon.es/s?k=${encodeURIComponent("NOCO Boost Plus GB40 Arrancador de Bateria 1000A 12V")}&tag=${AMAZON_TAG_ES}`,
   },
@@ -71,8 +69,6 @@ const AMAZON_PRODUCTS: Record<string, AmazonProductCard> = {
     title: "NOCO Boost HD GB70 — Arrancador de Batería Heavy-Duty 2000A 12V (Gasolina 8.0L / Diésel 6.0L)",
     subtitle:
       "Potencia industrial de 2000A para camionetas Pickup (F-150, Silverado, RAM), SUVs V8 y motores diésel de hasta 6.0 litros con salida 12V para infladores.",
-    rating: "4.8",
-    reviewsCount: "29.400+",
     urlUS: `https://www.amazon.com/s?k=${encodeURIComponent("NOCO Boost HD GB70 2000A UltraSafe Jump Starter")}&tag=${AMAZON_TAG_US}`,
     urlES: `https://www.amazon.es/s?k=${encodeURIComponent("NOCO Boost HD GB70 Arrancador 2000A 12V")}&tag=${AMAZON_TAG_ES}`,
   },
@@ -82,8 +78,6 @@ const AMAZON_PRODUCTS: Record<string, AmazonProductCard> = {
     title: "NOCO Boost X GBX45 — Arrancador de Batería 1250A con Carga Rápida USB-C Power Delivery 60W",
     subtitle:
       "La nueva generación Extreme de NOCO: 1250A de arranque para motores de hasta 6.5L gasolina / 4.0L diésel y recarga en solo 48 minutos por USB-C PD.",
-    rating: "4.6",
-    reviewsCount: "11.200+",
     urlUS: `https://www.amazon.com/s?k=${encodeURIComponent("NOCO Boost X GBX45 1250A USB-C Jump Starter")}&tag=${AMAZON_TAG_US}`,
     urlES: `https://www.amazon.es/s?k=${encodeURIComponent("NOCO Boost X GBX45 1250A Arrancador Bateria USB-C")}&tag=${AMAZON_TAG_ES}`,
   },
@@ -93,8 +87,6 @@ const AMAZON_PRODUCTS: Record<string, AmazonProductCard> = {
     title: "GOOLOO GP4000 — Arrancador Portátil SuperSafe 4000A Pico (Todos los Gasolina y Diésel hasta 10.0L)",
     subtitle:
       "Relación amperios-precio imbatible en Amazon Estados Unidos: 4000A pico, botón BOOST para baterías a 0V, doble USB y entrada/salida USB-C.",
-    rating: "4.6",
-    reviewsCount: "16.800+",
     urlUS: `https://www.amazon.com/s?k=${encodeURIComponent("GOOLOO GP4000 Jump Starter 4000A Peak Car Battery")}&tag=${AMAZON_TAG_US}`,
     urlES: `https://www.amazon.es/s?k=${encodeURIComponent("GOOLOO GP4000 Arrancador de Coches 4000A")}&tag=${AMAZON_TAG_ES}`,
   },
@@ -104,8 +96,6 @@ const AMAZON_PRODUCTS: Record<string, AmazonProductCard> = {
     title: "Fanttik X8 Apex Tire Inflator — Compresor de Aire Portátil Inalámbrico 150 PSI con Pantalla LCD Dual",
     subtitle:
       "Infla un neumático de auto de 28 a 33 PSI en 56 segundos con parada automática exacta (±1 PSI), manguera con acople rápido sin pérdida de aire y batería de larga duración.",
-    rating: "4.7",
-    reviewsCount: "14.300+",
     urlUS: `https://www.amazon.com/s?k=${encodeURIComponent("Fanttik X8 Apex Tire Inflator Portable Air Compressor")}&tag=${AMAZON_TAG_US}`,
     urlES: `https://www.amazon.es/s?k=${encodeURIComponent("Fanttik X8 Apex Inflador de Neumaticos Portatil 150 PSI")}&tag=${AMAZON_TAG_ES}`,
   },
@@ -115,8 +105,6 @@ const AMAZON_PRODUCTS: Record<string, AmazonProductCard> = {
     title: "VIAIR 88P Portable Compressor — Compresor Metálico 12V de Alto Caudal para Camionetas, SUVs y Neumáticos 33”",
     subtitle:
       "Se conecta directo a los bornes de la batería 12V con pinzas caimán para entregar 1.47 CFM sin quemar el fusible del encendedor. Ideal para pickups y overland.",
-    rating: "4.7",
-    reviewsCount: "19.600+",
     urlUS: `https://www.amazon.com/s?k=${encodeURIComponent("VIAIR 88P Portable Air Compressor 12V Heavy Duty")}&tag=${AMAZON_TAG_US}`,
     urlES: `https://www.amazon.es/s?k=${encodeURIComponent("VIAIR 88P Compresor Portatil 12V")}&tag=${AMAZON_TAG_ES}`,
   },
@@ -126,8 +114,6 @@ const AMAZON_PRODUCTS: Record<string, AmazonProductCard> = {
     title: "AstroAI Portable Tire Inflator — Compresor Digital 150 PSI con Apagado Automático y Luz LED",
     subtitle:
       "El inflador económico más vendido en Amazon EE. UU.: configura los PSI de la puerta de tu auto, pulsa inicio y se detiene automáticamente al alcanzar la presión.",
-    rating: "4.5",
-    reviewsCount: "54.000+",
     urlUS: `https://www.amazon.com/s?k=${encodeURIComponent("AstroAI Tire Inflator Portable Air Compressor 12V Digital")}&tag=${AMAZON_TAG_US}`,
     urlES: `https://www.amazon.es/s?k=${encodeURIComponent("AstroAI Compresor de Aire Portatil 12V Digital")}&tag=${AMAZON_TAG_ES}`,
   },
@@ -137,8 +123,6 @@ const AMAZON_PRODUCTS: Record<string, AmazonProductCard> = {
     title: "VIOFO A229 Plus 2CH — Cámara Dash Cam Frontal y Trasera 2K+2K HDR con Sensores Duales Sony STARVIS 2 y Supercondensador",
     subtitle:
       "Lectura nítida de matrículas de noche sin deslumbramiento gracias al sensor Sony STARVIS 2 IMX675 en ambas cámaras, GPS, Wi-Fi 5GHz, control por voz y supercondensador para calor extremo.",
-    rating: "4.6",
-    reviewsCount: "4.900+",
     urlUS: `https://www.amazon.com/s?k=${encodeURIComponent("VIOFO A229 Plus Dash Cam Front and Rear Dual STARVIS 2")}&tag=${AMAZON_TAG_US}`,
     urlES: `https://www.amazon.es/s?k=${encodeURIComponent("VIOFO A229 Plus Dash Cam Frontal y Trasera Sony STARVIS 2")}&tag=${AMAZON_TAG_ES}`,
   },
@@ -148,8 +132,6 @@ const AMAZON_PRODUCTS: Record<string, AmazonProductCard> = {
     title: "REDTIGER F7NP 4K Dash Cam — Cámara de Auto Frontal 4K UHD y Trasera 1080P con Wi-Fi, GPS y Tarjeta SD",
     subtitle:
       "La Dash Cam dual 4K con más reseñas positivas en Amazon US: pantalla IPS de 3.16”, gran angular 170°, visión nocturna WDR, G-Sensor y Modo Parking 24h.",
-    rating: "4.5",
-    reviewsCount: "38.200+",
     urlUS: `https://www.amazon.com/s?k=${encodeURIComponent("REDTIGER F7NP 4K Dash Cam Front Rear WiFi GPS")}&tag=${AMAZON_TAG_US}`,
     urlES: `https://www.amazon.es/s?k=${encodeURIComponent("REDTIGER F7NP Dash Cam 4K Frontal y Trasera WiFi GPS")}&tag=${AMAZON_TAG_ES}`,
   },
@@ -159,8 +141,6 @@ const AMAZON_PRODUCTS: Record<string, AmazonProductCard> = {
     title: "VANTRUE N4 Pro 3 Channel 4K Dash Cam — Cámara Triple Sony STARVIS 2 con Visión Infrarroja de Cabina",
     subtitle:
       "Graba simultáneamente la carretera en 4K, el interior del habitáculo con 4 LEDs infrarrojos y la luneta trasera en 1080P. Favorita de conductores Uber, Lyft y familias.",
-    rating: "4.6",
-    reviewsCount: "6.400+",
     urlUS: `https://www.amazon.com/s?k=${encodeURIComponent("VANTRUE N4 Pro 3 Channel 4K Dash Cam Sony STARVIS 2")}&tag=${AMAZON_TAG_US}`,
     urlES: `https://www.amazon.es/s?k=${encodeURIComponent("VANTRUE N4 Pro 3 Canales 4K Dash Cam")}&tag=${AMAZON_TAG_ES}`,
   },
@@ -170,8 +150,6 @@ const AMAZON_PRODUCTS: Record<string, AmazonProductCard> = {
     title: "BlueDriver Bluetooth Pro OBDII Scan Tool — Escáner de Diagnóstico Automotriz para iPhone y Android (Motor, ABS, Airbag)",
     subtitle:
       "Lee y borra códigos Check Engine, ABS, SRS Airbag y transmisión con base de datos de +30 millones de reparaciones verificadas en EE. UU., sin cuotas mensuales.",
-    rating: "4.7",
-    reviewsCount: "59.800+",
     urlUS: `https://www.amazon.com/s?k=${encodeURIComponent("BlueDriver Bluetooth Pro OBDII Scan Tool for iPhone Android")}&tag=${AMAZON_TAG_US}`,
     urlES: `https://www.amazon.es/s?k=${encodeURIComponent("BlueDriver Bluetooth Pro OBD2 Escaner Diagnostico Coche")}&tag=${AMAZON_TAG_ES}`,
   },
@@ -181,8 +159,6 @@ const AMAZON_PRODUCTS: Record<string, AmazonProductCard> = {
     title: "NOCO GENIUS5 (5A) — Cargador Inteligente, Mantenedor y Desulfatador de Baterías 12V y 6V (AGM, Litio, Plomo)",
     subtitle:
       "Compensación térmica automática, modo de reparación por pulsos para recuperar baterías sulfatadas y modo Force para cargar baterías descargadas hasta 1V.",
-    rating: "4.7",
-    reviewsCount: "62.500+",
     urlUS: `https://www.amazon.com/s?k=${encodeURIComponent("NOCO GENIUS5 5A Smart Car Battery Charger Maintainer Desulfator")}&tag=${AMAZON_TAG_US}`,
     urlES: `https://www.amazon.es/s?k=${encodeURIComponent("NOCO GENIUS5 Cargador Inteligente Bateria Coche 5A 12V")}&tag=${AMAZON_TAG_ES}`,
   },
@@ -591,7 +567,7 @@ Deno.serve(async (req: Request) => {
 Tu doble misión es:
 1. RESPONDER TODAS LAS DUDAS DEL CONDUCTOR con precisión mecánica y eléctrica:
    - Arrancadores de batería 12V: NOCO Boost Plus GB40 (1000A, ideal para motores gasolina hasta 6.0L y diésel 3.0L), NOCO Boost X GBX45 (1250A + carga rápida USB-C 60W), NOCO Boost HD GB70 (2000A para pickups F-150/Silverado/RAM y diésel hasta 6.0L) y GOOLOO GP4000 (4000A mejor relación amperios/precio).
-   - Infladores de neumáticos portátiles: Fanttik X8 Apex (150 PSI inalámbrico con Auto-Stop, infla en 56 s), VIAIR 88P (12V con pinzas a batería para neumáticos grandes de SUV/4x4) y AstroAI Digital 12V (mejor económico < $45).
+   - Infladores de neumáticos portátiles: Fanttik X8 Apex (150 PSI inalámbrico con Auto-Stop, infla en 56 s), VIAIR 88P (12V con pinzas a batería para neumáticos grandes de SUV/4x4) y AstroAI Digital 12V.
    - Cámaras Dash Cam: VIOFO A229 Plus 2CH (doble sensor Sony STARVIS 2 IMX675 + supercondensador), REDTIGER F7NP (4K frontal + trasera 1080P superventas) y VANTRUE N4 Pro (3 canales 4K ideal para Uber/Lyft y familias).
    - Herramientas de garaje y diagnóstico: Escáner Bluetooth BlueDriver Pro OBD2 (motor, ABS, airbag sin suscripción) y cargador/mantenedor NOCO GENIUS5 (5A con desulfatador).
    - Enlazar en tu respuesta a entre 1 y 3 guías de nuestro listado inferior usando Markdown exacto: [Título](${SITE}/categoria/slug/) e incluir sus slugs en "recommended_slugs".

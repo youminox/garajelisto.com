@@ -4,161 +4,128 @@
   "path": "/diagnostico-obd2-y-codigos/como-interpretar-short-term-y-long-term-fuel-trim-stft-ltft/",
   "isPillar": false,
   "isTransactional": false,
+  "llmAuthored": true,
   "primaryKeyword": "como leer fuel trim stft y ltft obd2",
   "title": "Cómo Leer los Fuel Trims (STFT y LTFT) en Vivo con tu Escáner OBD2 como un Mecánico Profesional",
-  "seoTitle": "Cómo Leer los Fuel Trims (STFT y LTFT) en Vivo con tu Escáner OBD2 como un Mecánico Profesional | Guía Garaje Listo",
-  "metaDescription": "Cómo Leer los Fuel Trims (STFT y LTFT) en Vivo con tu Escáner OBD2 como un Mecánico Profesional: Por qué un ajuste de combustible entre -5% y +5% es perfecto, y por qué valores mayores a +10% o -10% revelan entradas de aire pirata o inyectores goteando. Guía paso a paso en español, tabla técnica y accesorios recomendados en Amazon.",
-  "excerpt": "Por qué un ajuste de combustible entre -5% y +5% es perfecto, y por qué valores mayores a +10% o -10% revelan entradas de aire pirata o inyectores goteando.",
-  "quickAnswer": "Respecto a como leer fuel trim stft y ltft obd2: Por qué un ajuste de combustible entre -5% y +5% es perfecto, y por qué valores mayores a +10% o -10% revelan entradas de aire pirata o inyectores goteando. Para hacerlo con total seguridad, verifica siempre las especificaciones de tu vehículo (12V, etiqueta de PSI en el marco de la puerta o código OBD2) y utiliza accesorios con protección electrónica y apagado automático.",
+  "seoTitle": "Cómo Leer los Fuel Trims (STFT y LTFT) en Vivo con tu Escáner OBD2 como un Mecánico Profesional | garajelisto.com",
+  "metaDescription": "Aprende cómo leer los Fuel Trims (STFT y LTFT) en tu escáner OBD2: qué porcentajes son normales y cómo detectar fugas de vacío o inyectores a 2500 RPM.",
+  "excerpt": "Domina el diagnóstico por ajustes de combustible a corto y largo plazo: interpreta valores positivos y negativos en vivo para diferenciar una entrada de aire pirata de una bomba de gasolina cansada.",
+  "quickAnswer": "Los **Fuel Trims** (**STFT** a corto plazo y **LTFT** a largo plazo) expresan en porcentaje cuánto combustible añade (**valores positivos +**) o recorta (**valores negativos -**) la computadora del motor respecto a su mapa base para mantener la mezcla estequiométrica ideal (**14.7:1**). En un motor sano, la suma de ambos ajustes debe mantenerse dentro de **±5 % a ±8 %**; superar **±20 % a ±25 %** dispara códigos de mezcla pobre o rica.",
   "readingMinutes": 7,
   "image": {
-    "prompt": "Editorial automotive photography in a clean modern residential garage: Por qué un ajuste de combustible entre -5% y +5% es perfecto, y por qué valores mayores a +10% o -10% revelan entradas de aire pirata o inyectores goteando., featuring modern car accessories and tools, natural daylight",
+    "prompt": "Top-down flat-lay knolling arrangement with accessories: realistic scene illustrating 'Cómo Leer los Fuel Trims (STFT y LTFT) en Vivo con tu Escáner OBD2 como un Mecánico Profesional' (como leer fuel trim stft y ltft obd2) for garajelisto.com, featuring equipment in deep navy blue with satin metallic trim, on a solid oak workbench in a tidy modern home space, bright diffused skylight with soft natural shadows. Photorealistic authentic details, natural proportions, zero text, zero letters, zero logos, zero watermarks.",
     "alt": "Cómo Leer los Fuel Trims (STFT y LTFT) en Vivo con tu Escáner OBD2 como un Mecánico Profesional"
   },
   "blocks": [
     {
       "type": "p",
-      "text": "Para cualquier conductor que quiera mantener su vehículo fiable y seguro, comprender **como leer fuel trim stft y ltft obd2** es una de las habilidades más útiles tanto en el garaje de casa como en carretera. Por qué un ajuste de combustible entre -5% y +5% es perfecto, y por qué valores mayores a +10% o -10% revelan entradas de aire pirata o inyectores goteando."
-    },
-    {
-      "type": "p",
-      "text": "En esta guía práctica del silo de **[Diagnostico Obd2 Y Codigos](/diagnostico-obd2-y-codigos/)** en **GarajeListo.com**, explicamos paso a paso el funcionamiento técnico, los valores exactos que debes comprobar y qué accesorios probados en Amazon —como el arrancador **[NOCO Boost Plus GB40](/resenas-accesorios-auto/noco-boost-plus-gb40-1000a/)**, el inflador **[Fanttik X8 Apex](/resenas-accesorios-auto/fanttik-x8-apex-inflador-portatil/)**, la cámara **[VIOFO A229 Plus](/resenas-accesorios-auto/viofo-a229-plus-dash-cam-starvis-2/)** o el escáner **[BlueDriver Pro OBD2](/resenas-accesorios-auto/bluedriver-bluetooth-pro-obd2/)**— te facilitan el trabajo."
+      "text": "Mientras el conductor promedio conecta un lector solo para buscar un código de cinco caracteres, el técnico diagnosticador abre directamente el flujo de datos en vivo (**Live Data**) y fija la vista en dos parámetros expresados en porcentaje: **SHRTFT1 (STFT)** y **LONGFT1 (LTFT)**. Esas dos cifras muestran en tiempo real cuánto esfuerzo está haciendo la computadora del motor para mantener viva la combustión ideal y delatan desgastes meses antes de que se encienda el Check Engine. Dominar **cómo leer Fuel Trim STFT y LTFT por OBD2** te permite distinguir desde un [código P0101 por sensor MAF sucio](/diagnostico-obd2-y-codigos/que-significa-el-codigo-p0101-sensor-maf-flujo-de-masa-de-aire/) hasta una manguera de admisión agrietada sin soltar un solo tornillo, tal como enseñamos en nuestras [guías de diagnóstico OBD2 y códigos](/diagnostico-obd2-y-codigos/)."
     },
     {
       "type": "h2",
-      "text": "Fundamento técnico y por qué ocurre: como leer fuel trim stft y ltft obd2"
+      "text": "Qué significan los porcentajes positivos (+) y negativos (-) en STFT y LTFT"
     },
     {
       "type": "p",
-      "text": "En los vehículos actuales con sistema eléctrico de 12V, sensores TPMS, redes CAN-Bus y electrónica sensible, improvisar puede salir caro. Entender cómo funciona **como leer fuel trim stft y ltft obd2** te permite tomar decisiones basadas en datos reales (voltios, amperios, PSI o códigos de diagnóstico) en lugar de adivinar o cambiar piezas sin necesidad."
+      "text": "Para que el catalizador funcione y el motor entregue su potencia óptima, la centralita (**ECM/PCM**) busca mantener siempre la mezcla estequiométrica de **14.7 partes de aire por 1 de gasolina**. El **Short Term Fuel Trim (STFT o ajuste a corto plazo)** reacciona varias veces por segundo a la lectura del sensor de oxígeno delantero (**Upstream O2 / AFR**), corrigiendo desviaciones inmediatas. Si el **STFT** permanece desplazado hacia un lado durante varios minutos, la computadora memoriza esa tendencia en la tabla del **Long Term Fuel Trim (LTFT o ajuste a largo plazo)** para que el **STFT** vuelva a centrarse cerca de **0 %**. La clave técnica es no confundir el signo: un **Fuel Trim positivo alto (ej. +18 %)** significa que había **demasiado oxígeno (mezcla pobre)** en el escape y la ECU está **añadiendo un 18 % más de gasolina**; en cambio, un **Fuel Trim negativo (ej. -16 %)** indica **mezcla rica** y la ECU está **restando combustible**."
     },
     {
       "type": "table",
-      "caption": "Valores de referencia y diagnóstico rápido para: como leer fuel trim stft y ltft obd2",
       "headers": [
-        "Parámetro / Criterio",
-        "Valor o Ajuste Recomendado",
-        "Beneficio Directo en tu Auto"
+        "Rango de Fuel Trim Total",
+        "Estado de la mezcla",
+        "Acción correctiva de la ECU",
+        "Causas mecánicas más probables"
       ],
       "rows": [
         [
-          "Principio técnico clave",
-          "Por qué un ajuste de combustible entre -5% y +5% es perfecto, y por qué valores mayores a +10% o -10% revelan entradas de aire pirata o inyectores goteando.",
-          "Previene errores y protege la electrónica del vehículo"
+          "Entre -5 % y +5 % (hasta ±8 %)",
+          "Óptima (14.7:1)",
+          "Ajuste fino normal de operación",
+          "Motor estanco, sensores MAF/O2 e inyectores en excelente estado"
         ],
         [
-          "Voltaje batería 12V sana",
-          "12.6V en reposo / 13.8V–14.4V en marcha",
-          "Garantiza arranque en frío y carga correcta del alternador"
+          "Entre +10 % y +18 %",
+          "Tendencia pobre moderada",
+          "Alargando el pulso de inyección",
+          "Microfuga de vacío, filtro de combustible sucio o filamento MAF con polvo"
         ],
         [
-          "Presión de neumáticos (PSI)",
-          "Medir siempre en frío según etiqueta del pilar B",
-          "Optimiza frenado, consumo y vida útil de la banda de rodadura"
+          "Mayor a +20 % / +25 %",
+          "Mezcla crítica pobre (P0171/P0174)",
+          "Límite de enriquecimiento superado",
+          "Manguera de vacío rota, bomba de gasolina débil o fuga en escape antes del O2"
         ],
         [
-          "Protección en grabaciones 4K",
-          "Supercondensador + Corte Hardwire a 12.2V",
-          "Resiste hasta 70 °C al sol sin descargar la batería principal"
-        ],
-        [
-          "Seguridad en mantenimiento DIY",
-          "Caballetes (Jack Stands) + Llave dinamométrica",
-          "100% de estabilidad y par de apriete exacto en lb-ft"
+          "Menor a -15 % / -25 %",
+          "Mezcla crítica rica (P0172/P0175)",
+          "Recortando gasolina al máximo",
+          "Inyector goteando, válvula de purga EVAP trabada abierta o filtro de aire tapado"
         ]
-      ]
-    },
-    {
-      "type": "callout",
-      "variant": "tip",
-      "title": "Clave práctica de Garaje Listo sobre como leer fuel trim stft y ltft obd2",
-      "text": "Por qué un ajuste de combustible entre -5% y +5% es perfecto, y por qué valores mayores a +10% o -10% revelan entradas de aire pirata o inyectores goteando. Verificar este punto te ahorrará tiempo, evitará averías costosas y alargará la vida útil de la batería, neumáticos y electrónica de tu auto."
+      ],
+      "caption": "Tabla de diagnóstico rápido según lecturas de Fuel Trim Total (Suma de STFT + LTFT)"
     },
     {
       "type": "h2",
-      "text": "Procedimiento paso a paso para aplicar como leer fuel trim stft y ltft obd2"
-    },
-    {
-      "type": "p",
-      "text": "Sigue estos 4 pasos verificados para resolverlo de forma limpia, rápida y segura sin necesidad de herramientas complicadas:"
+      "text": "La prueba maestra de las 2,500 RPM para cazar fugas de vacío en 30 segundos"
     },
     {
       "type": "steps",
       "items": [
         {
-          "name": "Paso 1: Asegura el vehículo y verifica las condiciones iniciales",
-          "text": "Estaciona en una superficie plana e iluminada, coloca la transmisión en Park (o Primera/Neutro con freno de mano y calzos) y localiza en el marco de la puerta o manual del propietario el valor exacto para tu modelo."
+          "name": "Calentar el motor hasta que entre en Closed Loop (Bucle Cerrado)",
+          "text": "Conecta tu escáner (como el OBDLink MX+, BlueDriver o Innova 5610) y espera a que el refrigerante supere los 80 °C. En arranque en frío (Open Loop), la computadora ignora los sensores de oxígeno y el STFT permanecerá fijo en 0 %."
         },
         {
-          "name": "Paso 2: Conecta tu equipo de medición o asistencia respetando el orden",
-          "text": "Ya sea conectando las pinzas anti-chispas de tu arrancador 12V, enroscando el cabezal de tu inflador digital o enchufando el escáner al puerto OBD2 bajo el volante, verifica que el acople sea firme antes de activar el equipo."
+          "name": "Sumar el STFT y el LTFT con el motor en ralentí (750 RPM)",
+          "text": "Con el auto detenido y sin aire acondicionado, observa ambos porcentajes. Supongamos que tienes un LTFT de +18 % y un STFT de +4 % (un ajuste total de +22 %, típico de cuando además aparece el código P0507 de ralentí alto)."
         },
         {
-          "name": "Paso 3: Comprueba la lectura digital y ejecuta el ajuste",
-          "text": "Observa el valor en pantalla (voltios, PSI, código DTC o encuadre de cámara) y aplica la corrección recomendada sin exceder los ciclos de trabajo ni los límites del fabricante."
-        },
-        {
-          "name": "Paso 4: Verifica el resultado y guarda tu equipo listo para la próxima vez",
-          "text": "Confirma que las luces de advertencia del tablero se hayan apagado o que la presión/voltaje sea estable, y devuelve el accesorio cargado a su estuche en la guantera o maletero."
+          "name": "Acelerar en vacío a 2,500 RPM durante 30 segundos y observar la caída",
+          "text": "Mantén el pedal firme a 2,500 RPM en Park o Neutral. Si el Fuel Trim total cae drásticamente hacia cero (por ejemplo, baja de +22 % a +3 %), has confirmado al 100 % una fuga de vacío en admisión: al abrir la mariposa entra tanto aire por el conducto principal que la grieta pierde importancia. Si a 2,500 RPM el ajuste sigue en +22 % o sube más, descarta fugas de vacío: el problema es falta de presión en la bomba de gasolina o un sensor MAF sucio."
         }
       ]
     },
     {
-      "type": "cta",
-      "text": "¿Tienes una consulta específica sobre como leer fuel trim stft y ltft obd2 en el modelo y año de tu auto? Pregúntale gratis a nuestro Asesor Mecánico IA."
+      "type": "callout",
+      "variant": "tip",
+      "text": "Si conduces un motor V6 o V8, tu escáner mostrará cuatro líneas: STFT1/LTFT1 (Banco 1) y STFT2/LTFT2 (Banco 2). Si ambos bancos marcan +20 % al mismo tiempo, no busques en los cilindros individuales: el problema está en un componente compartido por todo el motor, como el sensor MAF, la bomba de combustible en el tanque o el tubo del servofreno. Si solo el Banco 1 marca +22 % y el Banco 2 está en +1 %, la falla es exclusiva de esa culata (junta del múltiple de ese lado, inyector obstruido o grieta en ese colector de escape).",
+      "title": "En motores V6 o V8 compara siempre el Banco 1 contra el Banco 2"
     },
     {
       "type": "h2",
-      "text": "Errores frecuentes que debes evitar"
-    },
-    {
-      "type": "ul",
-      "items": [
-        "**Confiar en estimaciones a ojo sin medir:** tanto una batería a 12.0V como un neumático con 26 PSI parecen 'normales' a simple vista, pero están al borde de fallar en carretera.",
-        "**Usar accesorios sin protección electrónica:** evita cables pasa corriente baratos sin relé anti-chispas o cámaras con batería de litio que se hinchan al sol.",
-        "**Forzar el límite de 15 amperios de la toma de encendedor 12V:** para compresores de alto caudal de SUV/4x4, usa modelos que se conecten directo a la batería o inalámbricos de alta eficiencia.",
-        "**Esperar a que ocurra la emergencia para abrir la caja:** prueba y carga siempre tus accesorios en casa el día que los recibes."
-      ]
-    },
-    {
-      "type": "h2",
-      "text": "Qué accesorio de Amazon te recomendamos para solucionarlo"
+      "text": "Cómo ubicar la grieta exacta en admisión mirando la gráfica del STFT"
     },
     {
       "type": "p",
-      "text": "Para aplicar lo aprendido sobre **como leer fuel trim stft y ltft obd2** con total comodidad, revisa nuestra selección de **[los mejores arrancadores de batería portátiles](/mejores-accesorios-auto/mejores-arrancadores-de-bateria-portatiles-amazon/)**, **[los mejores infladores de neumáticos portátiles](/mejores-accesorios-auto/mejores-infladores-de-neumaticos-portatiles-auto/)** y **[las mejores cámaras Dash Cam 4K](/mejores-accesorios-auto/mejores-camaras-dash-cam-4k-frontal-y-trasera/)**. Justo debajo tienes las tarjetas con los modelos compatibles y enlaces directos para consultar el precio hoy en Amazon Estados Unidos."
+      "text": "Una vez que la prueba de las **2,500 RPM** te confirma que entra aire pirata no medido después del caudalímetro, pon tu escáner en modo gráfico mostrando únicamente la línea del **STFT** con el motor en ralentí. Con mucha precaución, rocía pulsos cortos de limpiador de frenos (o agua pulverizada) alrededor de las juntas del colector de admisión, la manguera de la válvula **PCV**, los sellos de goma de los inyectores y la base del cuerpo de aceleración, donde suelen originarse fallos como el [código P0507 de ralentí más alto de lo esperado](/diagnostico-obd2-y-codigos/que-significa-el-codigo-p0507-ralenti-alto-cuerpo-de-aceleracion/). En el segundo exacto en que el chorro sea succionado por la grieta, el hidrocarburo del aerosol enriquecerá la mezcla de golpe y verás en la pantalla de tu escáner que la curva del **STFT** cae en picado hacia **-15 % o -25 %**, revelándote el milímetro exacto de la fuga."
+    },
+    {
+      "type": "cta",
+      "text": "¿Quieres un escáner OBD2 capaz de graficar simultáneamente el STFT, el LTFT y las RPM con alta velocidad de refresco? Consulta a nuestro Asesor IA o revisa la disponibilidad actual en las tarjetas de Amazon integradas en esta página."
     }
   ],
   "faqs": [
     {
-      "q": "¿Cuál es la regla principal que debo recordar sobre como leer fuel trim stft y ltft obd2?",
-      "a": "Por qué un ajuste de combustible entre -5% y +5% es perfecto, y por qué valores mayores a +10% o -10% revelan entradas de aire pirata o inyectores goteando. Además, realiza siempre las comprobaciones con herramientas digitales calibradas y siguiendo los valores de la etiqueta oficial de tu vehículo."
+      "q": "¿Cómo se calcula el Fuel Trim total si el LTFT es positivo y el STFT es negativo?",
+      "a": "Para hallar el ajuste total de combustible (Total Fuel Trim), debes sumar algebraicamente ambos porcentajes en ese instante. Por ejemplo, si tu LTFT marca +14 % y tu STFT marca -4 %, el ajuste neto real que está aplicando la computadora es de +10 % (14 menos 4), lo cual está justo en el límite aceptable."
     },
     {
-      "q": "¿Necesito conocimientos avanzados de mecánica para hacerlo yo mismo?",
-      "a": "No. Con los accesorios portátiles modernos (arrancadores con protección UltraSafe, infladores con Auto-Stop digital y escáneres OBD2 en español), cualquier conductor puede realizarlo en menos de 5 minutos."
+      "q": "¿Una fuga en el tubo de escape puede alterar los Fuel Trims y dar código P0171?",
+      "a": "Sí. Una grieta o junta soplada en el colector de escape antes del primer sensor de oxígeno succiona aire fresco exterior entre cada pulso de escape por efecto Venturi. Ese oxígeno falso engaña a la sonda lambda, haciendo que la ECU crea que la mezcla es pobre y dispare el LTFT por encima de +20 %."
     },
     {
-      "q": "¿Qué herramientas o accesorios básicos debería llevar siempre en el auto?",
-      "a": "El kit esencial recomendado por Garaje Listo consta de 4 elementos: un arrancador de batería de litio (1000A–2000A), un inflador portátil digital de 150 PSI, una cámara Dash Cam con supercondensador y un lector OBD2 en la guantera."
-    }
-  ],
-  "sources": [
-    {
-      "label": "NHTSA – Vehicle Maintenance & Roadside Safety",
-      "url": "https://www.nhtsa.gov/"
-    },
-    {
-      "label": "SAE International – Automotive Technical Standards",
-      "url": "https://www.sae.org/"
+      "q": "¿Cuánto tarda el LTFT en volver a 0 % después de reparar una fuga de vacío?",
+      "a": "El STFT vuelve a oscilar cerca de 0 % de forma inmediata en cuanto arrancas y el motor entra en bucle cerrado (Closed Loop). El LTFT, al ser una tabla adaptativa en memoria KAM, tarda entre 15 y 30 minutos de conducción variada en recalcularse, a menos que reinicies las adaptaciones o borres códigos con el escáner."
     }
   ],
   "related": [
-    "/diagnostico-obd2-y-codigos/",
-    "/diagnostico-obd2-y-codigos/puedo-dejar-el-escaner-obd2-bluetooth-conectado-todo-el-tiempo/",
-    "/diagnostico-obd2-y-codigos/que-es-el-freeze-frame-datos-congelados-en-un-escaner-obd2/",
-    "/mejores-accesorios-auto/mejores-arrancadores-de-bateria-portatiles-amazon/"
+    "/diagnostico-obd2-y-codigos/que-significa-codigo-pendiente-pending-vs-confirmado-vs-permanente/",
+    "/diagnostico-obd2-y-codigos/que-significa-el-codigo-p0101-sensor-maf-flujo-de-masa-de-aire/",
+    "/diagnostico-obd2-y-codigos/que-es-el-modo-6-mode-06-en-diagnostico-obd2/",
+    "/diagnostico-obd2-y-codigos/que-significa-el-codigo-p0507-ralenti-alto-cuerpo-de-aceleracion/"
   ],
   "datePublished": "2026-11-22",
-  "dateModified": "2026-11-22"
+  "dateModified": "2026-11-25",
+  "imageUrl": "/img/articulos/como-interpretar-short-term-y-long-term-fuel-trim-stft-ltft.webp"
 }

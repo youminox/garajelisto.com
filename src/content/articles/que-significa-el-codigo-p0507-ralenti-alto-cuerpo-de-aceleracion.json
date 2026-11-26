@@ -4,161 +4,126 @@
   "path": "/diagnostico-obd2-y-codigos/que-significa-el-codigo-p0507-ralenti-alto-cuerpo-de-aceleracion/",
   "isPillar": false,
   "isTransactional": false,
+  "llmAuthored": true,
   "primaryKeyword": "codigo obd2 p0507 ralenti alto",
   "title": "Código OBD2 P0507 (Idle Air Control RPM Higher Than Expected): Limpieza y Reaprendizaje de Aceleración",
-  "seoTitle": "Código OBD2 P0507 (Idle Air Control RPM Higher Than Expected) | Guía Garaje Listo",
-  "metaDescription": "Código OBD2 P0507 (Idle Air Control RPM Higher Than Expected): Limpieza y Reaprendizaje de Aceleración: Por qué ocurre tras limpiar la mariposa de aceleración con carbón acumulado y cómo realizar el procedimiento de Idle Relearn. Guía paso a paso en español, tabla técnica y accesorios recomendados en Amazon.",
-  "excerpt": "Por qué ocurre tras limpiar la mariposa de aceleración con carbón acumulado y cómo realizar el procedimiento de Idle Relearn.",
-  "quickAnswer": "Respecto a codigo obd2 p0507 ralenti alto: Por qué ocurre tras limpiar la mariposa de aceleración con carbón acumulado y cómo realizar el procedimiento de Idle Relearn. Para hacerlo con total seguridad, verifica siempre las especificaciones de tu vehículo (12V, etiqueta de PSI en el marco de la puerta o código OBD2) y utiliza accesorios con protección electrónica y apagado automático.",
-  "readingMinutes": 7,
+  "seoTitle": "Código OBD2 P0507 (Idle Air Control RPM Higher Than Expected): Limpieza y Reaprendizaje de Aceleración | garajelisto.com",
+  "metaDescription": "¿Código OBD2 P0507 y ralentí alto tras limpiar el cuerpo de aceleración? Aprende cómo hacer el reaprendizaje de mariposa electrónica y detectar fugas de vacío.",
+  "excerpt": "¿Tu auto quedó acelerado con el código P0507 tras limpiar el cuerpo de aceleración o por sí solo? Aprende a realizar el reaprendizaje electrónico de mariposa y a detectar fugas en la válvula PCV.",
+  "quickAnswer": "El código OBD2 P0507 indica que las revoluciones en ralentí superan en más de 200 RPM el valor objetivo de la ECU con el motor caliente. Si apareció justo después de limpiar el cuerpo de aceleración, debes ejecutar el procedimiento de reaprendizaje electrónico (Throttle Relearn); si surgió de forma espontánea, busca una fuga de vacío en el múltiple de admisión o una válvula PCV atascada abierta.",
+  "readingMinutes": 6,
   "image": {
-    "prompt": "Editorial automotive photography in a clean modern residential garage: Por qué ocurre tras limpiar la mariposa de aceleración con carbón acumulado y cómo realizar el procedimiento de Idle Relearn., featuring modern car accessories and tools, natural daylight",
+    "prompt": "Candid real-world household usage perspective in bright natural morning light: realistic scene illustrating 'Código OBD2 P0507 (Idle Air Control RPM Higher Than Expected): Limpieza y Reaprendizaje de Aceleración' (codigo obd2 p0507 ralenti alto) for garajelisto.com, featuring equipment in graphite gray with subtle amber indicator details, on a solid oak workbench in a tidy modern home space, bright diffused skylight with soft natural shadows. Photorealistic authentic details, natural proportions, zero text, zero letters, zero logos, zero watermarks.",
     "alt": "Código OBD2 P0507 (Idle Air Control RPM Higher Than Expected): Limpieza y Reaprendizaje de Aceleración"
   },
   "blocks": [
     {
       "type": "p",
-      "text": "Para cualquier conductor que quiera mantener su vehículo fiable y seguro, comprender **codigo obd2 p0507 ralenti alto** es una de las habilidades más útiles tanto en el garaje de casa como en carretera. Por qué ocurre tras limpiar la mariposa de aceleración con carbón acumulado y cómo realizar el procedimiento de Idle Relearn."
-    },
-    {
-      "type": "p",
-      "text": "En esta guía práctica del silo de **[Diagnostico Obd2 Y Codigos](/diagnostico-obd2-y-codigos/)** en **GarajeListo.com**, explicamos paso a paso el funcionamiento técnico, los valores exactos que debes comprobar y qué accesorios probados en Amazon —como el arrancador **[NOCO Boost Plus GB40](/resenas-accesorios-auto/noco-boost-plus-gb40-1000a/)**, el inflador **[Fanttik X8 Apex](/resenas-accesorios-auto/fanttik-x8-apex-inflador-portatil/)**, la cámara **[VIOFO A229 Plus](/resenas-accesorios-auto/viofo-a229-plus-dash-cam-starvis-2/)** o el escáner **[BlueDriver Pro OBD2](/resenas-accesorios-auto/bluedriver-bluetooth-pro-obd2/)**— te facilitan el trabajo."
+      "text": "Arrancas tu auto o limpias la mariposa de aceleración el fin de semana y, en lugar de estabilizarse en unas suaves **700 u 800 RPM**, la aguja del tacómetro se queda acelerada entre **1,200 y 1,800 RPM** con el motor ya caliente. A los pocos minutos se ilumina el tablero con el código **P0507 (Idle Air Control System RPM Higher Than Expected)**, indicando que la computadora del motor no logra bajar las revoluciones de ralentí al valor objetivo programado."
     },
     {
       "type": "h2",
-      "text": "Fundamento técnico y por qué ocurre: codigo obd2 p0507 ralenti alto"
+      "text": "Qué Activa el Código P0507: La Regla de las +200 RPM Sobre el Ralentí Objetivo"
     },
     {
       "type": "p",
-      "text": "En los vehículos actuales con sistema eléctrico de 12V, sensores TPMS, redes CAN-Bus y electrónica sensible, improvisar puede salir caro. Entender cómo funciona **codigo obd2 p0507 ralenti alto** te permite tomar decisiones basadas en datos reales (voltios, amperios, PSI o códigos de diagnóstico) en lugar de adivinar o cambiar piezas sin necesidad."
+      "text": "La unidad de control del motor (**ECM**) activa el código **P0507** cuando detecta que, con el motor a temperatura normal de operación (refrigerante por encima de **80 °C**), sin carga del aire acondicionado y con el vehículo detenido, el régimen de giro real supera en **200 RPM o más** al ralentí deseado durante más de **10 a 15 segundos**. Esto ocurre por dos motivos fundamentales: o bien está entrando aire \"pirata\" no medido detrás de la mariposa —lo que suele venir acompañado de los [códigos P0171 y P0174 de mezcla pobre por fuga de vacío](/diagnostico-obd2-y-codigos/que-significa-el-codigo-p0171-y-p0174-mezcla-pobre-de-combustible/)—, o bien el cuerpo de aceleración electrónico (**ETB**) perdió su punto cero tras limpiarle la carbonilla."
     },
     {
       "type": "table",
-      "caption": "Valores de referencia y diagnóstico rápido para: codigo obd2 p0507 ralenti alto",
       "headers": [
-        "Parámetro / Criterio",
-        "Valor o Ajuste Recomendado",
-        "Beneficio Directo en tu Auto"
+        "Causa del Ralentí Alto (P0507)",
+        "Lectura de Ángulo TP y Fuel Trims (STFT/LTFT)",
+        "Comportamiento del Motor",
+        "Solución Definitiva"
       ],
       "rows": [
         [
-          "Principio técnico clave",
-          "Por qué ocurre tras limpiar la mariposa de aceleración con carbón acumulado y cómo realizar el procedimiento de Idle Relearn.",
-          "Previene errores y protege la electrónica del vehículo"
+          "Falta de reaprendizaje tras limpiar cuerpo de aceleración",
+          "Mariposa entre 3 % y 7 %; Fuel Trims normales (±5 %)",
+          "Ralentí fijo en 1,300-1,600 RPM o sube y baja rítmicamente",
+          "Ejecutar calibración Throttle Relearn por OBD2 o pedal"
         ],
         [
-          "Voltaje batería 12V sana",
-          "12.6V en reposo / 13.8V–14.4V en marcha",
-          "Garantiza arranque en frío y carga correcta del alternador"
+          "Fuga de vacío en múltiple de admisión o manguera PCV",
+          "Mariposa cerrada al mínimo; LTFT positivo alto (+12 % a +25 %)",
+          "Silbido de aire en el motor y ralentí alto constante",
+          "Reemplazar manguera agrietada, válvula PCV o junta de admisión"
         ],
         [
-          "Presión de neumáticos (PSI)",
-          "Medir siempre en frío según etiqueta del pilar B",
-          "Optimiza frenado, consumo y vida útil de la banda de rodadura"
-        ],
-        [
-          "Protección en grabaciones 4K",
-          "Supercondensador + Corte Hardwire a 12.2V",
-          "Resiste hasta 70 °C al sol sin descargar la batería principal"
-        ],
-        [
-          "Seguridad en mantenimiento DIY",
-          "Caballetes (Jack Stands) + Llave dinamométrica",
-          "100% de estabilidad y par de apriete exacto en lb-ft"
+          "Válvula IAC trabada abierta (en autos con cable)",
+          "Conteo de pasos IAC en 0 pero el aire sigue pasando",
+          "El motor arranca acelerado y no baja al calentar",
+          "Limpiar asiento cónico de válvula IAC o sustituirla"
         ]
-      ]
-    },
-    {
-      "type": "callout",
-      "variant": "tip",
-      "title": "Clave práctica de Garaje Listo sobre codigo obd2 p0507 ralenti alto",
-      "text": "Por qué ocurre tras limpiar la mariposa de aceleración con carbón acumulado y cómo realizar el procedimiento de Idle Relearn. Verificar este punto te ahorrará tiempo, evitará averías costosas y alargará la vida útil de la batería, neumáticos y electrónica de tu auto."
+      ],
+      "caption": "Causas principales del código OBD2 P0507 y cómo diferenciarlas con escáner"
     },
     {
       "type": "h2",
-      "text": "Procedimiento paso a paso para aplicar codigo obd2 p0507 ralenti alto"
+      "text": "Por Qué Limpiar el Cuerpo de Aceleración Provoca el Código P0507 si No Haces Reaprendizaje"
     },
     {
       "type": "p",
-      "text": "Sigue estos 4 pasos verificados para resolverlo de forma limpia, rápida y segura sin necesidad de herramientas complicadas:"
+      "text": "A medida que se acumula hollín y vapores de aceite alrededor del plato de la mariposa electrónica (**Drive-By-Wire**), la computadora va abriendo gradualmente el ángulo de reposo unos milímetros extra para compensar el paso de aire obstruido y guarda ese valor en su memoria adaptativa. Cuando limpias esa costra negra con spray limpiador, dejas libre un canal enorme por donde entra mucho más aire mientras la **ECU** sigue aplicando el ángulo compensado antiguo. Si además moviste la mariposa con los dedos forzando sus engranajes plásticos internos, el desajuste es inmediato y figurará entre las consultas más habituales de nuestra [tabla de los 20 códigos OBD2 más comunes en español](/diagnostico-obd2-y-codigos/tabla-de-los-20-codigos-obd2-mas-comunes-en-espanol-y-su-gravedad/)."
     },
     {
       "type": "steps",
       "items": [
         {
-          "name": "Paso 1: Asegura el vehículo y verifica las condiciones iniciales",
-          "text": "Estaciona en una superficie plana e iluminada, coloca la transmisión en Park (o Primera/Neutro con freno de mano y calzos) y localiza en el marco de la puerta o manual del propietario el valor exacto para tu modelo."
+          "name": "Calienta el motor por encima de 80 °C y apaga todos los consumidores",
+          "text": "Verifica por OBD2 que la temperatura del refrigerante supere los 80 °C y apaga luces, aire acondicionado, radio y desempañador, dejando el volante recto."
         },
         {
-          "name": "Paso 2: Conecta tu equipo de medición o asistencia respetando el orden",
-          "text": "Ya sea conectando las pinzas anti-chispas de tu arrancador 12V, enroscando el cabezal de tu inflador digital o enchufando el escáner al puerto OBD2 bajo el volante, verifica que el acople sea firme antes de activar el equipo."
+          "name": "Ejecuta la función especial ETC / Throttle Relearn con el escáner",
+          "text": "Conecta un escáner con funciones de servicio, entra a Special Functions > Throttle Adaptation y deja que la ECU mueva la mariposa hasta memorizar sus topes cerrado y abierto."
         },
         {
-          "name": "Paso 3: Comprueba la lectura digital y ejecuta el ajuste",
-          "text": "Observa el valor en pantalla (voltios, PSI, código DTC o encuadre de cámara) y aplica la corrección recomendada sin exceder los ciclos de trabajo ni los límites del fabricante."
-        },
-        {
-          "name": "Paso 4: Verifica el resultado y guarda tu equipo listo para la próxima vez",
-          "text": "Confirma que las luces de advertencia del tablero se hayan apagado o que la presión/voltaje sea estable, y devuelve el accesorio cargado a su estuche en la guantera o maletero."
+          "name": "Alternativa manual de ciclo de encendido (Nissan, Toyota, GM y Ford)",
+          "text": "Si no tienes escáner bidireccional, desconecta el borne negativo 15 minutos o realiza la secuencia de poner contacto ON por 10 segundos, apagar 10 segundos y arrancar en ralentí sin tocar el pedal por 5 minutos."
         }
       ]
     },
     {
-      "type": "cta",
-      "text": "¿Tienes una consulta específica sobre codigo obd2 p0507 ralenti alto en el modelo y año de tu auto? Pregúntale gratis a nuestro Asesor Mecánico IA."
-    },
-    {
       "type": "h2",
-      "text": "Errores frecuentes que debes evitar"
-    },
-    {
-      "type": "ul",
-      "items": [
-        "**Confiar en estimaciones a ojo sin medir:** tanto una batería a 12.0V como un neumático con 26 PSI parecen 'normales' a simple vista, pero están al borde de fallar en carretera.",
-        "**Usar accesorios sin protección electrónica:** evita cables pasa corriente baratos sin relé anti-chispas o cámaras con batería de litio que se hinchan al sol.",
-        "**Forzar el límite de 15 amperios de la toma de encendedor 12V:** para compresores de alto caudal de SUV/4x4, usa modelos que se conecten directo a la batería o inalámbricos de alta eficiencia.",
-        "**Esperar a que ocurra la emergencia para abrir la caja:** prueba y carga siempre tus accesorios en casa el día que los recibes."
-      ]
-    },
-    {
-      "type": "h2",
-      "text": "Qué accesorio de Amazon te recomendamos para solucionarlo"
+      "text": "Cómo Descartar una Fuga de Vacío o Válvula PCV Defectuosa con Datos en Vivo"
     },
     {
       "type": "p",
-      "text": "Para aplicar lo aprendido sobre **codigo obd2 p0507 ralenti alto** con total comodidad, revisa nuestra selección de **[los mejores arrancadores de batería portátiles](/mejores-accesorios-auto/mejores-arrancadores-de-bateria-portatiles-amazon/)**, **[los mejores infladores de neumáticos portátiles](/mejores-accesorios-auto/mejores-infladores-de-neumaticos-portatiles-auto/)** y **[las mejores cámaras Dash Cam 4K](/mejores-accesorios-auto/mejores-camaras-dash-cam-4k-frontal-y-trasera/)**. Justo debajo tienes las tarjetas con los modelos compatibles y enlaces directos para consultar el precio hoy en Amazon Estados Unidos."
+      "text": "Si el código **P0507** apareció por sí solo sin que nadie hubiera tocado el cuerpo de aceleración, entra a nuestra [guía principal de diagnóstico OBD2](/diagnostico-obd2-y-codigos/) y revisa los ajustes de combustible (**Short Term y Long Term Fuel Trim**) al ralentí. Si el **LTFT** supera el **+10 %** al ralentí pero baja hacia **0 %** al acelerar el motor a **2,500 RPM**, tienes una fuga de vacío. Estrangula temporalmente con una pinza la manguera de la válvula **PCV** y la del servofreno: si al pinzar la manguera **PCV** las revoluciones caen de inmediato a **750 RPM**, la válvula **PCV** quedó trabada abierta y está inyectando aire directo al múltiple."
+    },
+    {
+      "type": "callout",
+      "variant": "fabricante",
+      "text": "En vehículos Nissan e Infiniti (motores QR25DE, VQ35DE y HR16DE), jamás desconectes el arnés eléctrico del cuerpo de aceleración con la batería conectada ni abras la paleta con el dedo; descalibrarás la memoria EEPROM y obligarás a ejecutar el procedimiento Idle Air Volume Learning con escáner avanzado.",
+      "title": "Advertencia crítica en cuerpos de aceleración Nissan e Infiniti"
+    },
+    {
+      "type": "cta",
+      "text": "Consulta los escáneres OBD2 con función de servicio Throttle Relearn (calibración de cuerpo de aceleración) en las tarjetas de Amazon integradas en esta página, o pregunta a nuestro Asesor IA cuál soporta tu marca de auto."
     }
   ],
   "faqs": [
     {
-      "q": "¿Cuál es la regla principal que debo recordar sobre codigo obd2 p0507 ralenti alto?",
-      "a": "Por qué ocurre tras limpiar la mariposa de aceleración con carbón acumulado y cómo realizar el procedimiento de Idle Relearn. Además, realiza siempre las comprobaciones con herramientas digitales calibradas y siguiendo los valores de la etiqueta oficial de tu vehículo."
+      "q": "¿El cuerpo de aceleración se recalibra solo al conducir unos kilómetros?",
+      "a": "En muchos modelos de Toyota, Ford y Chevrolet, la computadora recalibra gradualmente el ralentí tras conducir entre 30 y 80 kilómetros combinando ciudad y paradas en semáforo con el motor caliente. En cambio, en marcas como Nissan, Volkswagen o Peugeot suele ser indispensable ejecutar el comando de adaptación con escáner o la secuencia exacta de pedal."
     },
     {
-      "q": "¿Necesito conocimientos avanzados de mecánica para hacerlo yo mismo?",
-      "a": "No. Con los accesorios portátiles modernos (arrancadores con protección UltraSafe, infladores con Auto-Stop digital y escáneres OBD2 en español), cualquier conductor puede realizarlo en menos de 5 minutos."
+      "q": "¿Qué líquido se debe usar para limpiar un cuerpo de aceleración electrónico?",
+      "a": "No debes usar limpiador de carburadores (Carb Cleaner) convencional en cuerpos de aceleración electrónicos modernos, ya que sus solventes agresivos disuelven la película de molibdeno o teflón que sella los bordes de la mariposa y dañan las pistas del sensor TPS. Utiliza siempre un spray específico etiquetado como Throttle Body & Air Intake Cleaner."
     },
     {
-      "q": "¿Qué herramientas o accesorios básicos debería llevar siempre en el auto?",
-      "a": "El kit esencial recomendado por Garaje Listo consta de 4 elementos: un arrancador de batería de litio (1000A–2000A), un inflador portátil digital de 150 PSI, una cámara Dash Cam con supercondensador y un lector OBD2 en la guantera."
-    }
-  ],
-  "sources": [
-    {
-      "label": "NHTSA – Vehicle Maintenance & Roadside Safety",
-      "url": "https://www.nhtsa.gov/"
-    },
-    {
-      "label": "SAE International – Automotive Technical Standards",
-      "url": "https://www.sae.org/"
+      "q": "¿Por qué las revoluciones suben y bajan solas (oscilan) cuando tengo el código P0507?",
+      "a": "Porque al principio entra demasiado aire y las revoluciones suben por encima de 1,500 RPM. Cuando la ECU detecta que el pedal del acelerador está suelto (0 %) pero las RPM son tan altas, activa el corte de inyección por desaceleración (DFCO), haciendo que el motor caiga a 900 RPM, vuelva a inyectar y repita el ciclo."
     }
   ],
   "related": [
-    "/diagnostico-obd2-y-codigos/",
-    "/diagnostico-obd2-y-codigos/que-significa-el-codigo-p0135-p0141-calentador-del-sensor-de-oxigeno/",
-    "/diagnostico-obd2-y-codigos/como-leer-codigos-de-frenos-abs-y-control-de-traccion-sensor-rueda/",
-    "/mejores-accesorios-auto/mejores-arrancadores-de-bateria-portatiles-amazon/"
+    "/diagnostico-obd2-y-codigos/como-medir-el-consumo-de-combustible-y-temperatura-de-transmision-por-obd2/",
+    "/diagnostico-obd2-y-codigos/tabla-de-los-20-codigos-obd2-mas-comunes-en-espanol-y-su-gravedad/",
+    "/diagnostico-obd2-y-codigos/diferencia-entre-luz-check-engine-fija-y-parpadeando/",
+    "/diagnostico-obd2-y-codigos/que-significa-el-codigo-p0171-y-p0174-mezcla-pobre-de-combustible/"
   ],
   "datePublished": "2026-11-22",
-  "dateModified": "2026-11-22"
+  "dateModified": "2026-11-25",
+  "imageUrl": "/img/articulos/que-significa-el-codigo-p0507-ralenti-alto-cuerpo-de-aceleracion.webp"
 }

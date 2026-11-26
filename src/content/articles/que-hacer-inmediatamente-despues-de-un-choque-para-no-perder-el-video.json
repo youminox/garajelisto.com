@@ -4,161 +4,126 @@
   "path": "/camaras-dash-cam-y-seguridad/que-hacer-inmediatamente-despues-de-un-choque-para-no-perder-el-video/",
   "isPillar": false,
   "isTransactional": false,
+  "llmAuthored": true,
   "primaryKeyword": "como guardar video de dash cam despues de un accidente",
   "title": "Qué Hacer con tu Dash Cam Justo Después de un Accidente para que el Video No Se Sobrescriba",
-  "seoTitle": "Qué Hacer con tu Dash Cam Justo Después de un Accidente para que el Video No Se Sobrescriba | Guía Garaje Listo",
-  "metaDescription": "Qué Hacer con tu Dash Cam Justo Después de un Accidente para que el Video No Se Sobrescriba: Por qué si dejas el contacto encendido 2 horas esperando a la policía o la grúa, la grabación en bucle podría borrar el momento del impacto si no extraes la MicroSD o apagas la cámara. Guía paso a paso en español, tabla técnica y accesorios recomendados en Amazon.",
-  "excerpt": "Por qué si dejas el contacto encendido 2 horas esperando a la policía o la grúa, la grabación en bucle podría borrar el momento del impacto si no extraes la MicroSD o apagas la cámara.",
-  "quickAnswer": "Respecto a como guardar video de dash cam despues de un accidente: Por qué si dejas el contacto encendido 2 horas esperando a la policía o la grúa, la grabación en bucle podría borrar el momento del impacto si no extraes la MicroSD o apagas la cámara. Para hacerlo con total seguridad, verifica siempre las especificaciones de tu vehículo (12V, etiqueta de PSI en el marco de la puerta o código OBD2) y utiliza accesorios con protección electrónica y apagado automático.",
-  "readingMinutes": 7,
+  "seoTitle": "Qué Hacer con tu Dash Cam Justo Después de un Accidente para que el Video No Se Sobrescriba | garajelisto.com",
+  "metaDescription": "Protocolo paso a paso tras un accidente de tráfico para asegurar el video de tu dash cam, evitar que el bucle lo sobrescriba y no corromper la MicroSD.",
+  "excerpt": "El error más costoso tras un siniestro es dejar el contacto dado o extraer la tarjeta MicroSD en caliente. Aprende cómo cerrar el archivo MP4 y respaldar la evidencia.",
+  "quickAnswer": "Inmediatamente después de un choque, presiona el botón físico **Lock / Triángulo de emergencia** de la cámara, espera **10 a 15 segundos** adicionales para que se registre el contexto posterior y **apaga la cámara o desconecta su cable de alimentación** antes de retirar la tarjeta **MicroSD**. Nunca extraigas la tarjeta mientras el LED de grabación parpadea, ya que el supercondensador no podrá cerrar la cabecera del archivo **MP4** y el video quedará corrupto.",
+  "readingMinutes": 6,
   "image": {
-    "prompt": "Editorial automotive photography in a clean modern residential garage: Por qué si dejas el contacto encendido 2 horas esperando a la policía o la grúa, la grabación en bucle podría borrar el momento del impacto si no extraes la MicroSD o apagas la cámara., featuring modern car accessories and tools, natural daylight",
+    "prompt": "Low-angle dramatic hero perspective with soft background bokeh on 35mm lens: realistic scene illustrating 'Qué Hacer con tu Dash Cam Justo Después de un Accidente para que el Video No Se Sobrescriba' (como guardar video de dash cam despues de un accidente) for garajelisto.com, featuring equipment in graphite gray with subtle amber indicator details, in a clean modern garage or studio corner with slate flooring, sunlit contemporary room with gentle ambient bounce light. Photorealistic authentic details, natural proportions, zero text, zero letters, zero logos, zero watermarks.",
     "alt": "Qué Hacer con tu Dash Cam Justo Después de un Accidente para que el Video No Se Sobrescriba"
   },
   "blocks": [
     {
       "type": "p",
-      "text": "Para cualquier conductor que quiera mantener su vehículo fiable y seguro, comprender **como guardar video de dash cam despues de un accidente** es una de las habilidades más útiles tanto en el garaje de casa como en carretera. Por qué si dejas el contacto encendido 2 horas esperando a la policía o la grúa, la grabación en bucle podría borrar el momento del impacto si no extraes la MicroSD o apagas la cámara."
-    },
-    {
-      "type": "p",
-      "text": "En esta guía práctica del silo de **[Camaras Dash Cam Y Seguridad](/camaras-dash-cam-y-seguridad/)** en **GarajeListo.com**, explicamos paso a paso el funcionamiento técnico, los valores exactos que debes comprobar y qué accesorios probados en Amazon —como el arrancador **[NOCO Boost Plus GB40](/resenas-accesorios-auto/noco-boost-plus-gb40-1000a/)**, el inflador **[Fanttik X8 Apex](/resenas-accesorios-auto/fanttik-x8-apex-inflador-portatil/)**, la cámara **[VIOFO A229 Plus](/resenas-accesorios-auto/viofo-a229-plus-dash-cam-starvis-2/)** o el escáner **[BlueDriver Pro OBD2](/resenas-accesorios-auto/bluedriver-bluetooth-pro-obd2/)**— te facilitan el trabajo."
+      "text": "Acabas de sufrir una colisión en un cruce: el otro conductor se saltó la luz roja, pero frente al agente de tránsito asegura que él tenía paso preferente. Confías en que tu cámara lo grabó todo, pero cometes el descuido más frecuente en carretera: dejas la llave en posición de contacto o el motor en marcha durante **90 minutos** mientras intercambias papeles del seguro, esperas a la patrulla y suben el coche a la grúa. Cuando llegas a casa para revisar la tarjeta de memoria, descubres con frustración que la grabación en bucle siguió funcionando todo ese tiempo y sobrescribió los minutos previos al impacto."
     },
     {
       "type": "h2",
-      "text": "Fundamento técnico y por qué ocurre: como guardar video de dash cam despues de un accidente"
+      "text": "Cómo la grabación en bucle y el modo parking pueden borrar tu prueba en 60 minutos"
     },
     {
       "type": "p",
-      "text": "En los vehículos actuales con sistema eléctrico de 12V, sensores TPMS, redes CAN-Bus y electrónica sensible, improvisar puede salir caro. Entender cómo funciona **como guardar video de dash cam despues de un accidente** te permite tomar decisiones basadas en datos reales (voltios, amperios, PSI o códigos de diagnóstico) en lugar de adivinar o cambiar piezas sin necesidad."
-    },
-    {
-      "type": "table",
-      "caption": "Valores de referencia y diagnóstico rápido para: como guardar video de dash cam despues de un accidente",
-      "headers": [
-        "Parámetro / Criterio",
-        "Valor o Ajuste Recomendado",
-        "Beneficio Directo en tu Auto"
-      ],
-      "rows": [
-        [
-          "Principio técnico clave",
-          "Por qué si dejas el contacto encendido 2 horas esperando a la policía o la grúa, la grabación en bucle podría borrar el momento del impacto si no extraes la MicroSD o apagas la cámara.",
-          "Previene errores y protege la electrónica del vehículo"
-        ],
-        [
-          "Voltaje batería 12V sana",
-          "12.6V en reposo / 13.8V–14.4V en marcha",
-          "Garantiza arranque en frío y carga correcta del alternador"
-        ],
-        [
-          "Presión de neumáticos (PSI)",
-          "Medir siempre en frío según etiqueta del pilar B",
-          "Optimiza frenado, consumo y vida útil de la banda de rodadura"
-        ],
-        [
-          "Protección en grabaciones 4K",
-          "Supercondensador + Corte Hardwire a 12.2V",
-          "Resiste hasta 70 °C al sol sin descargar la batería principal"
-        ],
-        [
-          "Seguridad en mantenimiento DIY",
-          "Caballetes (Jack Stands) + Llave dinamométrica",
-          "100% de estabilidad y par de apriete exacto en lb-ft"
-        ]
-      ]
-    },
-    {
-      "type": "callout",
-      "variant": "tip",
-      "title": "Clave práctica de Garaje Listo sobre como guardar video de dash cam despues de un accidente",
-      "text": "Por qué si dejas el contacto encendido 2 horas esperando a la policía o la grúa, la grabación en bucle podría borrar el momento del impacto si no extraes la MicroSD o apagas la cámara. Verificar este punto te ahorrará tiempo, evitará averías costosas y alargará la vida útil de la batería, neumáticos y electrónica de tu auto."
+      "text": "Aunque el acelerómetro (**G-Sensor**) haya detectado el golpe y bloqueado el fragmento exacto del choque en la carpeta protegida, existen dos vulnerabilidades técnicas que todo conductor debe conocer. Primero, en alcances laterales suaves o roces a baja velocidad, el impacto puede no superar el umbral de **2.0G** y el archivo queda en la carpeta ordinaria expuesto al reciclaje. Segundo, los **2 o 3 clips previos** (que demuestran la velocidad a la que venías, el color del semáforo a lo lejos o la maniobra previa del otro vehículo) no se bloquean automáticamente. Además, si tu cámara está conectada a la caja de fusibles y entra en vigilancia continua según la [diferencia entre los 3 modos de parking de una dash cam](/camaras-dash-cam-y-seguridad/diferencia-entre-los-3-modos-de-parking-de-una-dash-cam/), seguirá llenando la tarjeta en el depósito de la grúa hasta agotar la batería o alcanzar el límite definido al [configurar el voltaje de corte del hardwire kit](/camaras-dash-cam-y-seguridad/a-que-voltaje-configurar-el-corte-del-hardwire-kit-12v-12-2v/)."
     },
     {
       "type": "h2",
-      "text": "Procedimiento paso a paso para aplicar como guardar video de dash cam despues de un accidente"
-    },
-    {
-      "type": "p",
-      "text": "Sigue estos 4 pasos verificados para resolverlo de forma limpia, rápida y segura sin necesidad de herramientas complicadas:"
+      "text": "Protocolo de 4 pasos en el lugar del siniestro para blindar el archivo MP4"
     },
     {
       "type": "steps",
       "items": [
         {
-          "name": "Paso 1: Asegura el vehículo y verifica las condiciones iniciales",
-          "text": "Estaciona en una superficie plana e iluminada, coloca la transmisión en Park (o Primera/Neutro con freno de mano y calzos) y localiza en el marco de la puerta o manual del propietario el valor exacto para tu modelo."
+          "name": "Pulsa el botón físico de bloqueo y narra la matrícula en voz alta",
+          "text": "En los primeros segundos tras detener el vehículo, presiona el botón con el icono de triángulo o candado (Lock) en la cámara y lee en voz alta el número de placa, marca y color del otro auto para que quede registrado en la pista de audio en caso de fuga."
         },
         {
-          "name": "Paso 2: Conecta tu equipo de medición o asistencia respetando el orden",
-          "text": "Ya sea conectando las pinzas anti-chispas de tu arrancador 12V, enroscando el cabezal de tu inflador digital o enchufando el escáner al puerto OBD2 bajo el volante, verifica que el acople sea firme antes de activar el equipo."
+          "name": "Deja grabar entre 15 y 20 segundos adicionales tras detenerte",
+          "text": "No cortes la corriente en el mismo milisegundo del impacto. Esos 15 segundos posteriores capturan la posición final de ambos vehículos en los carriles, el estado del semáforo y la actitud del otro conductor al bajar de su coche."
         },
         {
-          "name": "Paso 3: Comprueba la lectura digital y ejecuta el ajuste",
-          "text": "Observa el valor en pantalla (voltios, PSI, código DTC o encuadre de cámara) y aplica la corrección recomendada sin exceder los ciclos de trabajo ni los límites del fabricante."
+          "name": "Apaga la cámara o desconecta el cable USB antes de tocar la tarjeta",
+          "text": "Mantén pulsado el botón Power para apagar el equipo o desenchufa el cable de alimentación superior. Espera unos 5 segundos hasta que todos los indicadores LED se apaguen por completo para que el supercondensador descargue su energía cerrando el índice del archivo MP4."
         },
         {
-          "name": "Paso 4: Verifica el resultado y guarda tu equipo listo para la próxima vez",
-          "text": "Confirma que las luces de advertencia del tablero se hayan apagado o que la presión/voltaje sea estable, y devuelve el accesorio cargado a su estuche en la guantera o maletero."
+          "name": "Extrae la tarjeta MicroSD y guárdala contigo antes de entregar el auto a la grúa",
+          "text": "Una vez apagada la cámara, presiona la tarjeta MicroSD para extraerla y guárdala en tu billetera o bolsillo. Jamás dejes la tarjeta puesta dentro del vehículo si va a quedar en un taller mecánico o depósito judicial."
         }
       ]
     },
     {
-      "type": "cta",
-      "text": "¿Tienes una consulta específica sobre como guardar video de dash cam despues de un accidente en el modelo y año de tu auto? Pregúntale gratis a nuestro Asesor Mecánico IA."
+      "type": "callout",
+      "variant": "aviso",
+      "text": "Extraer la tarjeta MicroSD en caliente mientras el LED rojo de grabación parpadea es la causa número uno de archivos corruptos de 0 bytes. El procesador escribe el video en bloques temporales y solo sella la tabla de átomos `moov` del contenedor MP4 cuando detecta un apagado ordenado respaldado por el supercondensador interno.",
+      "title": "Prohibido extraer la MicroSD con la cámara encendida"
     },
     {
       "type": "h2",
-      "text": "Errores frecuentes que debes evitar"
-    },
-    {
-      "type": "ul",
-      "items": [
-        "**Confiar en estimaciones a ojo sin medir:** tanto una batería a 12.0V como un neumático con 26 PSI parecen 'normales' a simple vista, pero están al borde de fallar en carretera.",
-        "**Usar accesorios sin protección electrónica:** evita cables pasa corriente baratos sin relé anti-chispas o cámaras con batería de litio que se hinchan al sol.",
-        "**Forzar el límite de 15 amperios de la toma de encendedor 12V:** para compresores de alto caudal de SUV/4x4, usa modelos que se conecten directo a la batería o inalámbricos de alta eficiencia.",
-        "**Esperar a que ocurra la emergencia para abrir la caja:** prueba y carga siempre tus accesorios en casa el día que los recibes."
-      ]
-    },
-    {
-      "type": "h2",
-      "text": "Qué accesorio de Amazon te recomendamos para solucionarlo"
+      "text": "Qué archivos debes descargar al teléfono antes de que llegue la grúa"
     },
     {
       "type": "p",
-      "text": "Para aplicar lo aprendido sobre **como guardar video de dash cam despues de un accidente** con total comodidad, revisa nuestra selección de **[los mejores arrancadores de batería portátiles](/mejores-accesorios-auto/mejores-arrancadores-de-bateria-portatiles-amazon/)**, **[los mejores infladores de neumáticos portátiles](/mejores-accesorios-auto/mejores-infladores-de-neumaticos-portatiles-auto/)** y **[las mejores cámaras Dash Cam 4K](/mejores-accesorios-auto/mejores-camaras-dash-cam-4k-frontal-y-trasera/)**. Justo debajo tienes las tarjetas con los modelos compatibles y enlaces directos para consultar el precio hoy en Amazon Estados Unidos."
+      "text": "Si tu cámara dispone de conectividad **Wi-Fi de 5 GHz** (como ocurre en los modelos actuales de nuestra guía de [cámaras dash cam y seguridad](/camaras-dash-cam-y-seguridad/)), un hábito excelente mientras esperas a la aseguradora es conectarte desde la app del teléfono y descargar una copia local a la galería del móvil antes de apagar el equipo y retirar la tarjeta. Asegúrate de bajar no solo el clip del choque, sino también el archivo inmediatamente anterior y el posterior, tanto del canal frontal (`_F.MP4`) como del trasero (`_R.MP4`), ya que la cámara trasera suele demostrar que venías circulando en tu carril sin realizar maniobras bruscas."
+    },
+    {
+      "type": "table",
+      "headers": [
+        "Carpeta en la MicroSD",
+        "Contenido que almacena",
+        "Riesgo de sobrescritura en bucle",
+        "Acción recomendada tras el siniestro"
+      ],
+      "rows": [
+        [
+          "/DCIM/Movie/RO o /Event",
+          "Clips bloqueados por el sensor G o por el botón manual de emergencia",
+          "Bajo (solo se sobrescribe cuando la partición RO supera el 30 % de la tarjeta)",
+          "Copiar los archivos F (frontal) y R (trasero) de la hora exacta del impacto"
+        ],
+        [
+          "/DCIM/Movie (Normal)",
+          "Grabación continua de conducción dividida en segmentos de 1, 2 o 3 minutos",
+          "Muy alto (se borra primero si la cámara sigue encendida tras el choque)",
+          "Respaldar los 3 segmentos previos y los 2 posteriores al minuto del accidente"
+        ],
+        [
+          "/DCIM/Parking",
+          "Videos por detección de impacto o time-lapse con el motor apagado",
+          "Medio-Alto (si el auto golpeado queda estacionado con hardwire kit conectado)",
+          "Revisar si el siniestro ocurrió con tu auto aparcado sin ocupantes"
+        ]
+      ],
+      "caption": "Estructura de carpetas en la tarjeta MicroSD que debes respaldar tras un choque"
+    },
+    {
+      "type": "cta",
+      "text": "Consulta con nuestro Asesor IA qué tarjetas MicroSD High Endurance y lectores USB-C para smartphone recomendamos llevar en la guantera, o revisa su disponibilidad en las tarjetas de Amazon de esta página."
     }
   ],
   "faqs": [
     {
-      "q": "¿Cuál es la regla principal que debo recordar sobre como guardar video de dash cam despues de un accidente?",
-      "a": "Por qué si dejas el contacto encendido 2 horas esperando a la policía o la grúa, la grabación en bucle podría borrar el momento del impacto si no extraes la MicroSD o apagas la cámara. Además, realiza siempre las comprobaciones con herramientas digitales calibradas y siguiendo los valores de la etiqueta oficial de tu vehículo."
+      "q": "¿Se puede recuperar un video de dash cam si saqué la tarjeta encendida y aparece corrupto?",
+      "a": "No intentes grabar encima ni formatear la tarjeta. En un ordenador Windows o Mac, herramientas como VLC Media Player o utilidades especializadas como Untrunc pueden reconstruir la cabecera rota del archivo MP4 tomando como referencia un video sano grabado por esa misma dash cam minutos antes."
     },
     {
-      "q": "¿Necesito conocimientos avanzados de mecánica para hacerlo yo mismo?",
-      "a": "No. Con los accesorios portátiles modernos (arrancadores con protección UltraSafe, infladores con Auto-Stop digital y escáneres OBD2 en español), cualquier conductor puede realizarlo en menos de 5 minutos."
+      "q": "¿Debo entregar mi tarjeta MicroSD original a la policía o al otro conductor en el lugar?",
+      "a": "Nunca entregues tu única tarjeta MicroSD original en el lugar del accidente, ya que podrías quedarte sin copia para tu propia aseguradora. Lo correcto es descargar el video a tu teléfono por Wi-Fi o con un lector OTG para mostrárselo al agente y enviarle el archivo original sin editar por correo o enlace oficial."
     },
     {
-      "q": "¿Qué herramientas o accesorios básicos debería llevar siempre en el auto?",
-      "a": "El kit esencial recomendado por Garaje Listo consta de 4 elementos: un arrancador de batería de litio (1000A–2000A), un inflador portátil digital de 150 PSI, una cámara Dash Cam con supercondensador y un lector OBD2 en la guantera."
-    }
-  ],
-  "sources": [
-    {
-      "label": "NHTSA – Vehicle Maintenance & Roadside Safety",
-      "url": "https://www.nhtsa.gov/"
-    },
-    {
-      "label": "SAE International – Automotive Technical Standards",
-      "url": "https://www.sae.org/"
+      "q": "¿Qué duración de bucle (Loop Recording) es más segura: 1, 3 o 5 minutos?",
+      "a": "Para uso probatorio tras un accidente, los segmentos de 1 minuto o 2 minutos son los más seguros. Si un archivo de 1 minuto llega a corromperse o necesitas enviarlo por correo electrónico a un perito de seguros, pesa entre 150 MB y 250 MB en 4K, mucho más manejable que un bloque pesado de 5 minutos."
     }
   ],
   "related": [
     "/camaras-dash-cam-y-seguridad/",
-    "/camaras-dash-cam-y-seguridad/como-limpiar-la-lente-de-la-dash-cam-y-el-interior-del-parabrisas/",
-    "/camaras-dash-cam-y-seguridad/como-evitar-interferencias-dab-radio-fm-o-keyless-con-el-cable-trasero/",
-    "/mejores-accesorios-auto/mejores-arrancadores-de-bateria-portatiles-amazon/"
+    "/camaras-dash-cam-y-seguridad/a-que-voltaje-configurar-el-corte-del-hardwire-kit-12v-12-2v/",
+    "/camaras-dash-cam-y-seguridad/donde-colocar-la-dash-cam-en-el-parabrisas-sin-tapar-la-vista/",
+    "/camaras-dash-cam-y-seguridad/diferencia-entre-los-3-modos-de-parking-de-una-dash-cam/"
   ],
   "datePublished": "2026-11-22",
-  "dateModified": "2026-11-22"
+  "dateModified": "2026-11-25",
+  "imageUrl": "/img/articulos/que-hacer-inmediatamente-despues-de-un-choque-para-no-perder-el-video.webp"
 }

@@ -3,162 +3,124 @@
   "pillar": "diagnostico-obd2-y-codigos",
   "path": "/diagnostico-obd2-y-codigos/como-usar-un-escaner-obd2-antes-de-comprar-un-auto-usado/",
   "isPillar": false,
-  "isTransactional": false,
+  "isTransactional": true,
+  "llmAuthored": true,
   "primaryKeyword": "como revisar un auto usado con escaner obd2",
   "title": "Cómo Usar tu Escáner OBD2 al Revisar un Auto Usado para Descubrir si Borraron Códigos Recién",
-  "seoTitle": "Cómo Usar tu Escáner OBD2 al Revisar un Auto Usado para Descubrir si Borraron Códigos Recién | Guía Garaje Listo",
-  "metaDescription": "Cómo Usar tu Escáner OBD2 al Revisar un Auto Usado para Descubrir si Borraron Códigos Recién: El PID secreto 'Distance Traveled Since Codes Cleared': si marca solo 5 millas recorridas desde el último borrado, el vendedor ocultó una falla justo antes de mostrarte el auto. Guía paso a paso en español, tabla técnica y accesorios recomendados en Amazon.",
-  "excerpt": "El PID secreto 'Distance Traveled Since Codes Cleared': si marca solo 5 millas recorridas desde el último borrado, el vendedor ocultó una falla justo antes de mostrarte el auto.",
-  "quickAnswer": "Respecto a como revisar un auto usado con escaner obd2: El PID secreto 'Distance Traveled Since Codes Cleared': si marca solo 5 millas recorridas desde el último borrado, el vendedor ocultó una falla justo antes de mostrarte el auto. Para hacerlo con total seguridad, verifica siempre las especificaciones de tu vehículo (12V, etiqueta de PSI en el marco de la puerta o código OBD2) y utiliza accesorios con protección electrónica y apagado automático.",
-  "readingMinutes": 7,
+  "seoTitle": "Cómo Usar tu Escáner OBD2 al Revisar un Auto Usado para Descubrir si Borraron Códigos Recién | garajelisto.com",
+  "metaDescription": "Aprende cómo revisar un auto usado con escáner OBD2: descubre en 2 minutos si el vendedor borró códigos recién mirando los monitores I/M y el PID 31.",
+  "excerpt": "Evita estafas al comprar un vehículo de segunda mano: aprende a leer los monitores I/M Readiness, los kilómetros recorridos desde el último borrado de códigos y el Modo 0A con tu escáner OBD2.",
+  "quickAnswer": "Para descubrir si borraron fallas antes de mostrarte un auto usado, conecta tu escáner OBD2 y revisa dos parámetros: el estado de los monitores I/M Readiness y el contador de distancia recorrida desde el último borrado (PID 31). Si tres o más monitores aparecen incompletos (INC) y el kilometraje desde el borrado es menor a 100 km, acaban de reiniciar la ECU para ocultar un código.",
+  "readingMinutes": 6,
   "image": {
-    "prompt": "Editorial automotive photography in a clean modern residential garage: El PID secreto 'Distance Traveled Since Codes Cleared': si marca solo 5 millas recorridas desde el último borrado, el vendedor ocultó una falla justo antes de mostrarte el auto., featuring modern car accessories and tools, natural daylight",
+    "prompt": "Corner-framed architectural interior shot with warm ambient daylight: realistic scene illustrating 'Cómo Usar tu Escáner OBD2 al Revisar un Auto Usado para Descubrir si Borraron Códigos Recién' (como revisar un auto usado con escaner obd2) for garajelisto.com, featuring equipment in sleek titanium silver with carbon-gray texture, inside a bright contemporary apartment with minimalist decor, warm afternoon daylight with crisp metallic and fabric textures. Photorealistic authentic details, natural proportions, zero text, zero letters, zero logos, zero watermarks.",
     "alt": "Cómo Usar tu Escáner OBD2 al Revisar un Auto Usado para Descubrir si Borraron Códigos Recién"
   },
   "blocks": [
     {
       "type": "p",
-      "text": "Para cualquier conductor que quiera mantener su vehículo fiable y seguro, comprender **como revisar un auto usado con escaner obd2** es una de las habilidades más útiles tanto en el garaje de casa como en carretera. El PID secreto 'Distance Traveled Since Codes Cleared': si marca solo 5 millas recorridas desde el último borrado, el vendedor ocultó una falla justo antes de mostrarte el auto."
-    },
-    {
-      "type": "p",
-      "text": "En esta guía práctica del silo de **[Diagnostico Obd2 Y Codigos](/diagnostico-obd2-y-codigos/)** en **GarajeListo.com**, explicamos paso a paso el funcionamiento técnico, los valores exactos que debes comprobar y qué accesorios probados en Amazon —como el arrancador **[NOCO Boost Plus GB40](/resenas-accesorios-auto/noco-boost-plus-gb40-1000a/)**, el inflador **[Fanttik X8 Apex](/resenas-accesorios-auto/fanttik-x8-apex-inflador-portatil/)**, la cámara **[VIOFO A229 Plus](/resenas-accesorios-auto/viofo-a229-plus-dash-cam-starvis-2/)** o el escáner **[BlueDriver Pro OBD2](/resenas-accesorios-auto/bluedriver-bluetooth-pro-obd2/)**— te facilitan el trabajo."
+      "text": "Un tablero sin luces de advertencia encendidas durante una prueba de manejo no garantiza que el motor o la transmisión estén sanos. El truco más viejo de los revendedores deshonestos consiste en desconectar la batería o usar un lector básico diez minutos antes de tu cita para apagar la luz **Check Engine**, confiando en que la computadora tardará entre **40 y 100 kilómetros** en volver a detectar un catalizador agotado o una caja automática que patina."
     },
     {
       "type": "h2",
-      "text": "Fundamento técnico y por qué ocurre: como revisar un auto usado con escaner obd2"
+      "text": "El Secreto de los Monitores I/M Readiness y el PID de Distancia Desde el Borrado"
     },
     {
       "type": "p",
-      "text": "En los vehículos actuales con sistema eléctrico de 12V, sensores TPMS, redes CAN-Bus y electrónica sensible, improvisar puede salir caro. Entender cómo funciona **como revisar un auto usado con escaner obd2** te permite tomar decisiones basadas en datos reales (voltios, amperios, PSI o códigos de diagnóstico) en lugar de adivinar o cambiar piezas sin necesidad."
+      "text": "Todo vehículo compatible con el estándar **OBD2** almacena un registro inalterable dentro del **Modo 01 (PID 31)**: los kilómetros recorridos desde la última vez que alguien ejecutó el comando de borrado de códigos (**Clear DTCs**). Al conectar tu equipo tras [ubicar el puerto OBD2 de 16 pines](/diagnostico-obd2-y-codigos/donde-esta-el-puerto-obd2-en-mi-auto-y-como-conectarlo/), entra directamente al menú **I/M Readiness** (Monitores de Emisiones). Si ves que monitores continuos y no continuos como **CAT (Catalizador)**, **EVAP** o **O2S** figuran como **INC (Incompleto)** o **Not Ready**, y la distancia desde el borrado es inferior a **150 km**, acaban de limpiar la memoria para ocultar un fallo activo."
     },
     {
       "type": "table",
-      "caption": "Valores de referencia y diagnóstico rápido para: como revisar un auto usado con escaner obd2",
       "headers": [
-        "Parámetro / Criterio",
-        "Valor o Ajuste Recomendado",
-        "Beneficio Directo en tu Auto"
+        "Parámetro / Función OBD2",
+        "Lectura en un Auto Sano y Honesto",
+        "Señal de Alerta (Código Oculto)",
+        "Qué Significa Realmente"
       ],
       "rows": [
         [
-          "Principio técnico clave",
-          "El PID secreto 'Distance Traveled Since Codes Cleared': si marca solo 5 millas recorridas desde el último borrado, el vendedor ocultó una falla justo antes de mostrarte el auto.",
-          "Previene errores y protege la electrónica del vehículo"
+          "Monitores I/M Readiness",
+          "Todos en OK / Complete (máximo 1 INC en EVAP)",
+          "3 o más monitores en INC / Not Ready",
+          "Borraron códigos hace pocas horas o desconectaron batería"
         ],
         [
-          "Voltaje batería 12V sana",
-          "12.6V en reposo / 13.8V–14.4V en marcha",
-          "Garantiza arranque en frío y carga correcta del alternador"
+          "Distancia desde borrado (PID 31)",
+          "Superior a 1,000 km",
+          "Entre 0 y 80 km",
+          "Limpieza reciente de memoria antes de mostrar el auto"
         ],
         [
-          "Presión de neumáticos (PSI)",
-          "Medir siempre en frío según etiqueta del pilar B",
-          "Optimiza frenado, consumo y vida útil de la banda de rodadura"
+          "Códigos Pendientes (Modo 07)",
+          "0 códigos registrados",
+          "1 o más códigos presentes",
+          "Falla detectada en el primer ciclo que pronto encenderá la luz MIL"
         ],
         [
-          "Protección en grabaciones 4K",
-          "Supercondensador + Corte Hardwire a 12.2V",
-          "Resiste hasta 70 °C al sol sin descargar la batería principal"
-        ],
-        [
-          "Seguridad en mantenimiento DIY",
-          "Caballetes (Jack Stands) + Llave dinamométrica",
-          "100% de estabilidad y par de apriete exacto en lb-ft"
+          "Códigos Permanentes (Modo 0A)",
+          "Vacío (Sin DTCs)",
+          "Código almacenado (en autos 2010+)",
+          "Falla grave que no puede borrarse con escáner hasta repararse"
         ]
-      ]
-    },
-    {
-      "type": "callout",
-      "variant": "tip",
-      "title": "Clave práctica de Garaje Listo sobre como revisar un auto usado con escaner obd2",
-      "text": "El PID secreto 'Distance Traveled Since Codes Cleared': si marca solo 5 millas recorridas desde el último borrado, el vendedor ocultó una falla justo antes de mostrarte el auto. Verificar este punto te ahorrará tiempo, evitará averías costosas y alargará la vida útil de la batería, neumáticos y electrónica de tu auto."
+      ],
+      "caption": "Parámetros OBD2 clave para detectar manipulación antes de comprar un auto usado"
     },
     {
       "type": "h2",
-      "text": "Procedimiento paso a paso para aplicar como revisar un auto usado con escaner obd2"
+      "text": "Por Qué Debes Revisar Códigos Pendientes (Modo 07) y Permanentes (Modo 0A)"
     },
     {
       "type": "p",
-      "text": "Sigue estos 4 pasos verificados para resolverlo de forma limpia, rápida y segura sin necesidad de herramientas complicadas:"
-    },
-    {
-      "type": "steps",
-      "items": [
-        {
-          "name": "Paso 1: Asegura el vehículo y verifica las condiciones iniciales",
-          "text": "Estaciona en una superficie plana e iluminada, coloca la transmisión en Park (o Primera/Neutro con freno de mano y calzos) y localiza en el marco de la puerta o manual del propietario el valor exacto para tu modelo."
-        },
-        {
-          "name": "Paso 2: Conecta tu equipo de medición o asistencia respetando el orden",
-          "text": "Ya sea conectando las pinzas anti-chispas de tu arrancador 12V, enroscando el cabezal de tu inflador digital o enchufando el escáner al puerto OBD2 bajo el volante, verifica que el acople sea firme antes de activar el equipo."
-        },
-        {
-          "name": "Paso 3: Comprueba la lectura digital y ejecuta el ajuste",
-          "text": "Observa el valor en pantalla (voltios, PSI, código DTC o encuadre de cámara) y aplica la corrección recomendada sin exceder los ciclos de trabajo ni los límites del fabricante."
-        },
-        {
-          "name": "Paso 4: Verifica el resultado y guarda tu equipo listo para la próxima vez",
-          "text": "Confirma que las luces de advertencia del tablero se hayan apagado o que la presión/voltaje sea estable, y devuelve el accesorio cargado a su estuche en la guantera o maletero."
-        }
-      ]
-    },
-    {
-      "type": "cta",
-      "text": "¿Tienes una consulta específica sobre como revisar un auto usado con escaner obd2 en el modelo y año de tu auto? Pregúntale gratis a nuestro Asesor Mecánico IA."
-    },
-    {
-      "type": "h2",
-      "text": "Errores frecuentes que debes evitar"
+      "text": "Muchas fallas requieren dos ciclos de conducción consecutivos con fallo para encender el testigo en el cuadro de instrumentos, pero se graban desde el primer intento fallido como **Pending Codes (Modo 07)**. Además, en vehículos fabricados a partir de **2010**, la normativa introdujo el **Modo 0A (Permanent DTCs)**: códigos que ni siquiera el escáner más caro ni desconectar los bornes toda la noche pueden eliminar; solo desaparecen cuando la propia **ECU** verifica que el componente reparado superó su ciclo de autodiagnóstico."
     },
     {
       "type": "ul",
       "items": [
-        "**Confiar en estimaciones a ojo sin medir:** tanto una batería a 12.0V como un neumático con 26 PSI parecen 'normales' a simple vista, pero están al borde de fallar en carretera.",
-        "**Usar accesorios sin protección electrónica:** evita cables pasa corriente baratos sin relé anti-chispas o cámaras con batería de litio que se hinchan al sol.",
-        "**Forzar el límite de 15 amperios de la toma de encendedor 12V:** para compresores de alto caudal de SUV/4x4, usa modelos que se conecten directo a la batería o inalámbricos de alta eficiencia.",
-        "**Esperar a que ocurra la emergencia para abrir la caja:** prueba y carga siempre tus accesorios en casa el día que los recibes."
+        "Escanea módulos secundarios más allá del motor: un lector multimarca que lea chasis y transmisión revelará fallas ocultas de frenos o caja automática.",
+        "Comprueba que el número de chasis digital (VIN en Modo 09) leído por el escáner coincida carácter por carácter con la placa metálica del parabrisas.",
+        "Verifica que la luz Check Engine se ilumine al poner el contacto en posición ON con el motor apagado; si no prende nunca, taparon o arrancaron el LED del tablero."
       ]
     },
     {
       "type": "h2",
-      "text": "Qué accesorio de Amazon te recomendamos para solucionarlo"
+      "text": "Inspección de Módulos Ocultos: Transmisión (TCM), Frenos ABS y Batería BMS"
     },
     {
       "type": "p",
-      "text": "Para aplicar lo aprendido sobre **como revisar un auto usado con escaner obd2** con total comodidad, revisa nuestra selección de **[los mejores arrancadores de batería portátiles](/mejores-accesorios-auto/mejores-arrancadores-de-bateria-portatiles-amazon/)**, **[los mejores infladores de neumáticos portátiles](/mejores-accesorios-auto/mejores-infladores-de-neumaticos-portatiles-auto/)** y **[las mejores cámaras Dash Cam 4K](/mejores-accesorios-auto/mejores-camaras-dash-cam-4k-frontal-y-trasera/)**. Justo debajo tienes las tarjetas con los modelos compatibles y enlaces directos para consultar el precio hoy en Amazon Estados Unidos."
+      "text": "Un lector genérico de bolsillo solo interroga al módulo del motor (**ECM**), dejando fuera averías costosísimas en otros sistemas. Al evaluar un vehículo de segunda mano, utiliza un escáner capaz de interrogar módulos propietarios para detectar un [código P0700 y sus sub-códigos en el módulo de transmisión TCM](/diagnostico-obd2-y-codigos/que-significa-el-codigo-p0700-falla-en-sistema-de-control-de-transmision/) o para [diagnosticar sensores de velocidad de rueda del sistema ABS](/diagnostico-obd2-y-codigos/como-leer-codigos-de-frenos-abs-y-control-de-traccion-sensor-rueda/) cuyos testigos hayan sido manipulados."
+    },
+    {
+      "type": "callout",
+      "variant": "tip",
+      "text": "Si el vendedor afirma que los monitores están incompletos porque \"acaba de instalar una batería nueva\", pídele ver la factura con fecha y verifica visualmente si los bornes tienen polvo acumulado; una batería recién instalada luce limpia y sin sulfato.",
+      "title": "Cuidado con la excusa del cambio de batería reciente"
+    },
+    {
+      "type": "cta",
+      "text": "Explora los escáneres OBD2 avanzados con lectura de Monitores I/M, Modo 0A, ABS y transmisión en las tarjetas de Amazon de esta página para consultar su stock actual, o pide ayuda a nuestro Asesor IA para elegir el ideal."
     }
   ],
   "faqs": [
     {
-      "q": "¿Cuál es la regla principal que debo recordar sobre como revisar un auto usado con escaner obd2?",
-      "a": "El PID secreto 'Distance Traveled Since Codes Cleared': si marca solo 5 millas recorridas desde el último borrado, el vendedor ocultó una falla justo antes de mostrarte el auto. Además, realiza siempre las comprobaciones con herramientas digitales calibradas y siguiendo los valores de la etiqueta oficial de tu vehículo."
+      "q": "¿Cuántos kilómetros desde el último borrado de códigos es seguro al comprar un auto usado?",
+      "a": "Debes buscar que el vehículo haya recorrido al menos entre 200 y 300 kilómetros con todos los monitores de emisiones (Catalizador, Sensores O2, EGR y Misfire) en estado OK o Completo. Eso demuestra que el auto ha superado varios ciclos de arranque en frío y autopista sin registrar averías."
     },
     {
-      "q": "¿Necesito conocimientos avanzados de mecánica para hacerlo yo mismo?",
-      "a": "No. Con los accesorios portátiles modernos (arrancadores con protección UltraSafe, infladores con Auto-Stop digital y escáneres OBD2 en español), cualquier conductor puede realizarlo en menos de 5 minutos."
+      "q": "¿Qué es un código permanente en un escáner OBD2 y por qué el vendedor no puede borrarlo?",
+      "a": "Los códigos permanentes (Modo 0A), presentes en vehículos desde 2010, quedan grabados en una memoria no volátil de la ECU. Ningún escáner puede borrarlos mediante el comando Clear DTC: la única forma de que desaparezcan es reparar la pieza defectuosa y completar el ciclo de conducción específico de ese monitor."
     },
     {
-      "q": "¿Qué herramientas o accesorios básicos debería llevar siempre en el auto?",
-      "a": "El kit esencial recomendado por Garaje Listo consta de 4 elementos: un arrancador de batería de litio (1000A–2000A), un inflador portátil digital de 150 PSI, una cámara Dash Cam con supercondensador y un lector OBD2 en la guantera."
-    }
-  ],
-  "sources": [
-    {
-      "label": "NHTSA – Vehicle Maintenance & Roadside Safety",
-      "url": "https://www.nhtsa.gov/"
-    },
-    {
-      "label": "SAE International – Automotive Technical Standards",
-      "url": "https://www.sae.org/"
+      "q": "¿Qué voltaje debe marcar el escáner OBD2 durante la prueba de un auto usado?",
+      "a": "Cuando la llave está en posición ON (contacto dado pero motor apagado), el voltaje debe situarse entre 12.4V y 12.7V. Una vez que arrancas el motor al ralentí, la lectura por OBD2 debe subir inmediatamente a un rango entre 13.8V y 14.5V, confirmando que el alternador carga correctamente."
     }
   ],
   "related": [
-    "/diagnostico-obd2-y-codigos/",
-    "/diagnostico-obd2-y-codigos/que-es-el-modo-6-mode-06-en-diagnostico-obd2/",
-    "/diagnostico-obd2-y-codigos/que-significa-el-codigo-p0011-p0016-solenoide-vvt-y-nivel-de-aceite/",
-    "/mejores-accesorios-auto/mejores-arrancadores-de-bateria-portatiles-amazon/"
+    "/diagnostico-obd2-y-codigos/como-leer-codigos-de-frenos-abs-y-control-de-traccion-sensor-rueda/",
+    "/diagnostico-obd2-y-codigos/que-significa-el-codigo-p0700-falla-en-sistema-de-control-de-transmision/",
+    "/diagnostico-obd2-y-codigos/como-registrar-una-bateria-nueva-bms-reset-con-escaner-obd2/",
+    "/diagnostico-obd2-y-codigos/donde-esta-el-puerto-obd2-en-mi-auto-y-como-conectarlo/"
   ],
   "datePublished": "2026-11-22",
-  "dateModified": "2026-11-22"
+  "dateModified": "2026-11-25",
+  "imageUrl": "/img/articulos/como-usar-un-escaner-obd2-antes-de-comprar-un-auto-usado.webp"
 }

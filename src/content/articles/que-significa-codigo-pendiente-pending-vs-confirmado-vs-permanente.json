@@ -3,162 +3,129 @@
   "pillar": "diagnostico-obd2-y-codigos",
   "path": "/diagnostico-obd2-y-codigos/que-significa-codigo-pendiente-pending-vs-confirmado-vs-permanente/",
   "isPillar": false,
-  "isTransactional": false,
+  "isTransactional": true,
+  "llmAuthored": true,
   "primaryKeyword": "diferencia codigo obd2 pendiente vs permanente",
   "title": "Diferencia entre Código OBD2 Pendiente (Pending), Confirmado (Stored) y Permanente (Permanent)",
-  "seoTitle": "Diferencia entre Código OBD2 Pendiente (Pending), Confirmado (Stored) y Permanente (Permanent) | Guía Garaje Listo",
-  "metaDescription": "Diferencia entre Código OBD2 Pendiente (Pending), Confirmado (Stored) y Permanente (Permanent): Por qué los códigos permanentes de vehículos 2010+ no se borran ni con el escáner ni desconectando la batería hasta que la computadora verifica que la pieza fue reparada. Guía paso a paso en español, tabla técnica y accesorios recomendados en Amazon.",
-  "excerpt": "Por qué los códigos permanentes de vehículos 2010+ no se borran ni con el escáner ni desconectando la batería hasta que la computadora verifica que la pieza fue reparada.",
-  "quickAnswer": "Respecto a diferencia codigo obd2 pendiente vs permanente: Por qué los códigos permanentes de vehículos 2010+ no se borran ni con el escáner ni desconectando la batería hasta que la computadora verifica que la pieza fue reparada. Para hacerlo con total seguridad, verifica siempre las especificaciones de tu vehículo (12V, etiqueta de PSI en el marco de la puerta o código OBD2) y utiliza accesorios con protección electrónica y apagado automático.",
+  "seoTitle": "Diferencia entre Código OBD2 Pendiente (Pending), Confirmado (Stored) y Permanente (Permanent) | garajelisto.com",
+  "metaDescription": "Entiende la diferencia entre código OBD2 pendiente (Pending), confirmado (Stored) y permanente (Permanent), y por qué un código permanente no se borra.",
+  "excerpt": "Por qué tu escáner sigue mostrando un código Permanent DTC después de darle a Erase Codes: cómo funcionan los Modos 03, 07 y 0A de la ECU y cómo eliminar un código permanente tras reparar.",
+  "quickAnswer": "Un **código pendiente (Modo 07)** se registra cuando la computadora detecta una anomalía en un primer viaje sin encender aún el Check Engine; pasa a **confirmado o Stored (Modo 03)** si la falla se repite en el siguiente ciclo, iluminando el tablero. En cambio, un **código permanente (Modo 0A)** se guarda en memoria no volátil (**NVRAM**) y **ningún escáner puede borrarlo**: solo desaparece cuando la ECU comprueba en ruta que el problema fue reparado.",
   "readingMinutes": 7,
   "image": {
-    "prompt": "Editorial automotive photography in a clean modern residential garage: Por qué los códigos permanentes de vehículos 2010+ no se borran ni con el escáner ni desconectando la batería hasta que la computadora verifica que la pieza fue reparada., featuring modern car accessories and tools, natural daylight",
+    "prompt": "Macro texture and build-quality detail shot with shallow depth of field: realistic scene illustrating 'Diferencia entre Código OBD2 Pendiente (Pending), Confirmado (Stored) y Permanente (Permanent)' (diferencia codigo obd2 pendiente vs permanente) for garajelisto.com, featuring equipment in sleek titanium silver with carbon-gray texture, on a matte dark-gray technical mat with measuring tools nearby, warm afternoon daylight with crisp metallic and fabric textures. Photorealistic authentic details, natural proportions, zero text, zero letters, zero logos, zero watermarks.",
     "alt": "Diferencia entre Código OBD2 Pendiente (Pending), Confirmado (Stored) y Permanente (Permanent)"
   },
   "blocks": [
     {
       "type": "p",
-      "text": "Para cualquier conductor que quiera mantener su vehículo fiable y seguro, comprender **diferencia codigo obd2 pendiente vs permanente** es una de las habilidades más útiles tanto en el garaje de casa como en carretera. Por qué los códigos permanentes de vehículos 2010+ no se borran ni con el escáner ni desconectando la batería hasta que la computadora verifica que la pieza fue reparada."
-    },
-    {
-      "type": "p",
-      "text": "En esta guía práctica del silo de **[Diagnostico Obd2 Y Codigos](/diagnostico-obd2-y-codigos/)** en **GarajeListo.com**, explicamos paso a paso el funcionamiento técnico, los valores exactos que debes comprobar y qué accesorios probados en Amazon —como el arrancador **[NOCO Boost Plus GB40](/resenas-accesorios-auto/noco-boost-plus-gb40-1000a/)**, el inflador **[Fanttik X8 Apex](/resenas-accesorios-auto/fanttik-x8-apex-inflador-portatil/)**, la cámara **[VIOFO A229 Plus](/resenas-accesorios-auto/viofo-a229-plus-dash-cam-starvis-2/)** o el escáner **[BlueDriver Pro OBD2](/resenas-accesorios-auto/bluedriver-bluetooth-pro-obd2/)**— te facilitan el trabajo."
+      "text": "Acabas de reemplazar un sensor defectuoso o limpiar una pieza del motor, conectas tu escáner al puerto de diagnóstico, seleccionas **\"Erase Codes / Clear DTC\"**, la luz amarilla del tablero se apaga por completo, pero al volver a consultar la memoria sigue apareciendo el mismo código bajo la etiqueta **Permanent (PDTC)**. Miles de aficionados creen en ese instante que su escáner falló o que el repuesto nuevo no sirvió. Comprender la **diferencia entre un código OBD2 pendiente vs permanente y confirmado** te evitará desmontar dos veces una reparación que ya estaba bien hecha, un pilar técnico dentro de nuestro [centro de diagnóstico OBD2 y códigos](/diagnostico-obd2-y-codigos/)."
     },
     {
       "type": "h2",
-      "text": "Fundamento técnico y por qué ocurre: diferencia codigo obd2 pendiente vs permanente"
+      "text": "El ciclo de maduración de una falla: De Pending (Modo 07) a Stored (Modo 03)"
     },
     {
       "type": "p",
-      "text": "En los vehículos actuales con sistema eléctrico de 12V, sensores TPMS, redes CAN-Bus y electrónica sensible, improvisar puede salir caro. Entender cómo funciona **diferencia codigo obd2 pendiente vs permanente** te permite tomar decisiones basadas en datos reales (voltios, amperios, PSI o códigos de diagnóstico) en lugar de adivinar o cambiar piezas sin necesidad."
+      "text": "Para evitar que la luz de Check Engine se ilumine por una anomalía fortuita de un segundo, la computadora del motor clasifica la mayoría de las fallas de sensores (denominadas **fallos de Tipo B**, como un [código P0101 en el sensor de flujo de aire MAF](/diagnostico-obd2-y-codigos/que-significa-el-codigo-p0101-sensor-maf-flujo-de-masa-de-aire/) o un sensor de oxígeno lento) bajo la regla de los **dos ciclos de conducción consecutivos**. La primera vez que el parámetro sale de rango, la ECU guarda el código en el **Modo 07 como Pendiente (Pending / Maturing DTC)** sin encender ningún testigo en el tablero. Si en los siguientes viajes el sensor trabaja bien, el código pendiente desaparece por sí solo. Pero si en el segundo viaje consecutivo la falla vuelve a ocurrir, el código madura y pasa al **Modo 03 como Confirmado (Stored / Active DTC)**, graba el **Freeze Frame** y enciende la luz **MIL** en el cuadro de instrumentos."
     },
     {
       "type": "table",
-      "caption": "Valores de referencia y diagnóstico rápido para: diferencia codigo obd2 pendiente vs permanente",
       "headers": [
-        "Parámetro / Criterio",
-        "Valor o Ajuste Recomendado",
-        "Beneficio Directo en tu Auto"
+        "Característica técnica",
+        "Pendiente (Pending - Modo 07)",
+        "Confirmado (Stored - Modo 03)",
+        "Permanente (Permanent - Modo 0A)"
       ],
       "rows": [
         [
-          "Principio técnico clave",
-          "Por qué los códigos permanentes de vehículos 2010+ no se borran ni con el escáner ni desconectando la batería hasta que la computadora verifica que la pieza fue reparada.",
-          "Previene errores y protege la electrónica del vehículo"
+          "¿Enciende luz Check Engine?",
+          "No (Aún está en fase de observación)",
+          "Sí, ilumina el testigo MIL fijo o parpadeando",
+          "No por sí solo (si ya borraste el Modo 03)"
         ],
         [
-          "Voltaje batería 12V sana",
-          "12.6V en reposo / 13.8V–14.4V en marcha",
-          "Garantiza arranque en frío y carga correcta del alternador"
+          "¿Cuándo se genera?",
+          "Al fallar en 1 solo ciclo de conducción",
+          "Al fallar en 2 ciclos seguidos (o 1 si es Misfire Tipo A)",
+          "Automáticamente al mismo tiempo que el Confirmado"
         ],
         [
-          "Presión de neumáticos (PSI)",
-          "Medir siempre en frío según etiqueta del pilar B",
-          "Optimiza frenado, consumo y vida útil de la banda de rodadura"
+          "¿Se borra con el escáner?",
+          "Sí, con el comando Erase Codes (Modo 04)",
+          "Sí, con cualquier escáner o al cortar batería",
+          "NO: inmune a cualquier escáner y desconexión de batería"
         ],
         [
-          "Protección en grabaciones 4K",
-          "Supercondensador + Corte Hardwire a 12.2V",
-          "Resiste hasta 70 °C al sol sin descargar la batería principal"
-        ],
-        [
-          "Seguridad en mantenimiento DIY",
-          "Caballetes (Jack Stands) + Llave dinamométrica",
-          "100% de estabilidad y par de apriete exacto en lb-ft"
+          "¿Cómo se elimina de la ECU?",
+          "Con escáner o tras 1-3 viajes sin fallo",
+          "Con escáner o tras 40 calentamientos sanos",
+          "Ejecutando y aprobando el monitor específico en ruta"
         ]
-      ]
-    },
-    {
-      "type": "callout",
-      "variant": "tip",
-      "title": "Clave práctica de Garaje Listo sobre diferencia codigo obd2 pendiente vs permanente",
-      "text": "Por qué los códigos permanentes de vehículos 2010+ no se borran ni con el escáner ni desconectando la batería hasta que la computadora verifica que la pieza fue reparada. Verificar este punto te ahorrará tiempo, evitará averías costosas y alargará la vida útil de la batería, neumáticos y electrónica de tu auto."
+      ],
+      "caption": "Comparativa técnica: Código Pendiente (Modo 07) vs Confirmado (Modo 03) vs Permanente (Modo 0A)"
     },
     {
       "type": "h2",
-      "text": "Procedimiento paso a paso para aplicar diferencia codigo obd2 pendiente vs permanente"
+      "text": "Por qué existen los códigos Permanentes (Modo 0A) y por qué ningún escáner los borra"
     },
     {
       "type": "p",
-      "text": "Sigue estos 4 pasos verificados para resolverlo de forma limpia, rápida y segura sin necesidad de herramientas complicadas:"
+      "text": "Hasta finales de la década del **2000**, algunos conductores con averías caras (como un catalizador agotado) borraban los códigos con un lector a pocas cuadras de la estación de emisiones para intentar pasar la inspección antes de que el código volviera a madurar. Para impedir esa práctica, todos los vehículos fabricados desde **2010–2012** incorporan el **Modo 0A (Permanent Diagnostic Trouble Codes)**. Cada vez que un código confirmado enciende el Check Engine, se guarda una copia espejo en una memoria no volátil (**NVRAM/EEPROM**). Cuando presionas **Erase Codes** en un **Ancel AD410**, **BlueDriver** o **Innova 5610**, el comando limpia los **Modos 03 y 07** y apaga la luz del tablero, pero el código del **Modo 0A** tiene prohibido por ley borrarse mediante un comando externo: solo la propia computadora del auto puede borrarlo cuando corre su monitor interno y comprueba que los valores del [Modo 06 de diagnóstico OBD2](/diagnostico-obd2-y-codigos/que-es-el-modo-6-mode-06-en-diagnostico-obd2/) están nuevamente dentro de especificación."
+    },
+    {
+      "type": "callout",
+      "variant": "etiqueta",
+      "text": "En las plantas de inspección vehicular de Estados Unidos que aplican el protocolo BAR/CARB y EPA moderno, tu auto PUEDE APROBAR la inspección aunque todavía tenga un código Permanente (PDTC) guardado en el Modo 0A, siempre que cumplas tres condiciones tras haber reparado y borrado el Check Engine: que no existan códigos activos ni pendientes, que la ECU haya registrado al menos 15 ciclos de calentamiento (Warm-up Cycles, subiendo la temperatura del motor en 22 °C hasta superar los 70 °C) y que hayas conducido al menos 200 millas (320 km) desde el último borrado de códigos.",
+      "title": "La regla 15/200 para aprobar la inspección aunque persista un código Permanente"
+    },
+    {
+      "type": "h2",
+      "text": "Cómo eliminar un código Permanente en 3 pasos tras reparar tu vehículo"
     },
     {
       "type": "steps",
       "items": [
         {
-          "name": "Paso 1: Asegura el vehículo y verifica las condiciones iniciales",
-          "text": "Estaciona en una superficie plana e iluminada, coloca la transmisión en Park (o Primera/Neutro con freno de mano y calzos) y localiza en el marco de la puerta o manual del propietario el valor exacto para tu modelo."
+          "name": "Reparar la avería física y borrar una sola vez los códigos Stored/Pending",
+          "text": "Soluciona el problema mecánico o eléctrico (por ejemplo, tras limpiar y recalibrar un cuerpo de aceleración por el código P0507) y ejecuta el comando 'Clear DTC' en tu escáner una única vez para apagar la luz Check Engine y limpiar los Modos 03 y 07. No vuelvas a pulsar borrar códigos después de esto, porque reiniciarías los contadores a cero."
         },
         {
-          "name": "Paso 2: Conecta tu equipo de medición o asistencia respetando el orden",
-          "text": "Ya sea conectando las pinzas anti-chispas de tu arrancador 12V, enroscando el cabezal de tu inflador digital o enchufando el escáner al puerto OBD2 bajo el volante, verifica que el acople sea firme antes de activar el equipo."
+          "name": "Verificar tras un primer viaje corto que no reaparezca como Pending (Modo 07)",
+          "text": "Arranca y conduce durante 10 a 15 minutos en condiciones normales. Al estacionar, revisa en tu escáner la carpeta de 'Pending Codes (Modo 07)'. Si la carpeta de pendientes sigue limpia (0 códigos), tu reparación fue exitosa y la falla ya no está presente."
         },
         {
-          "name": "Paso 3: Comprueba la lectura digital y ejecuta el ajuste",
-          "text": "Observa el valor en pantalla (voltios, PSI, código DTC o encuadre de cámara) y aplica la corrección recomendada sin exceder los ciclos de trabajo ni los límites del fabricante."
-        },
-        {
-          "name": "Paso 4: Verifica el resultado y guarda tu equipo listo para la próxima vez",
-          "text": "Confirma que las luces de advertencia del tablero se hayan apagado o que la presión/voltaje sea estable, y devuelve el accesorio cargado a su estuche en la guantera o maletero."
+          "name": "Completar el ciclo de manejo del monitor asociado para que la ECU borre el Modo 0A",
+          "text": "Conduce cumpliendo las condiciones exactas del monitor al que pertenece ese código (arranque en frío o crucero sostenido a 90 km/h en carretera). En el segundo exacto en que ese monitor cambie de INC a OK ( o tras completar 3 ciclos consecutivos sin falla), la computadora eliminará el código Permanente por sí sola."
         }
       ]
     },
     {
       "type": "cta",
-      "text": "¿Tienes una consulta específica sobre diferencia codigo obd2 pendiente vs permanente en el modelo y año de tu auto? Pregúntale gratis a nuestro Asesor Mecánico IA."
-    },
-    {
-      "type": "h2",
-      "text": "Errores frecuentes que debes evitar"
-    },
-    {
-      "type": "ul",
-      "items": [
-        "**Confiar en estimaciones a ojo sin medir:** tanto una batería a 12.0V como un neumático con 26 PSI parecen 'normales' a simple vista, pero están al borde de fallar en carretera.",
-        "**Usar accesorios sin protección electrónica:** evita cables pasa corriente baratos sin relé anti-chispas o cámaras con batería de litio que se hinchan al sol.",
-        "**Forzar el límite de 15 amperios de la toma de encendedor 12V:** para compresores de alto caudal de SUV/4x4, usa modelos que se conecten directo a la batería o inalámbricos de alta eficiencia.",
-        "**Esperar a que ocurra la emergencia para abrir la caja:** prueba y carga siempre tus accesorios en casa el día que los recibes."
-      ]
-    },
-    {
-      "type": "h2",
-      "text": "Qué accesorio de Amazon te recomendamos para solucionarlo"
-    },
-    {
-      "type": "p",
-      "text": "Para aplicar lo aprendido sobre **diferencia codigo obd2 pendiente vs permanente** con total comodidad, revisa nuestra selección de **[los mejores arrancadores de batería portátiles](/mejores-accesorios-auto/mejores-arrancadores-de-bateria-portatiles-amazon/)**, **[los mejores infladores de neumáticos portátiles](/mejores-accesorios-auto/mejores-infladores-de-neumaticos-portatiles-auto/)** y **[las mejores cámaras Dash Cam 4K](/mejores-accesorios-auto/mejores-camaras-dash-cam-4k-frontal-y-trasera/)**. Justo debajo tienes las tarjetas con los modelos compatibles y enlaces directos para consultar el precio hoy en Amazon Estados Unidos."
+      "text": "¿Quieres un escáner OBD2 actualizado que clasifique en carpetas separadas los códigos Pendientes (Modo 07), Confirmados (Modo 03) y Permanentes (Modo 0A) además de contar las millas desde el último borrado? Consulta a nuestro Asesor IA o revisa la disponibilidad actual en las tarjetas de Amazon integradas en esta página."
     }
   ],
   "faqs": [
     {
-      "q": "¿Cuál es la regla principal que debo recordar sobre diferencia codigo obd2 pendiente vs permanente?",
-      "a": "Por qué los códigos permanentes de vehículos 2010+ no se borran ni con el escáner ni desconectando la batería hasta que la computadora verifica que la pieza fue reparada. Además, realiza siempre las comprobaciones con herramientas digitales calibradas y siguiendo los valores de la etiqueta oficial de tu vehículo."
+      "q": "¿Por qué algunos códigos encienden el Check Engine al instante sin pasar por Pendientes?",
+      "a": "Significa que la avería es un 'Fallo de Tipo A' crítico para la seguridad del motor o del catalizador, como un fallo de encendido severo (Misfire P0300) o una pérdida total de señal del sensor de cigüeñal (CKP). Los fallos de Tipo A no esperan a un segundo viaje: pasan directamente a Confirmados (Modo 03) y prenden la luz en el primer ciclo."
     },
     {
-      "q": "¿Necesito conocimientos avanzados de mecánica para hacerlo yo mismo?",
-      "a": "No. Con los accesorios portátiles modernos (arrancadores con protección UltraSafe, infladores con Auto-Stop digital y escáneres OBD2 en español), cualquier conductor puede realizarlo en menos de 5 minutos."
+      "q": "¿Es lo mismo un código Histórico (History DTC) que un código Permanente (Permanent DTC)?",
+      "a": "Un código History (Histórico) es un registro propietario que guardan ciertos módulos de marca (como ABS, Airbag o carrocería BCM) sobre una falla que ocurrió en el pasado pero que ya no está activa hoy, y sí puede borrarse con un escáner avanzado. Un código Permanent (Modo 0A) es exclusivo de emisiones del motor/caja y jamás se borra con escáner."
     },
     {
-      "q": "¿Qué herramientas o accesorios básicos debería llevar siempre en el auto?",
-      "a": "El kit esencial recomendado por Garaje Listo consta de 4 elementos: un arrancador de batería de litio (1000A–2000A), un inflador portátil digital de 150 PSI, una cámara Dash Cam con supercondensador y un lector OBD2 en la guantera."
-    }
-  ],
-  "sources": [
-    {
-      "label": "NHTSA – Vehicle Maintenance & Roadside Safety",
-      "url": "https://www.nhtsa.gov/"
-    },
-    {
-      "label": "SAE International – Automotive Technical Standards",
-      "url": "https://www.sae.org/"
+      "q": "¿Cómo puedo ver en mi escáner cuántos ciclos de calentamiento y millas llevo desde que borré los códigos?",
+      "a": "Debes abrir el menú 'Live Data (Datos en Vivo)' de tu escáner y buscar dos PIDs estándar del Modo 01: 'Warm-ups since DTCs cleared' (Calentamientos desde el borrado) y 'Distance traveled since DTCs cleared' (Distancia recorrida desde el borrado). Ahí verás el conteo exacto guardado en la ECU."
     }
   ],
   "related": [
-    "/diagnostico-obd2-y-codigos/",
-    "/diagnostico-obd2-y-codigos/desconectar-la-bateria-para-borrar-check-engine-vs-usar-escaner-obd2/",
-    "/diagnostico-obd2-y-codigos/como-probar-el-alternador-y-la-caida-de-voltaje-de-arranque-por-obd2/",
-    "/mejores-accesorios-auto/mejores-arrancadores-de-bateria-portatiles-amazon/"
+    "/diagnostico-obd2-y-codigos/que-significa-el-codigo-p0101-sensor-maf-flujo-de-masa-de-aire/",
+    "/diagnostico-obd2-y-codigos/que-es-el-modo-6-mode-06-en-diagnostico-obd2/",
+    "/diagnostico-obd2-y-codigos/que-significa-el-codigo-p0507-ralenti-alto-cuerpo-de-aceleracion/",
+    "/diagnostico-obd2-y-codigos/como-medir-el-consumo-de-combustible-y-temperatura-de-transmision-por-obd2/"
   ],
   "datePublished": "2026-11-22",
-  "dateModified": "2026-11-22"
+  "dateModified": "2026-11-25",
+  "imageUrl": "/img/articulos/que-significa-codigo-pendiente-pending-vs-confirmado-vs-permanente.webp"
 }

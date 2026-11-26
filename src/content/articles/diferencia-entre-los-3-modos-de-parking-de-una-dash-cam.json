@@ -4,161 +4,117 @@
   "path": "/camaras-dash-cam-y-seguridad/diferencia-entre-los-3-modos-de-parking-de-una-dash-cam/",
   "isPillar": false,
   "isTransactional": false,
+  "llmAuthored": true,
   "primaryKeyword": "como funciona el modo parking de una dash cam",
   "title": "Los 3 Modos de Parking de una Dash Cam Explicados: Time-Lapse, Detección de Impacto y Buffer",
-  "seoTitle": "Los 3 Modos de Parking de una Dash Cam Explicados | Guía Garaje Listo",
-  "metaDescription": "Los 3 Modos de Parking de una Dash Cam Explicados: Time-Lapse, Detección de Impacto y Buffer: Cuál consume menos batería de tu auto y por qué el modo Buffered Event Recording (que guarda los 15 segundos previos al golpe) o Time-Lapse 1fps son los más eficaces. Guía paso a paso en español, tabla técnica y accesorios recomendados en Amazon.",
-  "excerpt": "Cuál consume menos batería de tu auto y por qué el modo Buffered Event Recording (que guarda los 15 segundos previos al golpe) o Time-Lapse 1fps son los más eficaces.",
-  "quickAnswer": "Respecto a como funciona el modo parking de una dash cam: Cuál consume menos batería de tu auto y por qué el modo Buffered Event Recording (que guarda los 15 segundos previos al golpe) o Time-Lapse 1fps son los más eficaces. Para hacerlo con total seguridad, verifica siempre las especificaciones de tu vehículo (12V, etiqueta de PSI en el marco de la puerta o código OBD2) y utiliza accesorios con protección electrónica y apagado automático.",
+  "seoTitle": "Los 3 Modos de Parking de una Dash Cam Explicados: Time-Lapse, Detección de Impacto y Buffer | garajelisto.com",
+  "metaDescription": "Compara los 3 modos de parking en una Dash Cam: detección con búfer previo, Time-Lapse / bajo bitrate y reposo por impacto G-Sensor según tu consumo.",
+  "excerpt": "Desglosamos el consumo en miliamperios, el uso de memoria y la capacidad real de captura de matrículas entre la grabación en búfer, el modo Time-Lapse continuo y el despertar por acelerómetro.",
+  "quickAnswer": "Las Dash Cams modernas ofrecen **3 modos de parking**: **Detección con Búfer** (guarda los **15 segundos previos** y 30 segundos posteriores a un golpe o movimiento), **Time-Lapse o Bajo Bitrate** (graba el 100 % del tiempo de forma continua y comprimida sin perder ningún detalle en lugares concurridos) y **Detección de Impacto en Reposo** (ultrabajo consumo que despierta la cámara en **2 a 4 segundos** tras un choque físico).",
   "readingMinutes": 7,
   "image": {
-    "prompt": "Editorial automotive photography in a clean modern residential garage: Cuál consume menos batería de tu auto y por qué el modo Buffered Event Recording (que guarda los 15 segundos previos al golpe) o Time-Lapse 1fps son los más eficaces., featuring modern car accessories and tools, natural daylight",
+    "prompt": "Wide environmental domestic interior shot on 24mm lens: realistic scene illustrating 'Los 3 Modos de Parking de una Dash Cam Explicados: Time-Lapse, Detección de Impacto y Buffer' (como funciona el modo parking de una dash cam) for garajelisto.com, featuring equipment in warm sand beige with matte black hardware, on a matte dark-gray technical mat with measuring tools nearby, clean indoor architectural lighting with natural wood warmth. Photorealistic authentic details, natural proportions, zero text, zero letters, zero logos, zero watermarks.",
     "alt": "Los 3 Modos de Parking de una Dash Cam Explicados: Time-Lapse, Detección de Impacto y Buffer"
   },
   "blocks": [
     {
       "type": "p",
-      "text": "Para cualquier conductor que quiera mantener su vehículo fiable y seguro, comprender **como funciona el modo parking de una dash cam** es una de las habilidades más útiles tanto en el garaje de casa como en carretera. Cuál consume menos batería de tu auto y por qué el modo Buffered Event Recording (que guarda los 15 segundos previos al golpe) o Time-Lapse 1fps son los más eficaces."
-    },
-    {
-      "type": "p",
-      "text": "En esta guía práctica del silo de **[Camaras Dash Cam Y Seguridad](/camaras-dash-cam-y-seguridad/)** en **GarajeListo.com**, explicamos paso a paso el funcionamiento técnico, los valores exactos que debes comprobar y qué accesorios probados en Amazon —como el arrancador **[NOCO Boost Plus GB40](/resenas-accesorios-auto/noco-boost-plus-gb40-1000a/)**, el inflador **[Fanttik X8 Apex](/resenas-accesorios-auto/fanttik-x8-apex-inflador-portatil/)**, la cámara **[VIOFO A229 Plus](/resenas-accesorios-auto/viofo-a229-plus-dash-cam-starvis-2/)** o el escáner **[BlueDriver Pro OBD2](/resenas-accesorios-auto/bluedriver-bluetooth-pro-obd2/)**— te facilitan el trabajo."
+      "text": "Casi todas las cámaras prometen en su caja \"Vigilancia de Estacionamiento 24 Horas\", pero muchos conductores descubren por las malas que no todos los modos de parking graban lo mismo cuando encuentran un raspón en el parachoques al salir del centro comercial. Si tu cámara estaba configurada en modo de ahorro por impacto simple, el acelerómetro tardó **3 segundos en despertar y encender el sensor** después del golpe, por lo que el video empieza cuando el auto infractor ya dobló la esquina y su matrícula desapareció. Entender la arquitectura interna de los **3 modos de parking reales** te permitirá elegir el que mejor equilibre la captura de pruebas con la salud de tu batería."
     },
     {
       "type": "h2",
-      "text": "Fundamento técnico y por qué ocurre: como funciona el modo parking de una dash cam"
+      "text": "1. Detección de Eventos con Búfer (Buffered Parking Mode): cómo graba 15 segundos hacia el pasado"
     },
     {
       "type": "p",
-      "text": "En los vehículos actuales con sistema eléctrico de 12V, sensores TPMS, redes CAN-Bus y electrónica sensible, improvisar puede salir caro. Entender cómo funciona **como funciona el modo parking de una dash cam** te permite tomar decisiones basadas en datos reales (voltios, amperios, PSI o códigos de diagnóstico) en lugar de adivinar o cambiar piezas sin necesidad."
+      "text": "Es el estándar de oro en modelos de gama media-alta de nuestro hub de [cámaras dash cam y seguridad](/camaras-dash-cam-y-seguridad/) como la **VIOFO A229 Plus**, la **VIOFO A229 Pro** o la **Vantrue N4 Pro**. Aunque la pantalla está apagada y parece dormida, el sensor óptico sigue activo escribiendo continuamente en un **búfer circular de memoria RAM volátil** sin desgastar la tarjeta MicroSD. En el instante en que el sensor óptico detecta movimiento frente al auto o el acelerómetro siente una vibración, la cámara vuelca a la tarjeta los **15 segundos previos al impacto** junto con los **30 segundos posteriores**. Así obtienes la secuencia completa: cómo se acercó el otro vehículo, el momento exacto de la colisión y hacia dónde huyó. Su único inconveniente aparece en estacionamientos muy concurridos: si pasan peatones o autos cada minuto frente al capó, la cámara grabará cientos de clips inútiles."
+    },
+    {
+      "type": "h2",
+      "text": "2. Time-Lapse (1 a 5 fps) y Grabación de Bajo Bitrate (Low Bitrate): cero puntos ciegos"
+    },
+    {
+      "type": "p",
+      "text": "Para quienes estacionan en la vía pública o en supermercados con mucho tránsito peatonal donde el sensor de movimiento por búfer se vuelve loco, los fabricantes desarrollaron dos variantes de grabación continua sin huecos. El modo **Time-Lapse (Lapso de Tiempo)** toma **1, 2 o 5 fotografías por segundo** sin audio, comprimiendo **30 minutos de estacionamiento en un clip de apenas 1 minuto** que puedes revisar de un vistazo; su ventaja es que ocupa poquísimo espacio en la tarjeta y jamás se pierde a alguien merodeando el auto, aunque no registra sonido. Por su parte, la **Grabación de Bajo Bitrate (Low Bitrate Recording)** —muy popular en el firmware de VIOFO— mantiene el video fluido a **30 fps con audio incluido**, pero reduce el flujo de datos a solo **4 Mbps por canal** (en lugar de los 30 Mbps normales de una [cámara 4K real de 8 MP](/camaras-dash-cam-y-seguridad/4k-real-8mp-vs-4k-interpolado-2k-60fps-en-dash-cams/)), garantizando que ni un rayón con una llave ni el golpe de una puerta vecina queden fuera de cámara."
     },
     {
       "type": "table",
-      "caption": "Valores de referencia y diagnóstico rápido para: como funciona el modo parking de una dash cam",
       "headers": [
-        "Parámetro / Criterio",
-        "Valor o Ajuste Recomendado",
-        "Beneficio Directo en tu Auto"
+        "Modo de estacionamiento",
+        "¿Captura antes del golpe?",
+        "Consumo de batería (12V) y tarjeta MicroSD",
+        "Escenario donde rinde mejor"
       ],
       "rows": [
         [
-          "Principio técnico clave",
-          "Cuál consume menos batería de tu auto y por qué el modo Buffered Event Recording (que guarda los 15 segundos previos al golpe) o Time-Lapse 1fps son los más eficaces.",
-          "Previene errores y protege la electrónica del vehículo"
+          "Detección con Búfer (Auto Event Detection)",
+          "Sí (guarda de 10 a 15 s antes y 30 s después)",
+          "Consumo eléctrico medio-alto (320–450 mA); uso de tarjeta bajo en lugares tranquilos",
+          "Garajes residenciales, calles poco transitadas o aparcamientos de oficina"
         ],
         [
-          "Voltaje batería 12V sana",
-          "12.6V en reposo / 13.8V–14.4V en marcha",
-          "Garantiza arranque en frío y carga correcta del alternador"
+          "Time-Lapse (1–5 fps) / Bajo Bitrate continuo (4 Mbps)",
+          "Sí (graba el 100 % del tiempo sin interrupción)",
+          "Consumo eléctrico constante (300–420 mA); uso de tarjeta muy predecible y compacto",
+          "Centros comerciales, vía pública con mucho tráfico o vigilancia contra vandalismo (rayones)"
         ],
         [
-          "Presión de neumáticos (PSI)",
-          "Medir siempre en frío según etiqueta del pilar B",
-          "Optimiza frenado, consumo y vida útil de la banda de rodadura"
-        ],
-        [
-          "Protección en grabaciones 4K",
-          "Supercondensador + Corte Hardwire a 12.2V",
-          "Resiste hasta 70 °C al sol sin descargar la batería principal"
-        ],
-        [
-          "Seguridad en mantenimiento DIY",
-          "Caballetes (Jack Stands) + Llave dinamométrica",
-          "100% de estabilidad y par de apriete exacto en lb-ft"
+          "Detección de Impacto en Reposo (Low-Power G-Sensor)",
+          "No (tarda de 2 a 4 s en encender tras el choque)",
+          "Consumo eléctrico mínimo (<15–40 mA); cero gasto de tarjeta si nadie toca el auto",
+          "Estacionamiento de larga duración en aeropuertos (varios días sin mover el vehículo)"
         ]
-      ]
-    },
-    {
-      "type": "callout",
-      "variant": "tip",
-      "title": "Clave práctica de Garaje Listo sobre como funciona el modo parking de una dash cam",
-      "text": "Cuál consume menos batería de tu auto y por qué el modo Buffered Event Recording (que guarda los 15 segundos previos al golpe) o Time-Lapse 1fps son los más eficaces. Verificar este punto te ahorrará tiempo, evitará averías costosas y alargará la vida útil de la batería, neumáticos y electrónica de tu auto."
+      ],
+      "caption": "Comparativa técnica de consumo, memoria y eficacia de los 3 modos de parking"
     },
     {
       "type": "h2",
-      "text": "Procedimiento paso a paso para aplicar como funciona el modo parking de una dash cam"
+      "text": "3. Modo de Impacto de Ultrabajo Consumo (Dormido) y cuándo sumar una batería LiFePO4"
     },
     {
       "type": "p",
-      "text": "Sigue estos 4 pasos verificados para resolverlo de forma limpia, rápida y segura sin necesidad de herramientas complicadas:"
-    },
-    {
-      "type": "steps",
-      "items": [
-        {
-          "name": "Paso 1: Asegura el vehículo y verifica las condiciones iniciales",
-          "text": "Estaciona en una superficie plana e iluminada, coloca la transmisión en Park (o Primera/Neutro con freno de mano y calzos) y localiza en el marco de la puerta o manual del propietario el valor exacto para tu modelo."
-        },
-        {
-          "name": "Paso 2: Conecta tu equipo de medición o asistencia respetando el orden",
-          "text": "Ya sea conectando las pinzas anti-chispas de tu arrancador 12V, enroscando el cabezal de tu inflador digital o enchufando el escáner al puerto OBD2 bajo el volante, verifica que el acople sea firme antes de activar el equipo."
-        },
-        {
-          "name": "Paso 3: Comprueba la lectura digital y ejecuta el ajuste",
-          "text": "Observa el valor en pantalla (voltios, PSI, código DTC o encuadre de cámara) y aplica la corrección recomendada sin exceder los ciclos de trabajo ni los límites del fabricante."
-        },
-        {
-          "name": "Paso 4: Verifica el resultado y guarda tu equipo listo para la próxima vez",
-          "text": "Confirma que las luces de advertencia del tablero se hayan apagado o que la presión/voltaje sea estable, y devuelve el accesorio cargado a su estuche en la guantera o maletero."
-        }
-      ]
-    },
-    {
-      "type": "cta",
-      "text": "¿Tienes una consulta específica sobre como funciona el modo parking de una dash cam en el modelo y año de tu auto? Pregúntale gratis a nuestro Asesor Mecánico IA."
-    },
-    {
-      "type": "h2",
-      "text": "Errores frecuentes que debes evitar"
+      "text": "En el tercer modo —presente en cámaras de entrada o seleccionable como modo de ahorro extremo en modelos como la **Vantrue N4 Pro** (*Collision Detection Low Power*)—, la cámara se apaga al **98 %** dejando alimentado únicamente el microchip del acelerómetro G-Sensor con un consumo ridículo inferior a **20 mA**. Si otro auto golpea tu parachoques, el pulso eléctrico despierta la placa base y arranca la grabación en unos **2 a 4 segundos**. No verás el instante del choque, pero si el conductor responsable baja a mirar el daño o tarda unos segundos en maniobrar para salir de la plaza, lo tendrás grabado consumiendo diez veces menos batería. Si por el contrario necesitas dejar el **modo con Búfer o Bajo Bitrate** activo durante **24 a 36 horas seguidas** sin tocar la batería de arranque del auto, revisa cuándo vale la pena instalar una [batería externa LiFePO4 para dash cam](/camaras-dash-cam-y-seguridad/bateria-externa-para-dash-cam-lifepo4-vale-la-pena/) y ajusta bien la [sensibilidad del G-Sensor](/camaras-dash-cam-y-seguridad/como-configurar-la-sensibilidad-del-g-sensor-acelerometro/) en nivel alto durante el estacionamiento."
     },
     {
       "type": "ul",
       "items": [
-        "**Confiar en estimaciones a ojo sin medir:** tanto una batería a 12.0V como un neumático con 26 PSI parecen 'normales' a simple vista, pero están al borde de fallar en carretera.",
-        "**Usar accesorios sin protección electrónica:** evita cables pasa corriente baratos sin relé anti-chispas o cámaras con batería de litio que se hinchan al sol.",
-        "**Forzar el límite de 15 amperios de la toma de encendedor 12V:** para compresores de alto caudal de SUV/4x4, usa modelos que se conecten directo a la batería o inalámbricos de alta eficiencia.",
-        "**Esperar a que ocurra la emergencia para abrir la caja:** prueba y carga siempre tus accesorios en casa el día que los recibes."
+        "**Usa Bajo Bitrate o Time-Lapse 2 fps en centros comerciales**: Evitarás que las ramas de los árboles o el paso constante de carritos de compra llenen tu tarjeta con falsas alarmas de movimiento.",
+        "**Activa el retardo de entrada a parking (Enter Parking Mode Timer)**: Si tu cámara tiene la opción de esperar **90 segundos** tras apagar el motor antes de activar la vigilancia, habilítala; así el portazo tuyo al bajar del auto y cerrar el maletero no se guardará como un supuesto choque en cada viaje.",
+        "**Limita el temporizador total a 8 o 12 horas**: Si estacionas en tu propio garaje cerrado por la noche, programar que el modo parking se apague tras 8 horas protege tu batería de ciclos innecesarios."
       ]
     },
     {
-      "type": "h2",
-      "text": "Qué accesorio de Amazon te recomendamos para solucionarlo"
+      "type": "callout",
+      "variant": "fabricante",
+      "text": "Ninguno de los 3 modos de parking debe utilizarse alimentando la cámara con una pequeña batería interna de polímero de litio integrada en la propia cámara bajo el sol. Las cámaras profesionales de vigilancia de estacionamiento utilizan **supercondensadores (Supercapacitors)** capaces de soportar **70 °C** en el parabrisas sin riesgo de hincharse ni incendiarse, tomando la energía del vehículo a través de un **Hardwire Kit de 3 cables** con corte de bajo voltaje.",
+      "title": "Por qué el modo parking exige supercondensador y Hardwire Kit"
     },
     {
-      "type": "p",
-      "text": "Para aplicar lo aprendido sobre **como funciona el modo parking de una dash cam** con total comodidad, revisa nuestra selección de **[los mejores arrancadores de batería portátiles](/mejores-accesorios-auto/mejores-arrancadores-de-bateria-portatiles-amazon/)**, **[los mejores infladores de neumáticos portátiles](/mejores-accesorios-auto/mejores-infladores-de-neumaticos-portatiles-auto/)** y **[las mejores cámaras Dash Cam 4K](/mejores-accesorios-auto/mejores-camaras-dash-cam-4k-frontal-y-trasera/)**. Justo debajo tienes las tarjetas con los modelos compatibles y enlaces directos para consultar el precio hoy en Amazon Estados Unidos."
+      "type": "cta",
+      "text": "Compara en las tarjetas de Amazon integradas en esta página las cámaras equipadas con supercondensador y los 3 modos de estacionamiento (incluyendo búfer previo y bajo bitrate), o consulta a nuestro Asesor IA cuál se adapta a dónde duerme tu auto."
     }
   ],
   "faqs": [
     {
-      "q": "¿Cuál es la regla principal que debo recordar sobre como funciona el modo parking de una dash cam?",
-      "a": "Cuál consume menos batería de tu auto y por qué el modo Buffered Event Recording (que guarda los 15 segundos previos al golpe) o Time-Lapse 1fps son los más eficaces. Además, realiza siempre las comprobaciones con herramientas digitales calibradas y siguiendo los valores de la etiqueta oficial de tu vehículo."
+      "q": "¿Por qué mi Dash Cam sigue grabando videos normales cuando apago el auto en vez de entrar en modo parking?",
+      "a": "Porque probablemente dejaste la cámara conectada a una toma USB o de encendedor de 12V que sigue entregando corriente con el motor apagado, en lugar de usar un Hardwire Kit de 3 hilos con cable ACC. Sin la caída a 0V del cable amarillo ACC, la cámara tarda entre 5 y 10 minutos sin movimiento por GPS para adivinar que estacionaste, o nunca cambia de modo."
     },
     {
-      "q": "¿Necesito conocimientos avanzados de mecánica para hacerlo yo mismo?",
-      "a": "No. Con los accesorios portátiles modernos (arrancadores con protección UltraSafe, infladores con Auto-Stop digital y escáneres OBD2 en español), cualquier conductor puede realizarlo en menos de 5 minutos."
+      "q": "¿Qué diferencia práctica hay entre Time-Lapse y Grabación de Bajo Bitrate (Low Bitrate)?",
+      "a": "En Bajo Bitrate la cámara graba video continuo normal con sonido incluido (lo que permite escuchar el ruido de un golpe, una discusión o un cristal roto), reduciendo solo el peso del archivo a 4 Mbps. En Time-Lapse graba fotogramas sueltos acelerados (1 a 5 por segundo) y nunca registra pista de audio."
     },
     {
-      "q": "¿Qué herramientas o accesorios básicos debería llevar siempre en el auto?",
-      "a": "El kit esencial recomendado por Garaje Listo consta de 4 elementos: un arrancador de batería de litio (1000A–2000A), un inflador portátil digital de 150 PSI, una cámara Dash Cam con supercondensador y un lector OBD2 en la guantera."
-    }
-  ],
-  "sources": [
-    {
-      "label": "NHTSA – Vehicle Maintenance & Roadside Safety",
-      "url": "https://www.nhtsa.gov/"
-    },
-    {
-      "label": "SAE International – Automotive Technical Standards",
-      "url": "https://www.sae.org/"
+      "q": "¿La cámara trasera también graba durante el modo parking o solo funciona la delantera?",
+      "a": "Sí. Tanto en Detección con Búfer como en Bajo Bitrate o Time-Lapse, todas las cámaras conectadas (frontal, trasera y, en modelos de 3 canales, también la interior) permanecen vigilando simultáneamente, repartiendo los archivos en la tarjeta MicroSD."
     }
   ],
   "related": [
-    "/camaras-dash-cam-y-seguridad/",
-    "/camaras-dash-cam-y-seguridad/cada-cuanto-formatear-la-tarjeta-microsd-de-la-dash-cam/",
-    "/camaras-dash-cam-y-seguridad/como-pasar-el-cable-de-la-camara-trasera-en-un-suv-o-hatchback/",
-    "/mejores-accesorios-auto/mejores-arrancadores-de-bateria-portatiles-amazon/"
+    "/camaras-dash-cam-y-seguridad/como-configurar-la-sensibilidad-del-g-sensor-acelerometro/",
+    "/camaras-dash-cam-y-seguridad/4k-real-8mp-vs-4k-interpolado-2k-60fps-en-dash-cams/",
+    "/camaras-dash-cam-y-seguridad/se-puede-instalar-la-camara-trasera-sobre-vidrios-polarizados-tintados/",
+    "/camaras-dash-cam-y-seguridad/bateria-externa-para-dash-cam-lifepo4-vale-la-pena/"
   ],
   "datePublished": "2026-11-22",
-  "dateModified": "2026-11-22"
+  "dateModified": "2026-11-25",
+  "imageUrl": "/img/articulos/diferencia-entre-los-3-modos-de-parking-de-una-dash-cam.webp"
 }

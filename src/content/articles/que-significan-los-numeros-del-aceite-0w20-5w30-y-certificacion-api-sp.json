@@ -4,161 +4,120 @@
   "path": "/herramientas-y-mantenimiento-garaje/que-significan-los-numeros-del-aceite-0w20-5w30-y-certificacion-api-sp/",
   "isPillar": false,
   "isTransactional": false,
+  "llmAuthored": true,
   "primaryKeyword": "que significa 0w20 5w30 aceite de motor",
   "title": "Qué Significa 0W-20 o 5W-30 en el Aceite de tu Auto y Por Qué Buscar el Sello API SP / ILSAC GF-6",
-  "seoTitle": "Qué Significa 0W-20 o 5W-30 en el Aceite de tu Auto y Por Qué Buscar el Sello API SP / ILSAC GF-6 | Guía Garaje Listo",
-  "metaDescription": "Qué Significa 0W-20 o 5W-30 en el Aceite de tu Auto y Por Qué Buscar el Sello API SP / ILSAC GF-6: La viscosidad en arranque en frío ('W' = Winter) frente a la protección a 100 °C, y cómo usar un embudo con rosca específica para no derramar sobre el colector. Guía paso a paso en español, tabla técnica y accesorios recomendados en Amazon.",
-  "excerpt": "La viscosidad en arranque en frío ('W' = Winter) frente a la protección a 100 °C, y cómo usar un embudo con rosca específica para no derramar sobre el colector.",
-  "quickAnswer": "Respecto a que significa 0w20 5w30 aceite de motor: La viscosidad en arranque en frío ('W' = Winter) frente a la protección a 100 °C, y cómo usar un embudo con rosca específica para no derramar sobre el colector. Para hacerlo con total seguridad, verifica siempre las especificaciones de tu vehículo (12V, etiqueta de PSI en el marco de la puerta o código OBD2) y utiliza accesorios con protección electrónica y apagado automático.",
-  "readingMinutes": 7,
+  "seoTitle": "Qué Significa 0W-20 o 5W-30 en el Aceite de tu Auto y Por Qué Buscar el Sello API SP / ILSAC GF-6 | garajelisto.com",
+  "metaDescription": "Descubre qué significan los grados 0W-20 y 5W-30 del aceite de motor y por qué el sello API SP / ILSAC GF-6 evita roturas por preignición LSPI y desgaste.",
+  "excerpt": "Aprende a leer la viscosidad SAE 0W-20 y 5W-30 en frío y a 100 °C, y descubre por qué las normas API SP e ILSAC GF-6 protegen la cadena de distribución y evitan el picado LSPI.",
+  "quickAnswer": "Los números **0W-20** o **5W-30** indican la viscosidad del aceite según la norma SAE J300: la cifra antes de la **W** (*Winter*) mide la fluidez de arranque en frío (**0W** opera hasta **-40 °C** y **5W** hasta **-35 °C**), mientras que el segundo número refleja el espesor protector a **100 °C** de temperatura normal del motor. Además, buscar el sello **API SP / ILSAC GF-6** garantiza aditivos que previenen la preignición destructiva (**LSPI**) en motores modernos.",
+  "readingMinutes": 6,
   "image": {
-    "prompt": "Editorial automotive photography in a clean modern residential garage: La viscosidad en arranque en frío ('W' = Winter) frente a la protección a 100 °C, y cómo usar un embudo con rosca específica para no derramar sobre el colector., featuring modern car accessories and tools, natural daylight",
+    "prompt": "Top-down flat-lay knolling arrangement with accessories: realistic scene illustrating 'Qué Significa 0W-20 o 5W-30 en el Aceite de tu Auto y Por Qué Buscar el Sello API SP / ILSAC GF-6' (que significa 0w20 5w30 aceite de motor) for garajelisto.com, featuring equipment in olive sage green with anodized silver accents, on a solid oak workbench in a tidy modern home space, clean indoor architectural lighting with natural wood warmth. Photorealistic authentic details, natural proportions, zero text, zero letters, zero logos, zero watermarks.",
     "alt": "Qué Significa 0W-20 o 5W-30 en el Aceite de tu Auto y Por Qué Buscar el Sello API SP / ILSAC GF-6"
   },
   "blocks": [
     {
       "type": "p",
-      "text": "Para cualquier conductor que quiera mantener su vehículo fiable y seguro, comprender **que significa 0w20 5w30 aceite de motor** es una de las habilidades más útiles tanto en el garaje de casa como en carretera. La viscosidad en arranque en frío ('W' = Winter) frente a la protección a 100 °C, y cómo usar un embudo con rosca específica para no derramar sobre el colector."
-    },
-    {
-      "type": "p",
-      "text": "En esta guía práctica del silo de **[Herramientas Y Mantenimiento Garaje](/herramientas-y-mantenimiento-garaje/)** en **GarajeListo.com**, explicamos paso a paso el funcionamiento técnico, los valores exactos que debes comprobar y qué accesorios probados en Amazon —como el arrancador **[NOCO Boost Plus GB40](/resenas-accesorios-auto/noco-boost-plus-gb40-1000a/)**, el inflador **[Fanttik X8 Apex](/resenas-accesorios-auto/fanttik-x8-apex-inflador-portatil/)**, la cámara **[VIOFO A229 Plus](/resenas-accesorios-auto/viofo-a229-plus-dash-cam-starvis-2/)** o el escáner **[BlueDriver Pro OBD2](/resenas-accesorios-auto/bluedriver-bluetooth-pro-obd2/)**— te facilitan el trabajo."
+      "text": "Abrir el capó de un sedán o SUV fabricado en la última década y encontrarse con un tapón grabado con la inscripción **SAE 0W-20** suele generar desconfianza en conductores acostumbrados al clásico **10W-30** o **5W-30**. A simple vista, un lubricante sintético de baja viscosidad fluye casi como el agua al verterlo a temperatura ambiente. Sin embargo, los motores modernos utilizan galerías de aceite microscópicas y tensores hidráulicos de cadena y distribución variable (**VVT**) que dependen de esa fluidez instantánea para no sufrir desgaste metálico en los primeros tres segundos tras girar la llave."
     },
     {
       "type": "h2",
-      "text": "Fundamento técnico y por qué ocurre: que significa 0w20 5w30 aceite de motor"
+      "text": "Cómo descifrar el grado SAE: la letra W frente al comportamiento a 100 °C"
     },
     {
       "type": "p",
-      "text": "En los vehículos actuales con sistema eléctrico de 12V, sensores TPMS, redes CAN-Bus y electrónica sensible, improvisar puede salir caro. Entender cómo funciona **que significa 0w20 5w30 aceite de motor** te permite tomar decisiones basadas en datos reales (voltios, amperios, PSI o códigos de diagnóstico) en lugar de adivinar o cambiar piezas sin necesidad."
+      "text": "La nomenclatura **SAE J300** divide el comportamiento del aceite multigrado en dos escenarios térmicos críticos. El número que precede a la letra **W** (*Winter* o invierno, nunca *Weight*) mide la resistencia al bombeo en frío extremo. Un grado **0W** mantiene su fluidez de bombeo hasta **-40 °C** y una viscosidad dinámica controlada a **-35 °C**, mientras que un **5W** tiene su límite de arranque seguro en **-35 °C**. El segundo número indica la viscosidad cinemática medida exactamente a **100 °C**, que es la temperatura normal de operación del refrigerante y el cárter en carretera: un grado **20** se mueve entre **6.9 y 9.3 cSt** (centistokes), mientras que un grado **30** mantiene una película más espesa de **9.3 a 12.5 cSt**. Cuando haces esta revisión en tu [espacio de herramientas y mantenimiento en casa](/herramientas-y-mantenimiento-garaje/), aprovecha para comprobar otros fluidos críticos y entender [por qué desciende el nivel del líquido de frenos](/herramientas-y-mantenimiento-garaje/que-significa-cuando-baja-el-nivel-del-liquido-de-frenos-dot3-dot4/) sin necesidad de rellenarlo a ciegas."
     },
     {
       "type": "table",
-      "caption": "Valores de referencia y diagnóstico rápido para: que significa 0w20 5w30 aceite de motor",
       "headers": [
-        "Parámetro / Criterio",
-        "Valor o Ajuste Recomendado",
-        "Beneficio Directo en tu Auto"
+        "Especificación",
+        "Temperatura mínima bombeo",
+        "Viscosidad a 100 °C (cSt)",
+        "Motores recomendados"
       ],
       "rows": [
         [
-          "Principio técnico clave",
-          "La viscosidad en arranque en frío ('W' = Winter) frente a la protección a 100 °C, y cómo usar un embudo con rosca específica para no derramar sobre el colector.",
-          "Previene errores y protege la electrónica del vehículo"
+          "SAE 0W-16 (GF-6B)",
+          "-40 °C",
+          "6.1 a 8.2 cSt",
+          "Híbridos Toyota/Honda de ultra baja fricción (no retrocompatible)"
         ],
         [
-          "Voltaje batería 12V sana",
-          "12.6V en reposo / 13.8V–14.4V en marcha",
-          "Garantiza arranque en frío y carga correcta del alternador"
+          "SAE 0W-20 (GF-6A)",
+          "-40 °C",
+          "6.9 a 9.3 cSt",
+          "Gasolina modernos atmosféricos y turbo de tolerancias cerradas"
         ],
         [
-          "Presión de neumáticos (PSI)",
-          "Medir siempre en frío según etiqueta del pilar B",
-          "Optimiza frenado, consumo y vida útil de la banda de rodadura"
-        ],
-        [
-          "Protección en grabaciones 4K",
-          "Supercondensador + Corte Hardwire a 12.2V",
-          "Resiste hasta 70 °C al sol sin descargar la batería principal"
-        ],
-        [
-          "Seguridad en mantenimiento DIY",
-          "Caballetes (Jack Stands) + Llave dinamométrica",
-          "100% de estabilidad y par de apriete exacto en lb-ft"
+          "SAE 5W-30 (API SP)",
+          "-35 °C",
+          "9.3 a 12.5 cSt",
+          "Motores turbo de inyección directa (GDI), pickups y alto kilometraje"
         ]
-      ]
-    },
-    {
-      "type": "callout",
-      "variant": "aviso",
-      "title": "Seguridad vial y mecánica ante todo",
-      "text": "La viscosidad en arranque en frío ('W' = Winter) frente a la protección a 100 °C, y cómo usar un embudo con rosca específica para no derramar sobre el colector. Aplica siempre este procedimiento con el freno de estacionamiento puesto, en una zona segura fuera del flujo de tráfico y respetando las especificaciones del manual de tu vehículo."
+      ],
+      "caption": "Comparativa técnica de grados SAE y certificaciones actuales de motor"
     },
     {
       "type": "h2",
-      "text": "Procedimiento paso a paso para aplicar que significa 0w20 5w30 aceite de motor"
+      "text": "Por qué exigir el sello API SP e ILSAC GF-6 en motores de inyección directa"
     },
     {
       "type": "p",
-      "text": "Sigue estos 4 pasos verificados para resolverlo de forma limpia, rápida y segura sin necesidad de herramientas complicadas:"
+      "text": "El grado de viscosidad solo describe el espesor del fluido, pero no su paquete químico de aditivos. En **mayo de 2020** entraron en vigor las normas **API SP** e **ILSAC GF-6**, diseñadas específicamente para erradicar un fallo destructivo en motores modernos turboalimentados de inyección directa (**TGDI**): la preignición a baja velocidad o **LSPI** (*Low-Speed Pre-Ignition*). Cuando aceleras a bajas revoluciones con mucha carga, microgotas de aceite mezcladas con gasolina pueden detonar antes de que salte la chispa de la bujía, doblando bielas o rompiendo pistones. Los aceites con certificación **API SP** sustituyen parte del calcio detergente por compuestos de **magnesio y molibdeno**, reduciendo drásticamente esas detonaciones prematuras y protegiendo además los eslabones de la cadena de distribución contra el estiramiento."
+    },
+    {
+      "type": "h2",
+      "text": "Pasos para elegir la garrafa correcta antes de tu próximo cambio de aceite"
     },
     {
       "type": "steps",
       "items": [
         {
-          "name": "Paso 1: Asegura el vehículo y verifica las condiciones iniciales",
-          "text": "Estaciona en una superficie plana e iluminada, coloca la transmisión en Park (o Primera/Neutro con freno de mano y calzos) y localiza en el marco de la puerta o manual del propietario el valor exacto para tu modelo."
+          "name": "Verifica la cifra grabada en el tapón o manual",
+          "text": "Respeta el grado exacto indicado por el fabricante (por ejemplo, 0W-20 o 5W-30). Subir a un 10W-40 o 20W-50 por consejo antiguo retrasará la lubricación del árbol de levas y activará códigos de fallo en el solenoide VVT."
         },
         {
-          "name": "Paso 2: Conecta tu equipo de medición o asistencia respetando el orden",
-          "text": "Ya sea conectando las pinzas anti-chispas de tu arrancador 12V, enroscando el cabezal de tu inflador digital o enchufando el escáner al puerto OBD2 bajo el volante, verifica que el acople sea firme antes de activar el equipo."
+          "name": "Localiza el anagrama Donut de API en el reverso",
+          "text": "Confirma que el círculo superior del sello oficial indique API Service SP y que la estrella frontal muestre la certificación ILSAC GF-6A (o GF-6B exclusivamente si tu manual pide 0W-16)."
         },
         {
-          "name": "Paso 3: Comprueba la lectura digital y ejecuta el ajuste",
-          "text": "Observa el valor en pantalla (voltios, PSI, código DTC o encuadre de cámara) y aplica la corrección recomendada sin exceder los ciclos de trabajo ni los límites del fabricante."
-        },
-        {
-          "name": "Paso 4: Verifica el resultado y guarda tu equipo listo para la próxima vez",
-          "text": "Confirma que las luces de advertencia del tablero se hayan apagado o que la presión/voltaje sea estable, y devuelve el accesorio cargado a su estuche en la guantera o maletero."
+          "name": "Comprueba la norma específica del fabricante europeo o americano",
+          "text": "En vehículos GM exige el sello Dexos1 Gen 3; en motores europeos Volkswagen, BMW o Mercedes-Benz verifica las aprobaciones VW 508.00, BMW LL-17FE+ o MB 229.71 junto al grado SAE."
         }
       ]
     },
     {
-      "type": "cta",
-      "text": "¿Tienes una consulta específica sobre que significa 0w20 5w30 aceite de motor en el modelo y año de tu auto? Pregúntale gratis a nuestro Asesor Mecánico IA."
-    },
-    {
-      "type": "h2",
-      "text": "Errores frecuentes que debes evitar"
-    },
-    {
-      "type": "ul",
-      "items": [
-        "**Confiar en estimaciones a ojo sin medir:** tanto una batería a 12.0V como un neumático con 26 PSI parecen 'normales' a simple vista, pero están al borde de fallar en carretera.",
-        "**Usar accesorios sin protección electrónica:** evita cables pasa corriente baratos sin relé anti-chispas o cámaras con batería de litio que se hinchan al sol.",
-        "**Forzar el límite de 15 amperios de la toma de encendedor 12V:** para compresores de alto caudal de SUV/4x4, usa modelos que se conecten directo a la batería o inalámbricos de alta eficiencia.",
-        "**Esperar a que ocurra la emergencia para abrir la caja:** prueba y carga siempre tus accesorios en casa el día que los recibes."
-      ]
-    },
-    {
-      "type": "h2",
-      "text": "Qué accesorio de Amazon te recomendamos para solucionarlo"
-    },
-    {
       "type": "p",
-      "text": "Para aplicar lo aprendido sobre **que significa 0w20 5w30 aceite de motor** con total comodidad, revisa nuestra selección de **[los mejores arrancadores de batería portátiles](/mejores-accesorios-auto/mejores-arrancadores-de-bateria-portatiles-amazon/)**, **[los mejores infladores de neumáticos portátiles](/mejores-accesorios-auto/mejores-infladores-de-neumaticos-portatiles-auto/)** y **[las mejores cámaras Dash Cam 4K](/mejores-accesorios-auto/mejores-camaras-dash-cam-4k-frontal-y-trasera/)**. Justo debajo tienes las tarjetas con los modelos compatibles y enlaces directos para consultar el precio hoy en Amazon Estados Unidos."
+      "text": "Por último, si vas a realizar el servicio completo en tu garaje incluyendo la rotación de neumáticos, asegúrate de contar con una buena [barra rompedora de 24 pulgadas frente a la llave de cruz](/herramientas-y-mantenimiento-garaje/barra-rompedora-breaker-bar-vs-llave-de-cruz-para-aflojar-ruedas/) para desmontar las ruedas sin dañar los espárragos."
+    },
+    {
+      "type": "cta",
+      "text": "¿Tienes dudas sobre qué viscosidad y norma exacta lleva tu motor o qué filtro y llave de cárter necesitas? Consulta a nuestro Asesor IA o revisa la disponibilidad en tiempo real en las tarjetas de Amazon integradas en esta guía."
     }
   ],
   "faqs": [
     {
-      "q": "¿Cuál es la regla principal que debo recordar sobre que significa 0w20 5w30 aceite de motor?",
-      "a": "La viscosidad en arranque en frío ('W' = Winter) frente a la protección a 100 °C, y cómo usar un embudo con rosca específica para no derramar sobre el colector. Además, realiza siempre las comprobaciones con herramientas digitales calibradas y siguiendo los valores de la etiqueta oficial de tu vehículo."
+      "q": "¿Puedo cambiar de 5W-30 a 0W-30 sin dañar el motor?",
+      "a": "Sí, siempre que el manual de usuario autorice el grado 0W-30 o si vives en zonas con heladas severas. A 100 °C de temperatura de trabajo un 0W-30 y un 5W-30 tienen la misma viscosidad protectora, pero el 0W fluirá más rápido en el arranque matutino."
     },
     {
-      "q": "¿Necesito conocimientos avanzados de mecánica para hacerlo yo mismo?",
-      "a": "No. Con los accesorios portátiles modernos (arrancadores con protección UltraSafe, infladores con Auto-Stop digital y escáneres OBD2 en español), cualquier conductor puede realizarlo en menos de 5 minutos."
+      "q": "¿Debo subir de 0W-20 a 10W-40 cuando el auto supera las 100,000 millas?",
+      "a": "No es recomendable salvo que el fabricante lo contemple para climas desérticos o uso de remolque pesado. Los cojinetes y conductos VVT modernos están calibrados para películas finas; un aceite demasiado grueso eleva la presión y la temperatura por fricción interna."
     },
     {
-      "q": "¿Qué herramientas o accesorios básicos debería llevar siempre en el auto?",
-      "a": "El kit esencial recomendado por Garaje Listo consta de 4 elementos: un arrancador de batería de litio (1000A–2000A), un inflador portátil digital de 150 PSI, una cámara Dash Cam con supercondensador y un lector OBD2 en la guantera."
-    }
-  ],
-  "sources": [
-    {
-      "label": "NHTSA – Vehicle Maintenance & Roadside Safety",
-      "url": "https://www.nhtsa.gov/"
-    },
-    {
-      "label": "SAE International – Automotive Technical Standards",
-      "url": "https://www.sae.org/"
+      "q": "¿Un aceite API SP sirve para un auto antiguo que pedía API SN o SM?",
+      "a": "Totalmente. La especificación API SP supera y reemplaza de forma retrocompatible a todas las categorías anteriores para motores de gasolina (API SN Plus, SN, SM y SL), ofreciendo mejor control de lodos, menor oxidación y mayor protección contra el desgaste de cadena."
     }
   ],
   "related": [
-    "/herramientas-y-mantenimiento-garaje/",
-    "/herramientas-y-mantenimiento-garaje/que-liquido-limpiaparabrisas-usar-en-invierno-para-que-no-se-congele/",
-    "/herramientas-y-mantenimiento-garaje/como-medir-el-nivel-de-aceite-del-motor-con-la-varilla-en-frio-o-caliente/",
-    "/mejores-accesorios-auto/mejores-arrancadores-de-bateria-portatiles-amazon/"
+    "/herramientas-y-mantenimiento-garaje/que-significa-cuando-baja-el-nivel-del-liquido-de-frenos-dot3-dot4/",
+    "/herramientas-y-mantenimiento-garaje/barra-rompedora-breaker-bar-vs-llave-de-cruz-para-aflojar-ruedas/",
+    "/herramientas-y-mantenimiento-garaje/como-pulir-faros-opacos-y-amarillentos-en-casa-y-sellarlos-contra-uv/",
+    "/herramientas-y-mantenimiento-garaje/donde-guardar-la-llave-de-la-tuerca-de-seguridad-antirrobo-wheel-lock/"
   ],
   "datePublished": "2026-11-22",
-  "dateModified": "2026-11-22"
+  "dateModified": "2026-11-25",
+  "imageUrl": "/img/articulos/que-significan-los-numeros-del-aceite-0w20-5w30-y-certificacion-api-sp.webp"
 }

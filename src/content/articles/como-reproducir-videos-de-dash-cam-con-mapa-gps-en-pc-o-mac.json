@@ -4,161 +4,120 @@
   "path": "/camaras-dash-cam-y-seguridad/como-reproducir-videos-de-dash-cam-con-mapa-gps-en-pc-o-mac/",
   "isPillar": false,
   "isTransactional": false,
+  "llmAuthored": true,
   "primaryKeyword": "programa para ver videos de dash cam con gps",
   "title": "Cómo Ver los Videos de tu Dash Cam en PC o Mac con el Mapa GPS y Velocidad Sincronizados",
-  "seoTitle": "Cómo Ver los Videos de tu Dash Cam en PC o Mac con el Mapa GPS y Velocidad Sincronizados | Guía Garaje Listo",
-  "metaDescription": "Cómo Ver los Videos de tu Dash Cam en PC o Mac con el Mapa GPS y Velocidad Sincronizados: Lectores recomendados (Dashcam Viewer y reproductores oficiales) y cómo unir los fragmentos de 1 o 3 minutos sin perder calidad. Guía paso a paso en español, tabla técnica y accesorios recomendados en Amazon.",
-  "excerpt": "Lectores recomendados (Dashcam Viewer y reproductores oficiales) y cómo unir los fragmentos de 1 o 3 minutos sin perder calidad.",
-  "quickAnswer": "Respecto a programa para ver videos de dash cam con gps: Lectores recomendados (Dashcam Viewer y reproductores oficiales) y cómo unir los fragmentos de 1 o 3 minutos sin perder calidad. Para hacerlo con total seguridad, verifica siempre las especificaciones de tu vehículo (12V, etiqueta de PSI en el marco de la puerta o código OBD2) y utiliza accesorios con protección electrónica y apagado automático.",
-  "readingMinutes": 7,
+  "seoTitle": "Cómo Ver los Videos de tu Dash Cam en PC o Mac con el Mapa GPS y Velocidad Sincronizados | garajelisto.com",
+  "metaDescription": "Guía de programas para ver videos de tu dash cam en Windows y Mac con el mapa GPS en vivo, gráfica del sensor G, coordenadas y velocidad sincronizados.",
+  "excerpt": "Reproducir el archivo MP4 en VLC solo muestra la imagen. Descubre cómo extraer los metadatos NMEA ocultos con Dashcam Viewer y los reproductores oficiales en PC o Mac.",
+  "quickAnswer": "Para visualizar la ruta en el mapa junto al video en **Windows o macOS**, debes abrir los archivos directamente desde la tarjeta **MicroSD** con un software que decodifique las tramas **NMEA** incrustadas en el contenedor **MP4**, como **Dashcam Viewer (Earthshine Software)**, **VIOFO Player** o **VantrueCam Player**. Estos programas sincronizan en pantalla el video frontal y trasero, la velocidad real, el rumbo de brújula y las gráficas triaxiales del acelerómetro.",
+  "readingMinutes": 6,
   "image": {
-    "prompt": "Editorial automotive photography in a clean modern residential garage: Lectores recomendados (Dashcam Viewer y reproductores oficiales) y cómo unir los fragmentos de 1 o 3 minutos sin perder calidad., featuring modern car accessories and tools, natural daylight",
+    "prompt": "Close-up ergonomic grip and control panel perspective in crisp daylight: realistic scene illustrating 'Cómo Ver los Videos de tu Dash Cam en PC o Mac con el Mapa GPS y Velocidad Sincronizados' (programa para ver videos de dash cam con gps) for garajelisto.com, featuring equipment in terracotta copper accent with matte slate body, beside a neat storage shelf in a sunlit modern room, sunlit contemporary room with gentle ambient bounce light. Photorealistic authentic details, natural proportions, zero text, zero letters, zero logos, zero watermarks.",
     "alt": "Cómo Ver los Videos de tu Dash Cam en PC o Mac con el Mapa GPS y Velocidad Sincronizados"
   },
   "blocks": [
     {
       "type": "p",
-      "text": "Para cualquier conductor que quiera mantener su vehículo fiable y seguro, comprender **programa para ver videos de dash cam con gps** es una de las habilidades más útiles tanto en el garaje de casa como en carretera. Lectores recomendados (Dashcam Viewer y reproductores oficiales) y cómo unir los fragmentos de 1 o 3 minutos sin perder calidad."
-    },
-    {
-      "type": "p",
-      "text": "En esta guía práctica del silo de **[Camaras Dash Cam Y Seguridad](/camaras-dash-cam-y-seguridad/)** en **GarajeListo.com**, explicamos paso a paso el funcionamiento técnico, los valores exactos que debes comprobar y qué accesorios probados en Amazon —como el arrancador **[NOCO Boost Plus GB40](/resenas-accesorios-auto/noco-boost-plus-gb40-1000a/)**, el inflador **[Fanttik X8 Apex](/resenas-accesorios-auto/fanttik-x8-apex-inflador-portatil/)**, la cámara **[VIOFO A229 Plus](/resenas-accesorios-auto/viofo-a229-plus-dash-cam-starvis-2/)** o el escáner **[BlueDriver Pro OBD2](/resenas-accesorios-auto/bluedriver-bluetooth-pro-obd2/)**— te facilitan el trabajo."
+      "text": "Extraes la tarjeta **MicroSD** de tu cámara para revisar un incidente en tu ordenador, haces doble clic sobre el archivo **MP4** y se abre el reproductor estándar de **Windows** o **QuickTime en Mac**. El video se ve nítido y en la esquina inferior aparece impresa una línea de texto con las coordenadas y los kilómetros por hora, pero no hay ni rastro del mapa interactivo con el recorrido del vehículo, el velocímetro analógico ni las gráficas de impacto del acelerómetro que viste en las demostraciones. Para desbloquear esa telemetría, necesitas un software capaz de leer las pistas de datos ocultas dentro del archivo."
     },
     {
       "type": "h2",
-      "text": "Fundamento técnico y por qué ocurre: programa para ver videos de dash cam con gps"
+      "text": "Diferencia entre la marca de agua OSD en el video y la telemetría GPS oculta"
     },
     {
       "type": "p",
-      "text": "En los vehículos actuales con sistema eléctrico de 12V, sensores TPMS, redes CAN-Bus y electrónica sensible, improvisar puede salir caro. Entender cómo funciona **programa para ver videos de dash cam con gps** te permite tomar decisiones basadas en datos reales (voltios, amperios, PSI o códigos de diagnóstico) en lugar de adivinar o cambiar piezas sin necesidad."
+      "text": "Cuando una cámara con receptor satelital graba un segmento de video, realiza dos operaciones distintas con la información del módulo GPS. Por un lado, \"quema\" visualmente sobre los fotogramas una marca de agua de texto (**OSD Stamp**) que cualquier reproductor muestra como parte de la imagen. Por otro lado, inyecta en una pista paralela del contenedor **MP4** (o en archivos auxiliares `.gps` / `.nmea` ocultos en la tarjeta) las sentencias **NMEA 0183** segundo a segundo con latitud, longitud, velocidad en nudos, rumbo de brújula y lecturas de los ejes **X, Y, Z** del sensor G. Si envías un clip por WhatsApp o lo recortas con un editor básico, esa pista de metadatos se destruye. Por eso siempre debes leer los archivos originales desde la memoria, teniendo en cuenta [cuántas horas de video 4K o 2K caben en una tarjeta MicroSD](/camaras-dash-cam-y-seguridad/cuantas-horas-graba-una-tarjeta-microsd-de-128gb-y-256gb-en-4k/) para localizar el tramo horario exacto."
     },
     {
       "type": "table",
-      "caption": "Valores de referencia y diagnóstico rápido para: programa para ver videos de dash cam con gps",
       "headers": [
-        "Parámetro / Criterio",
-        "Valor o Ajuste Recomendado",
-        "Beneficio Directo en tu Auto"
+        "Software reproductor",
+        "Sistemas operativos",
+        "Marcas compatibles",
+        "Funciones clave de análisis y exportación"
       ],
       "rows": [
         [
-          "Principio técnico clave",
-          "Lectores recomendados (Dashcam Viewer y reproductores oficiales) y cómo unir los fragmentos de 1 o 3 minutos sin perder calidad.",
-          "Previene errores y protege la electrónica del vehículo"
+          "Dashcam Viewer (Earthshine)",
+          "Windows 10/11 y macOS (Intel / Apple Silicon)",
+          "Más de 180 modelos (VIOFO, Vantrue, Garmin, Nextbase, BlackVue, Redtiger)",
+          "Sincroniza canal frontal/trasero PiP, exporta rutas GPX/KML/CSV y une clips en lote"
         ],
         [
-          "Voltaje batería 12V sana",
-          "12.6V en reposo / 13.8V–14.4V en marcha",
-          "Garantiza arranque en frío y carga correcta del alternador"
+          "VIOFO Player Oficial",
+          "Windows y macOS",
+          "Serie VIOFO (A119 Mini 2, A229 Plus/Pro, A139 Pro)",
+          "Gratuito, lectura nativa de pista NMEA, mapas en vivo y gráficas del sensor G"
         ],
         [
-          "Presión de neumáticos (PSI)",
-          "Medir siempre en frío según etiqueta del pilar B",
-          "Optimiza frenado, consumo y vida útil de la banda de rodadura"
+          "VantrueCam Player",
+          "Windows y macOS",
+          "Serie Vantrue (N4 Pro, N5, E1, E2, S1 Pro)",
+          "Visualización simultánea de hasta 3 o 4 canales con brújula, velocidad y zoom digital"
         ],
         [
-          "Protección en grabaciones 4K",
-          "Supercondensador + Corte Hardwire a 12.2V",
-          "Resiste hasta 70 °C al sol sin descargar la batería principal"
-        ],
-        [
-          "Seguridad en mantenimiento DIY",
-          "Caballetes (Jack Stands) + Llave dinamométrica",
-          "100% de estabilidad y par de apriete exacto en lb-ft"
+          "Registrator Viewer / DVPlayer",
+          "Windows y macOS",
+          "Novatek genéricos, Street Guardian, 70mai y modelos con subtítulos .SRT/.GPS",
+          "Búsqueda rápida de picos de aceleración (frenazos) en la línea de tiempo general"
         ]
-      ]
+      ],
+      "caption": "Mejores programas para reproducir telemetría GPS de Dash Cam en PC y Mac"
+    },
+    {
+      "type": "h2",
+      "text": "Por qué el códec H.265 (HEVC) se congela en tu ordenador y cómo solucionarlo"
+    },
+    {
+      "type": "p",
+      "text": "Un problema muy común al abrir videos **4K a 30 fps** o **2K a 60 fps** de las unidades más avanzadas de nuestro [catálogo de cámaras dash cam y seguridad](/camaras-dash-cam-y-seguridad/) es que la imagen avance a saltos o se quede congelada mientras el audio continúa. Esto ocurre por dos motivos técnicos: primero, muchas cámaras codifican los flujos de alta resolución en **H.265 (HEVC)** con tasas de bits de **30 a 60 Mbps**, lo que exige tener instaladas las *Extensiones de video HEVC* en Windows o aceleración por hardware; segundo, si conectas la tarjeta MicroSD mediante un lector USB 2.0 antiguo, el cuello de botella de lectura impide cargar simultáneamente el video frontal y el trasero. Copia primero los archivos `.MP4` deseados al disco **SSD interno** de tu PC o Mac, o utiliza un **lector de tarjetas USB 3.0 UHS-I**."
     },
     {
       "type": "callout",
       "variant": "tip",
-      "title": "Clave práctica de Garaje Listo sobre programa para ver videos de dash cam con gps",
-      "text": "Lectores recomendados (Dashcam Viewer y reproductores oficiales) y cómo unir los fragmentos de 1 o 3 minutos sin perder calidad. Verificar este punto te ahorrará tiempo, evitará averías costosas y alargará la vida útil de la batería, neumáticos y electrónica de tu auto."
+      "text": "Si necesitas presentar el recorrido ante un perito de seguros o juzgado sin entregar gigabytes de video, programas como Dashcam Viewer permiten exportar la telemetría del viaje a un archivo estándar `.GPX` o `.KML` de apenas unos kilobytes para abrirlo directamente sobre Google Earth Pro con cada punto de velocidad certificado.",
+      "title": "Exporta el archivo GPX para peritajes y aseguradoras"
     },
     {
       "type": "h2",
-      "text": "Procedimiento paso a paso para aplicar programa para ver videos de dash cam con gps"
-    },
-    {
-      "type": "p",
-      "text": "Sigue estos 4 pasos verificados para resolverlo de forma limpia, rápida y segura sin necesidad de herramientas complicadas:"
-    },
-    {
-      "type": "steps",
-      "items": [
-        {
-          "name": "Paso 1: Asegura el vehículo y verifica las condiciones iniciales",
-          "text": "Estaciona en una superficie plana e iluminada, coloca la transmisión en Park (o Primera/Neutro con freno de mano y calzos) y localiza en el marco de la puerta o manual del propietario el valor exacto para tu modelo."
-        },
-        {
-          "name": "Paso 2: Conecta tu equipo de medición o asistencia respetando el orden",
-          "text": "Ya sea conectando las pinzas anti-chispas de tu arrancador 12V, enroscando el cabezal de tu inflador digital o enchufando el escáner al puerto OBD2 bajo el volante, verifica que el acople sea firme antes de activar el equipo."
-        },
-        {
-          "name": "Paso 3: Comprueba la lectura digital y ejecuta el ajuste",
-          "text": "Observa el valor en pantalla (voltios, PSI, código DTC o encuadre de cámara) y aplica la corrección recomendada sin exceder los ciclos de trabajo ni los límites del fabricante."
-        },
-        {
-          "name": "Paso 4: Verifica el resultado y guarda tu equipo listo para la próxima vez",
-          "text": "Confirma que las luces de advertencia del tablero se hayan apagado o que la presión/voltaje sea estable, y devuelve el accesorio cargado a su estuche en la guantera o maletero."
-        }
-      ]
-    },
-    {
-      "type": "cta",
-      "text": "¿Tienes una consulta específica sobre programa para ver videos de dash cam con gps en el modelo y año de tu auto? Pregúntale gratis a nuestro Asesor Mecánico IA."
-    },
-    {
-      "type": "h2",
-      "text": "Errores frecuentes que debes evitar"
+      "text": "Cómo sincronizar las cámaras delantera y trasera en una sola ventana"
     },
     {
       "type": "ul",
       "items": [
-        "**Confiar en estimaciones a ojo sin medir:** tanto una batería a 12.0V como un neumático con 26 PSI parecen 'normales' a simple vista, pero están al borde de fallar en carretera.",
-        "**Usar accesorios sin protección electrónica:** evita cables pasa corriente baratos sin relé anti-chispas o cámaras con batería de litio que se hinchan al sol.",
-        "**Forzar el límite de 15 amperios de la toma de encendedor 12V:** para compresores de alto caudal de SUV/4x4, usa modelos que se conecten directo a la batería o inalámbricos de alta eficiencia.",
-        "**Esperar a que ocurra la emergencia para abrir la caja:** prueba y carga siempre tus accesorios en casa el día que los recibes."
+        "**Mantén intactos los nombres de archivo originales:** los reproductores GPS vinculan automáticamente la cámara delantera y la trasera porque ambos archivos comparten el mismo sello de fecha y hora diferenciándose solo por la letra final (por ejemplo, `2026_0815_143000_001F.MP4` y `2026_0815_143000_001R.MP4`). Si renombras uno de ellos, perderás la vista sincronizada **Picture-in-Picture (PiP)**.",
+        "**Conexión a internet activa en el ordenador:** aunque la cámara graba las coordenadas GPS por satélite sin internet, el programa en tu PC o Mac sí necesita conexión Wi-Fi en el momento de la reproducción para descargar los mosaicos cartográficos de **Google Maps** u **OpenStreetMap** donde dibuja el recorrido.",
+        "**Uso de la lupa digital fotograma a fotograma:** utiliza las teclas de avance por cuadro (`Frame Step`) y la herramienta de zoom del reproductor para ampliar matrículas, cuya lectura será mucho más limpia si previamente supiste [para qué sirve el filtro polarizador CPL en una dash cam y cómo calibrarlo](/camaras-dash-cam-y-seguridad/para-que-sirve-el-filtro-polarizador-cpl-en-una-dash-cam/).",
+        "**Verificación de huso horario (GMT/UTC):** si el mapa ubica tu auto en el lugar correcto pero el reloj marca varias horas de desfase, ajusta la zona horaria GMT en el menú de configuración de la cámara (por ejemplo, **GMT-5** o **GMT+1**)."
       ]
     },
     {
-      "type": "h2",
-      "text": "Qué accesorio de Amazon te recomendamos para solucionarlo"
-    },
-    {
-      "type": "p",
-      "text": "Para aplicar lo aprendido sobre **programa para ver videos de dash cam con gps** con total comodidad, revisa nuestra selección de **[los mejores arrancadores de batería portátiles](/mejores-accesorios-auto/mejores-arrancadores-de-bateria-portatiles-amazon/)**, **[los mejores infladores de neumáticos portátiles](/mejores-accesorios-auto/mejores-infladores-de-neumaticos-portatiles-auto/)** y **[las mejores cámaras Dash Cam 4K](/mejores-accesorios-auto/mejores-camaras-dash-cam-4k-frontal-y-trasera/)**. Justo debajo tienes las tarjetas con los modelos compatibles y enlaces directos para consultar el precio hoy en Amazon Estados Unidos."
+      "type": "cta",
+      "text": "Pregunta a nuestro Asesor IA qué cámaras incluyen módulo GPS en el soporte magnético y lector USB 3.0 en la caja, o consulta las tarjetas de Amazon integradas en esta página."
     }
   ],
   "faqs": [
     {
-      "q": "¿Cuál es la regla principal que debo recordar sobre programa para ver videos de dash cam con gps?",
-      "a": "Lectores recomendados (Dashcam Viewer y reproductores oficiales) y cómo unir los fragmentos de 1 o 3 minutos sin perder calidad. Además, realiza siempre las comprobaciones con herramientas digitales calibradas y siguiendo los valores de la etiqueta oficial de tu vehículo."
+      "q": "¿Por qué el programa reproduce el video pero la ventana del mapa GPS aparece en blanco?",
+      "a": "Primero asegúrate de que tu PC o Mac tenga conexión a internet para cargar la cartografía de OpenStreetMap o Google Maps. Si hay internet y el mapa sigue vacío, significa que el módulo GPS no está recibiendo energía (porque enchufaste el cable USB al cuerpo de la cámara en vez de al soporte GPS) o la cámara estaba dentro de un garaje subterráneo sin señal satelital."
     },
     {
-      "q": "¿Necesito conocimientos avanzados de mecánica para hacerlo yo mismo?",
-      "a": "No. Con los accesorios portátiles modernos (arrancadores con protección UltraSafe, infladores con Auto-Stop digital y escáneres OBD2 en español), cualquier conductor puede realizarlo en menos de 5 minutos."
+      "q": "¿Es obligatorio meter la tarjeta MicroSD entera en el PC para que se vea el mapa GPS?",
+      "a": "No es indispensable, pero debes copiar la pareja exacta de archivos (frontal F y trasero R) a una misma carpeta del disco duro sin cambiarles el nombre. Además, si tu cámara guarda archivos separados con extensión .GPS o .NMEA en una carpeta paralela de la tarjeta, también debes copiar esa carpeta al ordenador."
     },
     {
-      "q": "¿Qué herramientas o accesorios básicos debería llevar siempre en el auto?",
-      "a": "El kit esencial recomendado por Garaje Listo consta de 4 elementos: un arrancador de batería de litio (1000A–2000A), un inflador portátil digital de 150 PSI, una cámara Dash Cam con supercondensador y un lector OBD2 en la guantera."
-    }
-  ],
-  "sources": [
-    {
-      "label": "NHTSA – Vehicle Maintenance & Roadside Safety",
-      "url": "https://www.nhtsa.gov/"
-    },
-    {
-      "label": "SAE International – Automotive Technical Standards",
-      "url": "https://www.sae.org/"
+      "q": "¿Puedo ocultar mi velocidad en el video de la dash cam pero seguir grabando la ubicación?",
+      "a": "Sí. En el menú de todas las cámaras con GPS puedes desactivar individualmente el sello de velocidad (Speed Stamp) para que no aparezca impreso en el video, o apagar por completo el receptor GPS si prefieres que solo registre imagen sin guardar coordenadas ni velocidad en los metadatos."
     }
   ],
   "related": [
-    "/camaras-dash-cam-y-seguridad/",
-    "/camaras-dash-cam-y-seguridad/como-ocultar-el-cable-de-la-dash-cam-por-el-pilar-a-y-airbag/",
-    "/camaras-dash-cam-y-seguridad/como-limpiar-la-lente-de-la-dash-cam-y-el-interior-del-parabrisas/",
-    "/mejores-accesorios-auto/mejores-arrancadores-de-bateria-portatiles-amazon/"
+    "/camaras-dash-cam-y-seguridad/como-instalar-hardwire-kit-dash-cam-en-la-caja-de-fusibles/",
+    "/camaras-dash-cam-y-seguridad/para-que-sirve-el-filtro-polarizador-cpl-en-una-dash-cam/",
+    "/camaras-dash-cam-y-seguridad/como-pasar-el-cable-de-la-camara-trasera-en-un-suv-o-hatchback/",
+    "/camaras-dash-cam-y-seguridad/cuantas-horas-graba-una-tarjeta-microsd-de-128gb-y-256gb-en-4k/"
   ],
   "datePublished": "2026-11-22",
-  "dateModified": "2026-11-22"
+  "dateModified": "2026-11-25",
+  "imageUrl": "/img/articulos/como-reproducir-videos-de-dash-cam-con-mapa-gps-en-pc-o-mac.webp"
 }

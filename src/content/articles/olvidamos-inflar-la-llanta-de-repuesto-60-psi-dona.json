@@ -4,161 +4,123 @@
   "path": "/infladores-y-neumaticos/olvidamos-inflar-la-llanta-de-repuesto-60-psi-dona/",
   "isPillar": false,
   "isTransactional": false,
+  "llmAuthored": true,
   "primaryKeyword": "cuantos psi lleva la llanta de repuesto tipo dona",
   "title": "Por Qué Tu Llanta de Repuesto Temporal ('Dona') Necesita 60 PSI y No 35 PSI",
-  "seoTitle": "Por Qué Tu Llanta de Repuesto Temporal ('Dona') Necesita 60 PSI y No 35 PSI | Guía Garaje Listo",
-  "metaDescription": "Por Qué Tu Llanta de Repuesto Temporal ('Dona') Necesita 60 PSI y No 35 PSI: Las ruedas de emergencia compactas (T-Type) pierden presión en el maletero y requieren 60 PSI para soportar el peso del vehículo sin desllantar. Guía paso a paso en español, tabla técnica y accesorios recomendados en Amazon.",
-  "excerpt": "Las ruedas de emergencia compactas (T-Type) pierden presión en el maletero y requieren 60 PSI para soportar el peso del vehículo sin desllantar.",
-  "quickAnswer": "Respecto a cuantos psi lleva la llanta de repuesto tipo dona: Las ruedas de emergencia compactas (T-Type) pierden presión en el maletero y requieren 60 PSI para soportar el peso del vehículo sin desllantar. Para hacerlo con total seguridad, verifica siempre las especificaciones de tu vehículo (12V, etiqueta de PSI en el marco de la puerta o código OBD2) y utiliza accesorios con protección electrónica y apagado automático.",
-  "readingMinutes": 7,
+  "seoTitle": "Por Qué Tu Llanta de Repuesto Temporal ('Dona') Necesita 60 PSI y No 35 PSI | garajelisto.com",
+  "metaDescription": "Entiende por qué la llanta de repuesto temporal tipo dona necesita 60 PSI en lugar de 35 PSI, cuánta presión pierde al año y cómo mantenerla lista.",
+  "excerpt": "El error más frecuente en emergencias de carretera es montar una rueda auxiliar compacta desinflada. Revisamos la física detrás de sus 60 PSI obligatorios y sus límites de velocidad.",
+  "quickAnswer": "La llanta de repuesto temporal compacta (**tipo dona**, identificada con el prefijo **T** en el flanco) requiere **60 PSI (4.14 BAR / 420 kPa)** porque tiene menos de la mitad del volumen de aire y de ancho de huella que un neumático normal, pero debe sostener el mismo peso del vehículo. Al perder entre **1 y 1.5 PSI al mes** guardada en el maletero, debes revisarla al menos dos veces al año.",
+  "readingMinutes": 6,
   "image": {
-    "prompt": "Editorial automotive photography in a clean modern residential garage: Las ruedas de emergencia compactas (T-Type) pierden presión en el maletero y requieren 60 PSI para soportar el peso del vehículo sin desllantar., featuring modern car accessories and tools, natural daylight",
+    "prompt": "Dynamic action-ready placement on clean counter surface with subtle reflections: realistic scene illustrating 'Por Qué Tu Llanta de Repuesto Temporal ('Dona') Necesita 60 PSI y No 35 PSI' (cuantos psi lleva la llanta de repuesto tipo dona) for garajelisto.com, featuring equipment in deep navy blue with satin metallic trim, on a warm walnut table beside a sunlit window, sunlit contemporary room with gentle ambient bounce light. Photorealistic authentic details, natural proportions, zero text, zero letters, zero logos, zero watermarks.",
     "alt": "Por Qué Tu Llanta de Repuesto Temporal ('Dona') Necesita 60 PSI y No 35 PSI"
   },
   "blocks": [
     {
       "type": "p",
-      "text": "Para cualquier conductor que quiera mantener su vehículo fiable y seguro, comprender **cuantos psi lleva la llanta de repuesto tipo dona** es una de las habilidades más útiles tanto en el garaje de casa como en carretera. Las ruedas de emergencia compactas (T-Type) pierden presión en el maletero y requieren 60 PSI para soportar el peso del vehículo sin desllantar."
-    },
-    {
-      "type": "p",
-      "text": "En esta guía práctica del silo de **[Infladores Y Neumaticos](/infladores-y-neumaticos/)** en **GarajeListo.com**, explicamos paso a paso el funcionamiento técnico, los valores exactos que debes comprobar y qué accesorios probados en Amazon —como el arrancador **[NOCO Boost Plus GB40](/resenas-accesorios-auto/noco-boost-plus-gb40-1000a/)**, el inflador **[Fanttik X8 Apex](/resenas-accesorios-auto/fanttik-x8-apex-inflador-portatil/)**, la cámara **[VIOFO A229 Plus](/resenas-accesorios-auto/viofo-a229-plus-dash-cam-starvis-2/)** o el escáner **[BlueDriver Pro OBD2](/resenas-accesorios-auto/bluedriver-bluetooth-pro-obd2/)**— te facilitan el trabajo."
+      "text": "Sufres un corte irreparable en una llanta un domingo por la noche, abres el maletero, levantas la alfombra y sacas la rueda auxiliar compacta que viene de fábrica sin estrenar. Montas el gato, cambias la rueda en veinte minutos y, en el instante en que bajas el auto al suelo, la pequeña rueda de emergencia queda completamente aplastada contra el pavimento, con la llanta metálica casi tocando el asfalto. Aunque nunca se usó, esa rueda auxiliar lleva cuatro años perdiendo aire en silencio y tiene apenas **15 PSI** en lugar de los **60 PSI (4.2 BAR / 420 kPa)** que exige para sostener tu vehículo."
     },
     {
       "type": "h2",
-      "text": "Fundamento técnico y por qué ocurre: cuantos psi lleva la llanta de repuesto tipo dona"
+      "text": "La física de los 60 PSI: mitad de volumen de aire para soportar los mismos 450 kg"
     },
     {
       "type": "p",
-      "text": "En los vehículos actuales con sistema eléctrico de 12V, sensores TPMS, redes CAN-Bus y electrónica sensible, improvisar puede salir caro. Entender cómo funciona **cuantos psi lleva la llanta de repuesto tipo dona** te permite tomar decisiones basadas en datos reales (voltios, amperios, PSI o códigos de diagnóstico) en lugar de adivinar o cambiar piezas sin necesidad."
+      "text": "¿Por qué las cuatro ruedas titulares de tu sedán o SUV trabajan a **32 o 35 PSI** mientras que la rueda temporal —identificada con la letra **T** al inicio de su medida, como **T125/80 D16** o **T135/90 R17**— pide casi el doble de presión? La respuesta está en la ecuación de superficie de contacto: **Carga soportada = Presión interna × Área de la huella**. Una rueda estrecha tipo *dona* o *galleta* mide apenas **125 o 135 mm** de ancho (frente a los **215 o 235 mm** de tu neumático normal) y tiene una cámara de aire diminuta con una carcasa diagonal o radial ultraligera de pocas lonas para ahorrar peso y espacio en el baúl. Para evitar que los **400 a 550 kg** de peso de esa esquina del vehículo aplasten el talón o destrocen la carcasa por sobrecalentamiento, necesita compensar su pequeña huella con una presión interna rígida de **60 PSI**. Por eso recomendamos incluir siempre el maletero dentro de tu calendario sobre [cada cuánto tiempo debes revisar la presión de los neumáticos](/infladores-y-neumaticos/cada-cuanto-tiempo-revisar-la-presion-de-las-llantas/)."
+    },
+    {
+      "type": "h2",
+      "text": "Ósmosis natural: por qué tu rueda de repuesto pierde de 12 a 18 PSI cada año sin tocarla"
+    },
+    {
+      "type": "p",
+      "text": "Ningún neumático es cien por cien impermeable a nivel molecular. Incluso con una válvula Schrader nueva y sin ningún clavo, las moléculas de oxígeno y nitrógeno del aire comprimido atraviesan lentamente el revestimiento interno de caucho halobutílico por **permeación u ósmosis**, a un ritmo natural de **1 a 1.5 PSI por mes**. Como la rueda tipo dona parte de una presión muy alta (**60 PSI**) y tiene muy poco volumen total de aire, esa pequeña fuga molecular mensual provoca una caída drástica en el manómetro: tras **24 meses** guardada bajo la tapa del maletero, la presión habrá bajado a unos **28 o 32 PSI**, y a los **3 años** estará por debajo de **20 PSI**. Si llevas un compresor portátil a batería, conviene saber [cuánto tarda en cargarse un inflador inalámbrico por USB-C y cuántas ruedas infla por carga](/infladores-y-neumaticos/cuanto-tarda-en-cargarse-por-usb-c-un-inflador-de-neumaticos-a-bateria/) para asegurarte de que tenga energía suficiente para empujar hasta esos **60 PSI** en plena emergencia."
     },
     {
       "type": "table",
-      "caption": "Valores de referencia y diagnóstico rápido para: cuantos psi lleva la llanta de repuesto tipo dona",
       "headers": [
-        "Parámetro / Criterio",
-        "Valor o Ajuste Recomendado",
-        "Beneficio Directo en tu Auto"
+        "Parámetro Técnico",
+        "Llanta Temporal Tipo 'Dona' (Prefijo T)",
+        "Neumático Titular Estándar (Prefijo P / Métrico)"
       ],
       "rows": [
         [
-          "Principio técnico clave",
-          "Las ruedas de emergencia compactas (T-Type) pierden presión en el maletero y requieren 60 PSI para soportar el peso del vehículo sin desllantar.",
-          "Previene errores y protege la electrónica del vehículo"
+          "Presión de inflado en frío",
+          "60 PSI (4.14 BAR / 420 kPa)",
+          "30 a 36 PSI (2.1 a 2.5 BAR / 210–250 kPa)"
         ],
         [
-          "Voltaje batería 12V sana",
-          "12.6V en reposo / 13.8V–14.4V en marcha",
-          "Garantiza arranque en frío y carga correcta del alternador"
+          "Velocidad máxima permitida",
+          "Máximo 50 mph (80 km/h) estrictos",
+          "118 a 149 mph (190 a 240 km/h según código T, H, V)"
         ],
         [
-          "Presión de neumáticos (PSI)",
-          "Medir siempre en frío según etiqueta del pilar B",
-          "Optimiza frenado, consumo y vida útil de la banda de rodadura"
+          "Autonomía o distancia máxima de uso",
+          "50 a 70 millas (80 a 110 km) hasta una llantera",
+          "40,000 a 60,000 millas de vida útil"
         ],
         [
-          "Protección en grabaciones 4K",
-          "Supercondensador + Corte Hardwire a 12.2V",
-          "Resiste hasta 70 °C al sol sin descargar la batería principal"
+          "Profundidad inicial del dibujo nuevo",
+          "3.2 a 4.0 mm (4/32\" a 5/32\") sin canales profundos",
+          "8.0 a 9.5 mm (10/32\" a 12/32\") para evacuar agua"
         ],
         [
-          "Seguridad en mantenimiento DIY",
-          "Caballetes (Jack Stands) + Llave dinamométrica",
-          "100% de estabilidad y par de apriete exacto en lb-ft"
+          "Eje de montaje recomendado en emergencia",
+          "Preferiblemente en el eje trasero (no direccional)",
+          "Cualquier posición según rotación regular"
         ]
+      ],
+      "caption": "Diferencias operativas: Llanta de Repuesto Temporal ('Dona' Tipo T) vs. Neumático Estándar"
+    },
+    {
+      "type": "h2",
+      "text": "Reglas de seguridad mecánica al conducir con una llanta temporal de 60 PSI"
+    },
+    {
+      "type": "p",
+      "text": "Rodar con una rueda tipo dona instalada altera la geometría de frenado, la lectura de los sensores de velocidad de rueda del **ABS / ESP** y el trabajo del diferencial mecánico. Si consultas nuestro centro técnico de [infladores y neumáticos](/infladores-y-neumaticos/), verás que llegar a **60 PSI** requiere un compresor con cilindro metálico solvente (el **Fanttik X8 Apex**, por ejemplo, alcanza hasta **150 PSI**, por lo que sube una dona de **25 a 60 PSI** en apenas **2 minutos** gracias a su escaso volumen de aire). Una vez inflada a **60 PSI**, respeta estas limitaciones de ingeniería:"
+    },
+    {
+      "type": "ul",
+      "items": [
+        "**No superes jamás las 50 mph (80 km/h):** La carcasa de una rueda tipo T tiene una disipación térmica mínima y un diámetro exterior ligeramente inferior; pasar de **80 km/h** recalienta el caucho y fuerza los satélites del diferencial si va montada en un eje motriz.",
+        "**Cuidado especial en vehículos AWD (Tracción Integral Permanente) o con diferencial LSD:** En autos como Subaru, Audi Quattro o SUVs AWD, una diferencia de diámetro entre las dos ruedas de un mismo eje hace trabajar continuamente el acoplamiento viscoso o embrague central. Si pinchas una rueda delantera en un auto de tracción delantera, lo ideal mecánicamente es pasar una rueda trasera sana adelante y montar la dona atrás.",
+        "**Frenado y curvas sobre mojado:** Con sólo **125 mm** de ancho y **3.5 mm** de dibujo, la adherencia lateral y la capacidad de frenada en pavimento húmedo se reducen a menos de la mitad; duplica tu distancia de seguimiento."
       ]
     },
     {
       "type": "callout",
       "variant": "tip",
-      "title": "Clave práctica de Garaje Listo sobre cuantos psi lleva la llanta de repuesto tipo dona",
-      "text": "Las ruedas de emergencia compactas (T-Type) pierden presión en el maletero y requieren 60 PSI para soportar el peso del vehículo sin desllantar. Verificar este punto te ahorrará tiempo, evitará averías costosas y alargará la vida útil de la batería, neumáticos y electrónica de tu auto."
-    },
-    {
-      "type": "h2",
-      "text": "Procedimiento paso a paso para aplicar cuantos psi lleva la llanta de repuesto tipo dona"
-    },
-    {
-      "type": "p",
-      "text": "Sigue estos 4 pasos verificados para resolverlo de forma limpia, rápida y segura sin necesidad de herramientas complicadas:"
-    },
-    {
-      "type": "steps",
-      "items": [
-        {
-          "name": "Paso 1: Asegura el vehículo y verifica las condiciones iniciales",
-          "text": "Estaciona en una superficie plana e iluminada, coloca la transmisión en Park (o Primera/Neutro con freno de mano y calzos) y localiza en el marco de la puerta o manual del propietario el valor exacto para tu modelo."
-        },
-        {
-          "name": "Paso 2: Conecta tu equipo de medición o asistencia respetando el orden",
-          "text": "Ya sea conectando las pinzas anti-chispas de tu arrancador 12V, enroscando el cabezal de tu inflador digital o enchufando el escáner al puerto OBD2 bajo el volante, verifica que el acople sea firme antes de activar el equipo."
-        },
-        {
-          "name": "Paso 3: Comprueba la lectura digital y ejecuta el ajuste",
-          "text": "Observa el valor en pantalla (voltios, PSI, código DTC o encuadre de cámara) y aplica la corrección recomendada sin exceder los ciclos de trabajo ni los límites del fabricante."
-        },
-        {
-          "name": "Paso 4: Verifica el resultado y guarda tu equipo listo para la próxima vez",
-          "text": "Confirma que las luces de advertencia del tablero se hayan apagado o que la presión/voltaje sea estable, y devuelve el accesorio cargado a su estuche en la guantera o maletero."
-        }
-      ]
+      "text": "En la mayoría de los vehículos la llanta tipo dona se guarda bajo el piso del maletero con la cara exterior (y la válvula Schrader) mirando hacia abajo contra la chapa. Cuando la saques una vez al año para limpiar el baúl, dale la vuelta o instala un latiguillo extensor flexible de válvula de 15 cm para poder medir e inflar los 60 PSI sin desmontar el tornillo central de sujeción.",
+      "title": "Consejo práctico para medir la rueda auxiliar sin sacarla del hueco"
     },
     {
       "type": "cta",
-      "text": "¿Tienes una consulta específica sobre cuantos psi lleva la llanta de repuesto tipo dona en el modelo y año de tu auto? Pregúntale gratis a nuestro Asesor Mecánico IA."
-    },
-    {
-      "type": "h2",
-      "text": "Errores frecuentes que debes evitar"
-    },
-    {
-      "type": "ul",
-      "items": [
-        "**Confiar en estimaciones a ojo sin medir:** tanto una batería a 12.0V como un neumático con 26 PSI parecen 'normales' a simple vista, pero están al borde de fallar en carretera.",
-        "**Usar accesorios sin protección electrónica:** evita cables pasa corriente baratos sin relé anti-chispas o cámaras con batería de litio que se hinchan al sol.",
-        "**Forzar el límite de 15 amperios de la toma de encendedor 12V:** para compresores de alto caudal de SUV/4x4, usa modelos que se conecten directo a la batería o inalámbricos de alta eficiencia.",
-        "**Esperar a que ocurra la emergencia para abrir la caja:** prueba y carga siempre tus accesorios en casa el día que los recibes."
-      ]
-    },
-    {
-      "type": "h2",
-      "text": "Qué accesorio de Amazon te recomendamos para solucionarlo"
-    },
-    {
-      "type": "p",
-      "text": "Para aplicar lo aprendido sobre **cuantos psi lleva la llanta de repuesto tipo dona** con total comodidad, revisa nuestra selección de **[los mejores arrancadores de batería portátiles](/mejores-accesorios-auto/mejores-arrancadores-de-bateria-portatiles-amazon/)**, **[los mejores infladores de neumáticos portátiles](/mejores-accesorios-auto/mejores-infladores-de-neumaticos-portatiles-auto/)** y **[las mejores cámaras Dash Cam 4K](/mejores-accesorios-auto/mejores-camaras-dash-cam-4k-frontal-y-trasera/)**. Justo debajo tienes las tarjetas con los modelos compatibles y enlaces directos para consultar el precio hoy en Amazon Estados Unidos."
+      "text": "No descubras que tu rueda de repuesto está a 15 PSI en medio de la noche: revisa en las tarjetas de Amazon de esta página los infladores portátiles capaces de alcanzar 60 PSI sin esfuerzo o consulta con nuestro Asesor IA cuál llevar siempre en tu maletero."
     }
   ],
   "faqs": [
     {
-      "q": "¿Cuál es la regla principal que debo recordar sobre cuantos psi lleva la llanta de repuesto tipo dona?",
-      "a": "Las ruedas de emergencia compactas (T-Type) pierden presión en el maletero y requieren 60 PSI para soportar el peso del vehículo sin desllantar. Además, realiza siempre las comprobaciones con herramientas digitales calibradas y siguiendo los valores de la etiqueta oficial de tu vehículo."
+      "q": "¿Qué pasa si inflo mi llanta de repuesto tipo dona a 35 PSI como las demás ruedas?",
+      "a": "Es extremadamente peligroso. Con sólo **35 PSI**, una llanta temporal estrecha se flexiona excesivamente bajo el peso del auto, la llanta metálica puede golpear el asfalto en cualquier bache y la pared lateral se recalentará hasta desintegrarse o destalonar en pocos kilómetros."
     },
     {
-      "q": "¿Necesito conocimientos avanzados de mecánica para hacerlo yo mismo?",
-      "a": "No. Con los accesorios portátiles modernos (arrancadores con protección UltraSafe, infladores con Auto-Stop digital y escáneres OBD2 en español), cualquier conductor puede realizarlo en menos de 5 minutos."
+      "q": "¿Todas las llantas de repuesto llevan 60 PSI o sólo las finas tipo galleta?",
+      "a": "No todas. Sólo las llantas temporales compactas (cuya medida empieza por la letra **T**, como **T125/70 D17**) llevan **60 PSI**. Si tu camioneta o sedán trae una **rueda de repuesto de tamaño completo** idéntica a las cuatro titulares, debe inflarse a la misma presión normal de **32 a 36 PSI** indicada en la puerta."
     },
     {
-      "q": "¿Qué herramientas o accesorios básicos debería llevar siempre en el auto?",
-      "a": "El kit esencial recomendado por Garaje Listo consta de 4 elementos: un arrancador de batería de litio (1000A–2000A), un inflador portátil digital de 150 PSI, una cámara Dash Cam con supercondensador y un lector OBD2 en la guantera."
-    }
-  ],
-  "sources": [
-    {
-      "label": "NHTSA – Vehicle Maintenance & Roadside Safety",
-      "url": "https://www.nhtsa.gov/"
-    },
-    {
-      "label": "SAE International – Automotive Technical Standards",
-      "url": "https://www.sae.org/"
+      "q": "¿Por qué la luz TPMS del tablero no me avisa cuando la llanta de repuesto baja de presión?",
+      "a": "Porque las ruedas temporales tipo dona **no incluyen sensor TPMS interno** en su válvula (para reducir costes y porque no están diseñadas para rodar de forma permanente). Por eso el computador del vehículo jamás te avisará si la rueda guardada en el baúl se ha quedado sin aire."
     }
   ],
   "related": [
-    "/infladores-y-neumaticos/",
-    "/infladores-y-neumaticos/que-pasa-si-conduces-con-presion-baja-en-las-llantas/",
-    "/infladores-y-neumaticos/cuando-NO-se-puede-reparar-un-neumatico-pinchado-flanco/",
-    "/mejores-accesorios-auto/mejores-arrancadores-de-bateria-portatiles-amazon/"
+    "/infladores-y-neumaticos/como-desinflar-y-volver-a-inflar-llantas-para-conducir-en-arena-o-nieve/",
+    "/infladores-y-neumaticos/como-medir-la-profundidad-del-dibujo-del-neumatico-prueba-del-centavo/",
+    "/infladores-y-neumaticos/cuanto-tarda-en-cargarse-por-usb-c-un-inflador-de-neumaticos-a-bateria/",
+    "/infladores-y-neumaticos/cada-cuanto-tiempo-revisar-la-presion-de-las-llantas/"
   ],
   "datePublished": "2026-11-22",
-  "dateModified": "2026-11-22"
+  "dateModified": "2026-11-25",
+  "imageUrl": "/img/articulos/olvidamos-inflar-la-llanta-de-repuesto-60-psi-dona.webp"
 }

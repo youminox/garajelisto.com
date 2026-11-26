@@ -17,8 +17,6 @@ export interface AmazonProductRecommendation {
   title: string;
   subtitle: string;
   features: string[];
-  rating: string;
-  reviewsCount: string;
   categoryType: AmazonCategoryType;
   specs?: {
     power: string;
@@ -101,8 +99,6 @@ export const CATALOG: Record<string, AmazonProductRecommendation> = {
       "Tecnología patentada UltraSafe: cero chispas al conectar y bloqueo automático si inviertes los bornes por error",
       "Funciona como Powerbank USB para tu celular y linterna LED de emergencia con 7 modos (incluyendo SOS y estroboscópico)",
     ],
-    rating: "4.7",
-    reviewsCount: "98.500+",
     categoryType: "jump-starter",
     specs: {
       power: "1000A Pico (24 Wh)",
@@ -125,8 +121,6 @@ export const CATALOG: Record<string, AmazonProductRecommendation> = {
       "Incluye puerto de salida de 12V (15A) para alimentar compresores e infladores de neumáticos pesados",
       "Linterna de trabajo de 400 lúmenes, protección UltraSafe y hasta 40 arranques por carga",
     ],
-    rating: "4.8",
-    reviewsCount: "29.400+",
     categoryType: "jump-starter",
     specs: {
       power: "2000A Pico (56 Wh)",
@@ -149,8 +143,6 @@ export const CATALOG: Record<string, AmazonProductRecommendation> = {
       "Entrada y salida USB-C Power Delivery de 60W: recarga completa en 48 minutos y carga laptops o tablets",
       "Tecnología UltraSafe 2.0 con gestión térmica mejorada y temporizador automático de 60 segundos",
     ],
-    rating: "4.6",
-    reviewsCount: "11.200+",
     categoryType: "jump-starter",
     specs: {
       power: "1250A Extreme (31 Wh)",
@@ -173,8 +165,6 @@ export const CATALOG: Record<string, AmazonProductRecommendation> = {
       "Batería de 99.2 Wh (apta para cabina de avión <100 Wh) con puerto USB-C 15W, doble USB Quick Charge y salida 15V/10A",
       "10 protecciones integradas SuperSafe contra chispas, cortocircuito, sobrecorriente y polaridad inversa",
     ],
-    rating: "4.6",
-    reviewsCount: "16.800+",
     categoryType: "jump-starter",
     specs: {
       power: "4000A Pico (99.2 Wh)",
@@ -197,8 +187,6 @@ export const CATALOG: Record<string, AmazonProductRecommendation> = {
       "Pantalla LCD clara con porcentaje exacto de batería y estado de salida de los puertos USB QC 3.0",
       "Incluye estuche rígido resistente al agua, pinzas inteligentes con indicador sonoro y linterna LED de 3 modos",
     ],
-    rating: "4.6",
-    reviewsCount: "12.500+",
     categoryType: "jump-starter",
     specs: {
       power: "6000A Pico (118.4 Wh)",
@@ -221,8 +209,6 @@ export const CATALOG: Record<string, AmazonProductRecommendation> = {
       "Batería interna de alta descarga que infla 4 neumáticos de 0 a 35 PSI con una sola carga sin necesidad de cables",
       "Manguera con conector rápido anticongelante y 4 modos preajustados (Auto, Moto, Bicicleta y Balón) + función Powerbank y linterna",
     ],
-    rating: "4.7",
-    reviewsCount: "14.300+",
     categoryType: "tire-inflator",
     specs: {
       power: "150 PSI · 56 s (28→33 PSI)",
@@ -245,8 +231,6 @@ export const CATALOG: Record<string, AmazonProductRecommendation> = {
       "Ciclo de trabajo continuo de 25 minutos a 30 PSI con cilindro disipador de aluminio y manómetro integrado",
       "Cable de alimentación de 3 metros + manguera de aire de 4.8 metros que alcanza las 4 ruedas de cualquier Pickup",
     ],
-    rating: "4.7",
-    reviewsCount: "19.600+",
     categoryType: "tire-inflator",
     specs: {
       power: "120 PSI · 1.47 CFM (41.6 L/m)",
@@ -260,7 +244,7 @@ export const CATALOG: Record<string, AmazonProductRecommendation> = {
   },
   ASTROAI_INFLATOR: {
     id: "astroai-tire-inflator",
-    badge: "💵 Mejor Inflador Económico < $45 · 54.000+ Reseñas",
+    badge: "💵 Mejor Inflador Económico precio variable en Amazon · 54.000+ Reseñas",
     title: "AstroAI Portable Tire Inflator — Compresor de Aire Digital 150 PSI con Apagado Automático y Luz LED",
     subtitle:
       "La compra inteligente y económica para llevar siempre en el maletero: se enchufa a la toma de 12V del auto, marcas los PSI de tu puerta y corta solo al terminar.",
@@ -269,8 +253,6 @@ export const CATALOG: Record<string, AmazonProductRecommendation> = {
       "Cable de 12V de 3 metros que llega cómodamente a las 4 ruedas de cualquier sedán o crossover",
       "Incluye boquillas adaptadoras para bicicletas, colchonetas y balones deportivos + fusible de repuesto",
     ],
-    rating: "4.5",
-    reviewsCount: "54.000+",
     categoryType: "tire-inflator",
     specs: {
       power: "150 PSI · 35 L/min",
@@ -293,8 +275,6 @@ export const CATALOG: Record<string, AmazonProductRecommendation> = {
       "6 modos preconfigurados con presión inteligente y puerto de carga universal USB-C",
       "Ideal para mantener la presión mensual del auto y para motocicletas, scooters y bicicletas de ruta",
     ],
-    rating: "4.7",
-    reviewsCount: "8.900+",
     categoryType: "tire-inflator",
     specs: {
       power: "150 PSI · +25% Velocidad",
@@ -317,8 +297,6 @@ export const CATALOG: Record<string, AmazonProductRecommendation> = {
       "Supercondensador de grado automotriz (sin batería de litio que se hinche) que resiste el sol de verano hasta 70 °C",
       "Wi-Fi ultrarrápido de 5 GHz, GPS de 4 satélites integrado en el soporte, control por voz y Modo Parking 24h (con kit HK4)",
     ],
-    rating: "4.6",
-    reviewsCount: "4.900+",
     categoryType: "dash-cam",
     specs: {
       power: "2K+2K Dual Sony STARVIS 2",
@@ -341,8 +319,6 @@ export const CATALOG: Record<string, AmazonProductRecommendation> = {
       "Incluye tarjeta MicroSD en la caja, módulo GPS para registrar ruta y velocidad, y conexión Wi-Fi con App iOS/Android",
       "Alimentada por supercondensador resistente a temperaturas extremas (-20 °C a 70 °C) con G-Sensor de bloqueo de colisión",
     ],
-    rating: "4.5",
-    reviewsCount: "38.200+",
     categoryType: "dash-cam",
     specs: {
       power: "4K UHD Frontal + 1080P Trasera",
@@ -365,8 +341,6 @@ export const CATALOG: Record<string, AmazonProductRecommendation> = {
       "Modo Parking con buffer de detección de movimiento que guarda los 10 segundos previos a cualquier golpe o intento de robo",
       "Supercondensador de alta durabilidad, soporte magnético, comandos de voz, Wi-Fi 5GHz y soporte hasta 512GB MicroSD",
     ],
-    rating: "4.6",
-    reviewsCount: "6.400+",
     categoryType: "dash-cam",
     specs: {
       power: "3 Canales: 4K + 1080P IR + 1080P",
@@ -389,8 +363,6 @@ export const CATALOG: Record<string, AmazonProductRecommendation> = {
       "Diagnóstico avanzado de módulos propietarios (ABS, Airbag, Transmisión) en Ford, GM, Toyota, Honda, Chrysler, BMW y más",
       "Monitoreo de datos en vivo (Live Data), prueba de Smog Check (I/M Readiness) y aplicación 100% gratuita sin suscripción",
     ],
-    rating: "4.7",
-    reviewsCount: "59.800+",
     categoryType: "obd2-scanner",
     specs: {
       power: "Motor + ABS + Airbag + Trans.",
@@ -404,7 +376,7 @@ export const CATALOG: Record<string, AmazonProductRecommendation> = {
   },
   ANCEL_AD310: {
     id: "ancel-ad310",
-    badge: "💵 Mejor Escáner OBD2 Económico < $30 · En Español",
+    badge: "💵 Mejor Escáner OBD2 Económico precio variable en Amazon · En Español",
     title: "ANCEL AD310 Classic Enhanced Universal OBD II Scanner — Lector de Códigos Check Engine en Español",
     subtitle:
       "El escáner con cable más fiable y económico de Amazon: no necesita baterías ni celular, se enchufa bajo el volante y muestra el fallo en español en 5 segundos.",
@@ -413,8 +385,6 @@ export const CATALOG: Record<string, AmazonProductRecommendation> = {
       "Verifica al instante el estado de los monitores de emisiones (I/M Readiness) antes de llevar tu auto a la inspección anual",
       "Pantalla LCD retroiluminada con menú completo en español, lectura de VIN, Freeze Frame y flujo de datos en vivo",
     ],
-    rating: "4.7",
-    reviewsCount: "48.900+",
     categoryType: "obd2-scanner",
     specs: {
       power: "Check Engine + Live Data + I/M",
@@ -437,8 +407,6 @@ export const CATALOG: Record<string, AmazonProductRecommendation> = {
       "Modo de reparación por pulsos de alta frecuencia para recuperar baterías sulfatadas + Modo Force para cargar desde 1 voltio",
       "Sensor térmico integrado que ajusta la curva de carga en invierno y verano automáticamente",
     ],
-    rating: "4.7",
-    reviewsCount: "62.500+",
     categoryType: "battery-charger",
     specs: {
       power: "5 Amperios (Hasta 120 Ah)",
@@ -461,8 +429,6 @@ export const CATALOG: Record<string, AmazonProductRecommendation> = {
       "Diseño 4-en-1: aspiradora de interior, soplador de aire comprimido para rieles, inflador de bolsas y bomba de vacío",
       "Vaciado de depósito en un clic sin ensuciarse las manos, filtro HEPA metálico lavable y carga rápida USB-C",
     ],
-    rating: "4.6",
-    reviewsCount: "5.200+",
     categoryType: "garage-tool",
     specs: {
       power: "19.000 Pa Motor Brushless",
